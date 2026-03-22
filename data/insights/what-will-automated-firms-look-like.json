@@ -1,0 +1,67 @@
+{
+  "guest_name": "Peter Salaba",
+  "expertise_area": "AI-generated video production and multimedia storytelling",
+  "episode_title": "The Future of AI Firms",
+  "key_insights": [
+    {
+      "insight": "AI's collective advantage stems from being digital, allowing unlimited copying of workers and turning capital into compute and compute into labor.",
+      "quote": "But that just underestimates the real collective edge AIs will have, which has nothing to do with raw IQ, but rather with the fact that they are digital.",
+      "importance": "high"
+    },
+    {
+      "insight": "A central AI (e.g., Mega Steve) can learn from millions of distilled copies, creating a unified hive mind that shares knowledge instantly.",
+      "quote": "Now, imagine Mega Steve, the central AI that will direct our future AI firm. Mega Steve might learn from everything seen by the millions of distilled Steve Apparachics.",
+      "importance": "high"
+    },
+    {
+      "insight": "AI firms possess evolvability through perfect replication, unlike human firms limited by non-copyable human talent.",
+      "quote": "The most profound difference between AI firms and human firms will be their evolvability, as Gwern Brandwin observes.",
+      "importance": "high"
+    },
+    {
+      "insight": "The marginal cost of copying top-tier AI talent is negligible, making compute the primary limiting factor.",
+      "quote": "Once you've got one, the marginal copy costs pennies. Need a thousand world-class researchers. Just spin them up.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Market feedback is essential to prevent large AI firms from drifting away from reality due to internal planning biases.",
+      "quote": "While internal planning can be more efficient than market competition in the short term, it needs to be balanced by some slower but unbiased external feedback. A company that grows too large risks having its internal goals drift away from market reality.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "Digital labor copying and capital-to-compute transformation",
+    "Mega Steve AGI hive mind and knowledge melding",
+    "Evolvability of AI firms versus human firms",
+    "Compute as the limiting factor for AI talent",
+    "Market feedback as an external check on AI firm growth"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Invest heavily in scalable compute infrastructure to enable mass copying of AI workers.",
+      "how_to": "Allocate capital to build or lease data centers, acquire advanced chips, and secure renewable energy sources."
+    },
+    {
+      "advice": "Design AI systems with modular, copyable architectures that use latent representation communication for seamless knowledge sharing.",
+      "how_to": "Adopt standardized model interfaces, implement shared latent spaces, and use distillation techniques to create specialized copies."
+    },
+    {
+      "advice": "Incorporate market-based performance metrics into AI firm governance to prevent internal goal drift.",
+      "how_to": "Tie internal planning outcomes to external market feedback, such as profit and loss, customer satisfaction, and competitive benchmarks."
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "Internal planning by a sufficiently large AI firm can outperform market competition in the short term.",
+      "context": "This challenges the widespread belief that decentralized markets are always more efficient than centralized planning."
+    },
+    {
+      "claim": "The first company to fully automate its operations could evolve into a monopoly that dominates the entire economy.",
+      "context": "This suggests a winner\u2011takes\u2011all outcome contrary to expectations that diseconomies of scale will preserve competition."
+    }
+  ],
+  "episode_id": "what-will-automated-firms-look-like",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/what-will-automated-firms-look-like",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T21:15:39.619942"
+}

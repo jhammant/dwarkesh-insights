@@ -1,0 +1,77 @@
+{
+  "guest_name": "Gwern Brannwin",
+  "expertise_area": "AI scaling and forecasting, internet research, polymathic thinking",
+  "episode_title": "Interview with Gwern Brannwin",
+  "key_insights": [
+    {
+      "insight": "The most underrated benefit of anonymity is that it prevents others from projecting stereotypes onto you, giving you a fair hearing.",
+      "quote": "I think the most underrated benefit of anonymity is that people don't project onto you as much. They kind of can't, like, slot you into any particular niche or identity and, like, end up writing you off in advance.",
+      "importance": "high"
+    },
+    {
+      "insight": "Human\u2011led firms with AI workers will outperform fully autonomous AI firms because humans supply the long\u2011term vision that AIs lack.",
+      "quote": "And from an RL perspective, I think if we are in fact better than AIs in some way, it should be in the long-term vision thing, right? Like the AIs will be too myopic to execute any kind of novel long-term strategy and seize new opportunities.",
+      "importance": "high"
+    },
+    {
+      "insight": "The unit of selection for AI populations will be cohesive groups of models (e.g., department\u2011level packages) that work well together, not individual models alone.",
+      "quote": "I think that seems like the most obvious unit of selection. You would have like packages, I guess possibly like department units where you have a programmer and a manager type, then you have maybe a secretary type, maybe a financial type, a legal type.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Intelligence is fundamentally search over Turing machines; scaling simply increases the compute, data, and parameters used in that search.",
+      "quote": "So the 10,000 foot view of intelligence that I think the success of scaling points to is that all intelligence is search over Turing machines. And I think anything that happens can be described by Turing machines of various lengths. And all that we're doing when we're doing learning or when we're doing scaling is that we're searching over more and longer Turing machines and we're applying them in every specific case.",
+      "importance": "high"
+    },
+    {
+      "insight": "After AlexNet and DanNet, AI progress accelerated to roughly two years of advancement per calendar year.",
+      "quote": "Once AlexNet and DanNet came out, then it just kind of kept dropping at a rate of like two years per year, every year, basically until now.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The primary bottleneck for useful agentic AI is the lack of training data for agential workflows, not compute or algorithms.",
+      "quote": "Look, as Gordon just said, the biggest bottleneck in making these LLB models more useful has simply been the lack of good training data for these agenic workflows.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "anonymity benefits and social projection",
+    "human-AI hybrid firm structure",
+    "scaling laws as search over Turing machines",
+    "AI timeline acceleration after AlexNet",
+    "training data bottleneck for agentic AI",
+    "rabbit hole learning methodology"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Write to shape the future AI training corpus and preserve your values.",
+      "how_to": "Regularly publish essays and ideas online so they become part of the latent space that future AI models learn from."
+    },
+    {
+      "advice": "Focus on tasks that require human preference and judgment, which AI cannot replicate.",
+      "how_to": "Identify activities you enjoy that involve personal taste (e.g., choosing ice cream, evaluating essays) and prioritize them as irreplaceable human contributions."
+    },
+    {
+      "advice": "Use collaborative platforms like Wikipedia to synthesize deep research into structured knowledge.",
+      "how_to": "Edit Wikipedia articles to compile and summarize your rabbit\u2011hole research, turning obsessive learning into lasting, verifiable entries."
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "Fully autonomous AI firms will be outcompeted by human\u2011led firms that use AI only for execution, because humans provide essential long\u2011term vision.",
+      "context": "Contrary to the expectation that AI will replace humans at all levels, Gwern argues human oversight is crucial for strategic novelty."
+    },
+    {
+      "claim": "Intelligence is not a general master algorithm but merely search over many Turing machines, implying no special \u2018intelligence fluid\u2019.",
+      "context": "Challenges the popular belief in a universal learning algorithm; instead, frames intelligence as brute\u2011force search enabled by scale."
+    },
+    {
+      "claim": "The greatest advantage of anonymity is not safety or privacy but the ability to be heard without pre\u2011judicial dismissal.",
+      "context": "Most discussions of anonymity focus on protection from retaliation; Gwern flips this to emphasize epistemic fairness."
+    }
+  ],
+  "episode_id": "gwern-anonymous-writer-who-predicted-ai-trajectory-on-12kyear-salary",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/gwern-anonymous-writer-who-predicted-ai-trajectory-on-12kyear-salary",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T18:30:21.483449"
+}

@@ -1,0 +1,74 @@
+{
+  "guest_name": "Tyler Cowen",
+  "expertise_area": "Economics",
+  "episode_title": "Goat: Who is the Greatest Economist of all time and Why Does it Matter?",
+  "key_insights": [
+    {
+      "insight": "Keynes believed great economists require rare interdisciplinary expertise spanning mathematics, history, statesmanship, and philosophy.",
+      "quote": "the master economist must possessa rare combination of gifts. He must be a mathematician, historian, statesman, philosopher. No part of man's nature or his institutions must lie entirely outside his regard.",
+      "importance": "high"
+    },
+    {
+      "insight": "Most investment throughout history has disappointed optimistic expectations due to irrational optimism about projects.",
+      "quote": "It is probable that the actual average result of investments, even during periods of progress and prosperity, have disappointed the hopes which promoted them.",
+      "importance": "high"
+    },
+    {
+      "insight": "Innovators rarely capture the full social value of their creations, leading to underinvestment in innovation from a private perspective.",
+      "quote": "innovators don't internalize most of the gains you get to society",
+      "importance": "high"
+    },
+    {
+      "insight": "Keynes argued humans are more risk-seeking than rational models suggest, challenging conventional risk-aversion assumptions.",
+      "quote": "he's saying like not only are we not risk-neutral, but we're more risk-seeking than is rational, whereas the way you'd conventionally think about it is that humans are risk-averse",
+      "importance": "medium"
+    },
+    {
+      "insight": "Large firms like Amazon operate within market mechanisms rather than as central planning entities, supporting Hayek's view of decentralization.",
+      "quote": "the firm is the market. The firm is always making contracts in the market is subject to market checks and balances.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "Keynesian economics",
+    "Investment irrationality",
+    "Innovation and social returns",
+    "Risk behavior in economics",
+    "Hayekian decentralization",
+    "Prediction markets",
+    "Gender equality in economic thought",
+    "Firm evolution and market competition"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Adjust investment strategies to account for systematic overoptimism in project forecasting.",
+      "how_to": "Use historical failure rates of similar projects to temper expected returns and require higher hurdle rates for investment approval."
+    },
+    {
+      "advice": "Implement mechanisms to help innovators capture more social value from their work.",
+      "how_to": "Strengthen patent systems, create innovation prizes, and increase public funding for basic research with commercialization pathways."
+    },
+    {
+      "advice": "Design financial policies that account for context-dependent risk preferences rather than assuming universal risk aversion.",
+      "how_to": "Recognize that people exhibit risk-seeking behavior in some contexts (like startups) and risk-aversion in others (like insurance), and tailor regulations accordingly."
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "Keynes was more risk-seeking than rational models suggest, contrary to standard economic assumptions of risk aversion.",
+      "context": "Most economic models assume humans are risk-averse, but Keynes argued 'animal spirits' make us excessively optimistic about investments, challenging foundational risk theory."
+    },
+    {
+      "claim": "Large technology firms like Amazon are not examples of central planning but operate as market entities subject to competition.",
+      "context": "Critics often cite big tech as evidence central planning works, but Cowen argues these firms function through market contracts and face competitive pressures, aligning with Hayek's views."
+    },
+    {
+      "claim": "Mill's argument for women's equality was fundamentally correct and superior to Hayek's more conservative social views.",
+      "context": "While Hayek is praised for economic liberalism, Cowen contends Mill was definitively right on gender equality where Hayek's social conservatism was wrong, making Mill the greater overall thinker."
+    }
+  ],
+  "episode_id": "tyler-cowen-hayek-keynes-smith-on-ai-animal-spirits-anarchy-growth",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/tyler-cowen-hayek-keynes-smith-on-ai-animal-spirits-anarchy-growth",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T20:59:20.875749"
+}

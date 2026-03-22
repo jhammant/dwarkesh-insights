@@ -1,0 +1,77 @@
+{
+  "guest_name": "Dylan",
+  "expertise_area": "Semiconductor industry analysis and AI compute infrastructure",
+  "episode_title": "my roommate teaches me semiconductors",
+  "key_insights": [
+    {
+      "insight": "Big tech CAPEX represents compute coming online over years, not all immediately, with significant portions spent on future setup like turbine deposits and data center construction",
+      "quote": "when we're talking about 20 gigawatts this year in America, roughly, incremental added capacity. A portion of this is not spent this year. A portion of that CAPX has actually spent the prior year.",
+      "importance": "high"
+    },
+    {
+      "insight": "Anthropic needs to reach 5+ gigawatts by year-end to serve unexpected revenue growth but faces challenges due to conservative compute procurement",
+      "quote": "Anthropic needs to get to well above 5 gigawatts by the end of this year, and it's going to be really tough for them to get there, but it's possible.",
+      "importance": "high"
+    },
+    {
+      "insight": "OpenAI secured more compute access than Anthropic by aggressively signing deals with diverse providers including neoclouds",
+      "quote": "Open AI has kind of got way more access to compute than Anthropic by the end of theyear.",
+      "importance": "high"
+    },
+    {
+      "insight": "Last-minute compute acquisition forces labs to pay 50%+ markups through revenue shares or spot market premiums",
+      "quote": "Anthropic is having to pay either this like 50% markup in the sense of the revenue share or in the sense of last minute spot compute that they wouldn't otherwise have to pay had they bought the computer early.",
+      "importance": "high"
+    },
+    {
+      "insight": "GPU value increases over time as AI model efficiency improves, making older hardware more valuable",
+      "quote": "H-100 is worth more today than it was three years ago. That's crazy.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The semiconductor supply chain, particularly ASML's EUV tools, is the ultimate bottleneck for AI scaling, not power or data centers",
+      "quote": "the biggest bottleneck is compute, and for that, the longest lead time supply chains are not power or data centers. They're actually the semiconductor supply chain themselves",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "Semiconductor CAPEX deployment timeline",
+    "AI lab compute procurement strategies",
+    "Neocloud provider market dynamics",
+    "GPU depreciation and value retention",
+    "ASML EUV tool production constraints",
+    "Model efficiency impact on hardware utility"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Secure long-term compute contracts early to lock in margin advantages before market prices rise",
+      "how_to": "Negotiate multi-year agreements with cloud providers or hardware suppliers during periods of lower demand"
+    },
+    {
+      "advice": "Access compute through revenue-sharing arrangements with cloud providers instead of direct ownership",
+      "how_to": "Partner with AWS, Google Cloud, or Azure to utilize their infrastructure via Bedrock, Vertex, or Foundry services"
+    },
+    {
+      "advice": "Factor in improving model efficiency when calculating hardware ROI and depreciation schedules",
+      "how_to": "Adjust TCO models to account for increasing token throughput per GPU as models evolve (e.g., GPT-5.4 vs GPT-4)"
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "GPU depreciation cycle is longer than 5 years due to ongoing model efficiency gains",
+      "context": "Contrary to standard 3-5 year assumptions, older GPUs like H100 gain value as newer models derive more utility from same hardware"
+    },
+    {
+      "claim": "The semiconductor supply chain (not power/data centers) is the ultimate bottleneck for AI scaling",
+      "context": "While recent focus has been on power constraints, the longest lead times lie in chip manufacturing equipment like ASML's EUV tools"
+    },
+    {
+      "claim": "Value of data center GPUs increases over time as AI models improve",
+      "context": "Unlike typical tech depreciation, H100s are worth more today than 3 years ago because models like GPT-5.4 serve more tokens per GPU"
+    }
+  ],
+  "episode_id": "dylan-patel-deep-dive-on-the-3-big-bottlenecks-to-scaling-ai-compute",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/dylan-patel-deep-dive-on-the-3-big-bottlenecks-to-scaling-ai-compute",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T18:04:08.160032"
+}

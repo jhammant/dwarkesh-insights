@@ -1,0 +1,70 @@
+{
+  "guest_name": "BradHarrison",
+  "expertise_area": "Finance technology, ETFs, and high-frequency trading systems",
+  "episode_title": "Brad Harrison on ETFs, High-Frequency Trading, and Lessons from FTX",
+  "key_insights": [
+    {
+      "insight": "Most investors should use diversified instruments like ETFs rather than trying to pick individual stocks",
+      "quote": "I think on net it's good. I think that most investors in the market shouldn't be trying to pick individual stock names. And the best thing people can do is invest in sort of diversified instruments.",
+      "importance": "high"
+    },
+    {
+      "insight": "Passive investing can create artificial correlations between securities in index funds",
+      "quote": "So, you know, if like when Tesla gets added to the S of B 500, like Tesla doesn't like suddenly become a different company whose, you know, market value is, like, fundamentally changing, but yet it's going to start moving very differently, you know, in terms of its beta correlation between other instruments in SP500, purely as a function of all the passive investing that moves these instruments in the same direction.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Questioning the value of microsecond speed improvements assumes we know the optimal price discovery speed",
+      "quote": "I think if you believe, if you want to question whether getting, you know, a few extra, like, milliseconds or microseconds or nanoseconds is worth it, I think you're then putting some kind of value judgments on like, what is the optimal time it takes to get from to price discovery and saying, like, you know, a second is too slow, but a millisecond is too fast or a millisecond is too slow, but a microsecond is too fast.",
+      "importance": "high"
+    },
+    {
+      "insight": "Finance-driven technology investments may have broader societal applications beyond trading",
+      "quote": "Maybe, I don't know, we have a lot of geopolitical instability in the world. Who knows if like our microwave network that we built out in the U.S. could have like greater use cases than just for quantitative finance. But like quantitative finance subsidized the creation of these towers.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Trading skills help estimate rare event probabilities but don't translate to solving civilizational risks",
+      "quote": "Having like a trader mentality on, you know, future pandemics, I don't think helps you much. I think maybe it slightly changes your ability to kind of estimate the probability of such events, but the actual solutions to these problems are a combination of like, you know, collective action problems plus, you know, being able to sort of model the particular type of, you know, unknown, unknown about whatever the event is.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "ETF market structure and passive investing",
+    "High-frequency trading latency optimization",
+    "Technology spillover from finance to other sectors",
+    "Trader psychology and risk estimation",
+    "FTX and Sam Bankman-Fried background",
+    "Jane Street internship compensation model",
+    "Developer vs trader roles in finance firms",
+    "Market microstructure and order matching systems"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Use low-cost ETFs for diversified market exposure instead of attempting to pick individual stocks",
+      "how_to": "Allocate investments to broad market index ETFs like those tracking the S&P 500 or total stock market for long-term wealth building"
+    },
+    {
+      "advice": "Evaluate financial technology innovations for potential broader societal applications",
+      "how_to": "When assessing HFT or financial tech investments, consider if the underlying technology (e.g., microwave networks, low-latency systems) could solve problems in other sectors like communications or geopolitical monitoring"
+    },
+    {
+      "advice": "Consider developer roles in finance for broader systemic impact rather than just trading execution",
+      "how_to": "Seek positions building trading infrastructure, market data systems, or trading platforms if you want to create systems with wide-reaching effects on market efficiency"
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "Passive investing creates harmful market correlations that distort price discovery",
+      "context": "While passive investing is widely praised for lowering costs and improving diversification, Brad argues it creates artificial price correlations between index components that can lead to inefficient market movements unrelated to fundamental value"
+    },
+    {
+      "claim": "Developer impact equals or exceeds trader impact at proprietary trading firms",
+      "context": "Popular perception views traders as the primary value creators at firms like Jane Street or Citadel, but Brad argues developers building the trading systems have equal or greater impact on firm success and profitability"
+    }
+  ],
+  "episode_id": "brett-harrison-ftx-us-former-president-speaks-out",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/brett-harrison-ftx-us-former-president-speaks-out",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T16:50:56.026590"
+}

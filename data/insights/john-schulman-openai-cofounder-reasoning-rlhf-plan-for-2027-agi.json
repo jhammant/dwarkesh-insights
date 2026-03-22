@@ -1,0 +1,69 @@
+{
+  "guest_name": "John Schulman",
+  "expertise_area": "AI, reinforcement learning, and post-training of language models",
+  "episode_title": "",
+  "key_insights": [
+    {
+      "insight": "Pre-training teaches models to imitate web content and assign probabilities, while post-training narrows behavior to a helpful chat assistant optimizing for human preference.",
+      "quote": "In pre-training, you're basically training to imitate all of the content on the internet or on the web... And then when we do post-training, we're usually targeting a narrower range of behavior where we basically want the model to behave like this kind of chat assistant... optimizing on a different objective, which is more about producing outputs that humans will like and find useful as opposed to just trying to imitate this raw content from the web.",
+      "importance": "high"
+    },
+    {
+      "insight": "Long horizon RL training enables models to act coherently over extended periods, allowing them to carry out complex tasks like multi-file coding projects and recover from errors via generalization.",
+      "quote": "So you could imagine having the models carry out a whole coding project... and test it, look at the output, iterate on that a bit... the unlock is that it can act coherently for long enough to write multiple files of code... Also, I would expect that as the models get better, they're just better at recovering from errors... they know how to recover from it.",
+      "importance": "high"
+    },
+    {
+      "insight": "Models fine-tuned in one language generalize to behave helpfully in other languages without explicit multilingual training.",
+      "quote": "if you do all your fine-tuning with English data, you'll automatically, you'll have the model also behaving well in other languages... you get it to respond in Spanish to Spanish queries.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Post-training can yield large performance gains (e.g., a 100\u2011point ELO increase) and remains a promising avenue for further improvement.",
+      "quote": "The current GPD4 has a ELO score that is like a hundred points higher than the original one that was released... I would say that most of that is post-training.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Beyond coherence, models may lack human-like taste, ambiguity handling, and face mundane barriers such as UI affordances that could slow progress.",
+      "quote": "Maybe there's some other experience that human experts bring to different tasks, like having some taste or dealing with ambiguity better... there might be a lot of like mundane barriers that are probably not going to last that long, but would initially like slow down progress.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "pre-training versus post-training objectives",
+    "long horizon reinforcement learning",
+    "cross\u2011lingual generalization in language models",
+    "RLHF and human approval modeling",
+    "AI safety coordination and gradual deployment",
+    "multimodal AI and vision\u2011based web use",
+    "online learning and model introspection"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Use long horizon RL training to teach models to complete multi\u2011step coding projects.",
+      "how_to": "Train on sequences of actions (write, test, iterate) with rewards for final correct output, gradually increasing horizon length."
+    },
+    {
+      "advice": "Implement coordinated safety checks and gradual deployment when approaching advanced AI capabilities.",
+      "how_to": "Set up shared evaluation frameworks, run red\u2011team simulations, and monitor deployed systems for early warning signs before scaling up."
+    },
+    {
+      "advice": "Leverage cross\u2011lingual generalization to reduce language\u2011specific fine\u2011tuning effort.",
+      "how_to": "Fine\u2011tune primarily on high\u2011quality English data and validate behavior in target languages; rely on the model\u2019s transfer ability."
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "Improving long\u2011horizon coherence alone will not lead to AGI; other bottlenecks like taste and ambiguity remain.",
+      "context": "Many expect that solving coherence will unlock human\u2011level agency, but Schulman argues models will still lack higher\u2011level judgment and face practical barriers."
+    },
+    {
+      "claim": "Future AI systems will be able to use existing human\u2011designed websites without needing AI\u2011specific APIs or redesigns.",
+      "context": "Contrary to the idea that new UIs must be built for AI, Schulman believes improved vision will let models interact with current web interfaces."
+    }
+  ],
+  "episode_id": "john-schulman-openai-cofounder-reasoning-rlhf-plan-for-2027-agi",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/john-schulman-openai-cofounder-reasoning-rlhf-plan-for-2027-agi",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T19:05:26.482425"
+}

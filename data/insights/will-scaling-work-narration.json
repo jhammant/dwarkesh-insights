@@ -1,0 +1,73 @@
+{
+  "guest_name": "Dario Amadei",
+  "expertise_area": "AI safety and large language model development",
+  "episode_title": "Will Scaling Work?",
+  "key_insights": [
+    {
+      "insight": "Training GPT-4 required only 0.03% of Microsoft's yearly revenue, demonstrating current AI efficiency",
+      "quote": "we can produce a baby AGI, that is, GPT4, by throwing just 0.03% of Microsoft's yearly revenues at a big scrape of the internet.",
+      "importance": "high"
+    },
+    {
+      "insight": "Scaling laws predict we need 1E35 FLOPs for human-level scientific reasoning, creating a massive data bottleneck",
+      "quote": "Even taking hand-wavy scaling curve seriously implies that we'll need 1E35 flops for an AI that is reliable and smart enough to write a scientific paper.",
+      "importance": "high"
+    },
+    {
+      "insight": "Algorithmic improvements can deliver performance gains equivalent to many orders of magnitude of raw compute scaling",
+      "quote": "Each of these will individually contribute as much to performance as you would have gotten from many ooms of raw scale.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Reinforcement learning has not demonstrated the ability to increase models' underlying reasoning capabilities",
+      "quote": "But no one has demonstrated a method to actually increase the model's underlying abilities with RL.",
+      "importance": "high"
+    },
+    {
+      "insight": "Data abundance alone may not solve LLMs' generalization limitations",
+      "quote": "the fact that LLMs seem to need such a stupendous amount of data to get such mediocre reasoning indicates that they simply are not generalizing.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "data scaling laws",
+    "self-play synthetic data",
+    "next token prediction limitations",
+    "algorithmic efficiency techniques",
+    "long-horizon benchmarking",
+    "compute requirements for AGI",
+    "data generation methods"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Invest in synthetic data generation through self-play loops",
+      "how_to": "Develop environments where models can generate and critique their own reasoning chains, starting with verifiable tasks like coding"
+    },
+    {
+      "advice": "Prioritize algorithmic improvements over raw compute scaling",
+      "how_to": "Research and implement techniques like mixture of experts, flash attention, and better post-training methods"
+    },
+    {
+      "advice": "Develop benchmarks measuring long-horizon reasoning",
+      "how_to": "Create evaluations requiring multi-step planning and execution over extended periods (e.g., autonomous pull request completion)"
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "Current LLM benchmark performance primarily reflects memorization, not intelligence",
+      "context": "Skeptic argues tests like MMLU resemble 'Google search first hit results' and don't measure true reasoning capabilities"
+    },
+    {
+      "claim": "Even with vastly more data, LLMs may not achieve human-level reasoning",
+      "context": "Skeptic states that if models need 'stupendous amount of data for mediocre reasoning,' more data won't fix fundamental generalization limits"
+    },
+    {
+      "claim": "AI progress may continue despite theoretical uncertainties about scaling laws",
+      "context": "Believer notes that 'an airtight theoretical explanation for why scaling must keep working is not necessary for scaling to keep working,' citing historical tech patterns where invention preceded theory"
+    }
+  ],
+  "episode_id": "will-scaling-work-narration",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/will-scaling-work-narration",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T21:28:29.744485"
+}

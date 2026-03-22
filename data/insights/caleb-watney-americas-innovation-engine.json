@@ -1,0 +1,71 @@
+{
+  "guest_name": "Caleb Watney",
+  "expertise_area": "Innovation policy, high-skill immigration, and agglomeration effects",
+  "episode_title": "America's Innovation Engine is Slowing",
+  "key_insights": [
+    {
+      "insight": "Physical agglomeration drives innovation through spontaneous interactions that remote work cannot fully replicate.",
+      "quote": "you know, for hundreds of years, basically been studying the effect of these close geographically connected networks of entrepreneurs, innovators, scientists, academics, you know, supply chain managers, when you have all of those people in a geographical region where they're, you know, running into each other spontaneously and they're sharing ideas and they're having long conversations, you know, in the hallway or in their offices that they wouldn't otherwise be able to replicate, you know, simply online. That ends up leading to a more creativity, more ideas, more patents.",
+      "importance": "high"
+    },
+    {
+      "insight": "High-skill immigration is a top lever for boosting U.S. innovation; restricting it harms innovation and benefits competitors like China.",
+      "quote": "When given the opportunity, you know, 90 plus percent of them end up staying in the United States. And that's a really big problem for China if you're then trying to, you know, develop the cutting edge AI companies of the future.",
+      "importance": "high"
+    },
+    {
+      "insight": "Breaking up big tech is unlikely to boost innovation and is high-risk; increasing competition via lower entry barriers is preferable.",
+      "quote": "I think as a meta strategy, I would prefer to at least at first try the strategy of really, you know, increasing the level of competition they're faced with, not by artificially tearing them down, but by making it much easier to compete with them.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The cultural values embedded in U.S. tech platforms (e.g., free speech) shape global technology direction, and losing U.S. leadership would shift those values.",
+      "quote": "And so I think if we were in an alternative universe where all of the main social media companies being used globally where, you know, Chinese or run by the Chinese Communist Party, especially, there would be very different values embedded in those platforms, and that would end up really shaping the direction of technology plays.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Federal R&D funding structure is understudied and declining; experimenting with randomized control trials in grant allocation could improve effectiveness.",
+      "quote": "I think one of the easiest, you know, lowest cost things we could start doing is sort to introduce more like almost randomized control trials within science funding.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "physical agglomeration effects and remote work",
+    "high-skill immigration policy",
+    "big tech competition and entry barriers",
+    "cultural values in tech platforms",
+    "federal R&D funding reform"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Reform the H-1B visa to prioritize higher salaries and equity-adjusted offers, increase visa portability, and expand the O-1 visa for extraordinary ability.",
+      "how_to": "Implement salary-based ranking with equity adjustment, allow transfers between employers and self-petitioning for startups, and reduce processing backlogs."
+    },
+    {
+      "advice": "Introduce randomized control trials in federal R&D grant allocation to test funding mechanisms and improve effectiveness.",
+      "how_to": "Pilot programs that randomly allocate funds to qualified projects, measure outcomes such as patents and publications, and iterate based on results."
+    },
+    {
+      "advice": "Lower barriers for startups to access high-skill talent by expanding visa options and creating entrepreneur pathways.",
+      "how_to": "Increase O-1 visa availability, allow immigrant founders to use visas without employer sponsorship, and streamline visa processing for startup employees."
+    },
+    {
+      "advice": "Support industrial cluster formation through zoning reform, housing investment, and infrastructure in high-productivity cities.",
+      "how_to": "Encourage local governments to relax zoning laws, increase housing supply near job centers, and invest in transit to sustain agglomeration benefits."
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "Breaking up big tech companies is unlikely to increase innovation and poses high risk of destroying productive firms.",
+      "context": "Many argue antitrust breakup would boost competition and innovation, but Caleb believes it has low probability of success and high risk, favoring entry barrier reduction instead."
+    },
+    {
+      "claim": "Pausing high-skill immigration during periods of high unemployment does not make sense economically; evidence shows immigration correlates with job growth and higher wages.",
+      "context": "Some argue to protect domestic workers during downturns, but Caleb points out that H-1B sectors are not those hardest hit and immigration stimulates job creation, making a pause counterproductive."
+    }
+  ],
+  "episode_id": "caleb-watney-americas-innovation-engine",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/caleb-watney-americas-innovation-engine",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T17:17:24.488951"
+}

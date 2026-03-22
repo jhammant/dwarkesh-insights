@@ -1,0 +1,62 @@
+{
+  "guest_name": "Brian Kaplan",
+  "expertise_area": "Labor Economics",
+  "episode_title": "Labor Econ versus the world",
+  "key_insights": [
+    {
+      "insight": "Only ~3% of working age population has zero/negative productivity for any job; apparent higher rates stem from job mismatches.",
+      "quote": "I'd be inclined to say probably something like 3%, although, of course, course, it's much higher if you just make someone do a job that they're not suited for.",
+      "importance": "high"
+    },
+    {
+      "insight": "Failure to follow the success sequence (marry before kids, graduate high school, work full-time) is primarily due to lack of impulse control, not ignorance of the sequence.",
+      "quote": "I think the story that makes the most sense to me is it does require some impulse control, right, which is not fun for people.",
+      "importance": "high"
+    },
+    {
+      "insight": "The success sequence appears difficult not because the steps are hard, but because people perceive them as requiring extraordinary effort (like winning a Nobel Prize), when in reality they are achievable basics.",
+      "quote": "So when people ask me about the meaning of the success sequence, I say, well, look, imagine there's some research saying that here's a simple recipe to avoid poverty. First, be first in your class at MIT. Second of all, win a Nobel Prize. And third, marry someone who won an Academy Award.",
+      "importance": "high"
+    },
+    {
+      "insight": "Wage disparities between foreign and domestic remote workers don't indicate lower productivity; moving workers to first-world countries increases wages, showing environmental factors.",
+      "quote": "It definitely suggests it. However, we have tests to show the suggestion is wrong, right? Because we actually all, we know what happens when there you are a remote programmer in India. We also knows what happened. We also know what happens when you move that remote workers to the U.S. or another first world country. And then we see the wages skyrocket.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "zero productivity workers",
+    "success sequence",
+    "impulse control",
+    "discrimination law",
+    "remote work wage gaps"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Increase dosage of success sequence education in schools by 10-50x current levels",
+      "how_to": "Ramp up the level of preaching by a factor of 10 or 50 through more frequent and intensive programs"
+    },
+    {
+      "advice": "Recruit individuals with negative life experiences (e.g., homelessness) to speak to students about consequences",
+      "how_to": "Go and recruit homeless people to go and talk to kindergartners and repeat periodically through school years"
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "Only about 3% of working age people are truly zero/negative productivity; higher observed rates are due to poor job matching",
+      "context": "Contrasts with common belief that significant portions of workforce are unproductive"
+    },
+    {
+      "claim": "Failure to follow the success sequence stems from impulse control issues, not lack of awareness or opportunity",
+      "context": "Challenges notions that poverty persists due to ignorance or systemic barriers alone"
+    },
+    {
+      "claim": "Corporate discrimination (e.g., at Google) is driven by fear of lawsuits and social pressure, not profit motives",
+      "context": "Counters economic theory that for-profits would eliminate discrimination to maximize profits"
+    }
+  ],
+  "episode_id": "bryan-caplan-discrimination-poverty-mental-illness",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/bryan-caplan-discrimination-poverty-mental-illness",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T16:59:05.686230"
+}

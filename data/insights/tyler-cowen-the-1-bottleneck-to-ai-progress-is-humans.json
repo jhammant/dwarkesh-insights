@@ -1,0 +1,77 @@
+{
+  "guest_name": "Dwarquish Patel",
+  "expertise_area": "Economic growth and technological impact",
+  "episode_title": "Why won't we have explosive economic growth 20% plus because of AI?",
+  "key_insights": [
+    {
+      "insight": "Cost disease limits explosive economic growth even with AI advancements as rapidly growing sectors create wage pressures in stagnant sectors",
+      "quote": "It's very hard to get explosive economic growth for any reason, AI or not. One problem is that some parts of your economy grow very rapidly, and then you get a cost disease in the other parts of your economy.",
+      "importance": "high"
+    },
+    {
+      "insight": "AI will gradually boost economic growth by approximately 0.5 percentage points annually, with transformative long-term effects that are imperceptible year-to-year",
+      "quote": "Look, I think they will boost the rate of economic growth by something like half a percentage point a year. Over 30, 40 years, that's an enormous difference. It will transform the entire world. But in any given year, we won't so much notice it.",
+      "importance": "high"
+    },
+    {
+      "insight": "Organizational bottlenecks prevent scaling effectiveness even with vastly increased talent or AI resources",
+      "quote": "The bottlenecks are going to eat all that away? Or if you ask any one of these people, if you had a thousand times more of your best colleague, your best coworker, your best co-founder, the bottleneck's going to eat all that away, your organization isn't going to go any faster?",
+      "importance": "high"
+    },
+    {
+      "insight": "Success stems from bundled competencies and determination rather than exceptional IQ alone",
+      "quote": "If you look at labor market data, the returns to IQ, as it translates into ages, they're amazingly low. They're pretty insignificant. And people who are very successful, they're very smart, but they're people who have, say, eight or nine areas where they're like on a scale of one to ten, they're a nine. Like they have one area where they're just like an eleven and a half on a scale of one to ten. And then on everything else, they're an eight to a nine. And have a lot of determination. And that's what leads to incredible success.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Technology diffusion is slower than intelligence-focused models predict due to overlooked systemic constraints",
+      "quote": "I think a side result of that is that people here overvalue intelligence and their models of the world are built on intelligence mattering much, much more than it really does.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Institutional and regulatory reforms offer more reliable near-term growth boosts than AI alone",
+      "quote": "So the whole vibe of this progress studies thing is, look, we've got all these low-hanging fruits or medium-hanging fruits that if we fix our institutions, if we made these changes to regulations to institutions, we could rapidly boost the rate of economic growth.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "Cost disease in economic sectors",
+    "AI's gradual impact on growth rates",
+    "Organizational bottlenecks to scaling",
+    "Bundled skills versus IQ in success",
+    "Technology diffusion constraints",
+    "Institutional reform for economic growth"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Focus on institutional and regulatory reforms to boost economic growth",
+      "how_to": "Identify and reform specific sectors like healthcare, education, and government that suffer from cost disease"
+    },
+    {
+      "advice": "Identify and address organizational bottlenecks before scaling talent or AI resources",
+      "how_to": "Map workflow constraints in your organization and implement targeted process improvements"
+    },
+    {
+      "advice": "Develop complementary skills alongside core expertise to enhance success potential",
+      "how_to": "Identify 2-3 adjacent skill areas to strengthen (e.g., communication for technical roles) and practice them deliberately"
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "AI will not cause explosive 20%+ economic growth despite popular expectations",
+      "context": "Most experts and markets don't forecast rapid AI-driven growth; historical tech diffusion shows slow adoption even with transformative technologies"
+    },
+    {
+      "claim": "IQ returns in the labor market are 'amazingly low' and not the primary driver of success",
+      "context": "Popular narratives overemphasize IQ as the main success factor, but bundled skills and determination matter more for exceptional outcomes"
+    },
+    {
+      "claim": "Even with vastly increased AI intelligence, bottlenecks in other factors will limit economic growth",
+      "context": "AI optimists assume intelligence is the main constraint, but other factors like regulation, energy availability, and institutional capacity become more binding as intelligence increases"
+    }
+  ],
+  "episode_id": "tyler-cowen-the-1-bottleneck-to-ai-progress-is-humans",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/tyler-cowen-the-1-bottleneck-to-ai-progress-is-humans",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T22:41:58.449915"
+}

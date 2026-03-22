@@ -1,0 +1,81 @@
+{
+  "guest_name": "Edward Glazer",
+  "expertise_area": "Urban economics",
+  "episode_title": "Lunar Society podcast with Professor Edward Glazer",
+  "key_insights": [
+    {
+      "insight": "Cities on Mars will be constrained by high interplanetary travel costs, requiring flexible planning like NYC's 1811 grid that enables organic evolution through individual initiative rather than central control.",
+      "quote": "I think that's usually the best way is to trust more to individual initiative than to trust to central planning, at least in terms of micromanaging what goes where.",
+      "importance": "high"
+    },
+    {
+      "insight": "English offshoot nations deliberately placed capitals in remote locations to prevent wealth concentration, unlike European nations where capitals grew as wealth extraction centers over centuries.",
+      "quote": "So there are specific things that went on with English offshoot colonies, where they, in many cases, in part because they recognize the tendency of the capital city to attract lots of excess goodies that have been taken from elsewhere in the country, they located the capital city in a remote place.",
+      "importance": "high"
+    },
+    {
+      "insight": "Urban population decline is highly persistent due to housing stickiness, while growth shows less persistence because it lacks this structural barrier to change.",
+      "quote": "Population just shows enormous persistence on the downside... Growth, less so. So on the boom side, you know, you have a boom over a 10-year period, you know, that's likely to mean reverse.",
+      "importance": "high"
+    },
+    {
+      "insight": "Declining US mobility stems from unaffordable housing in high-opportunity areas and geographically constrained informal safety nets like living with parents.",
+      "quote": "And so with the decline of mass-produced housing, it's become far more expensive, and it becomes harder and harder for relatively low-income people to find opportunity in places that have high levels of income, high levels of opportunity.",
+      "importance": "high"
+    },
+    {
+      "insight": "Urban K-12 education underperforms due to public monopoly lacking competition, while urban colleges thrive in competitive environments similar to other urban industries.",
+      "quote": "It's like you take the great urban, you know, food leisure and hospitality and, you know, food industries, right? Just take urban restaurants. And instead of having in New York City, like a hyper-competitive world where you constantly have entry, you say, you know what, we're going to have one publicly managed canteen.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Land value tax is sensible as it doesn't disincentivize building, but it's not a panacea for solving all societal problems as Henry George claimed.",
+      "quote": "I think by and large, that's a perfectly sensible idea. I'd like to see more places using land value taxes or using land value taxes in exchange for property taxes. Where George got it wrong is the idea that a land value tax is going to solve all the problems of society or all the problems of cities is ludicrously not true, right?",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "Mars urban planning",
+    "Capital city location strategies",
+    "Housing market persistence and urban decline",
+    "US labor mobility barriers",
+    "Urban education competition dynamics",
+    "Land value taxation limitations"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "For Mars settlement planning, implement flexible grid systems like NYC's 1811 plan that allow gradual land use adaptation through entrepreneurial experimentation.",
+      "how_to": "Create modular zoning frameworks that permit incremental changes based on actual usage patterns rather than rigid master plans."
+    },
+    {
+      "advice": "Address declining US mobility by reforming housing regulations in high-opportunity areas to increase supply and reduce costs for low-income workers.",
+      "how_to": "Streamline permitting, allow higher density housing, and reduce exclusionary zoning in productive economic centers to enable geographic mobility."
+    },
+    {
+      "advice": "Improve urban K-12 education by introducing competition and choice mechanisms similar to those that make urban colleges successful.",
+      "how_to": "Implement charter school systems, voucher programs, or other market-based approaches to break public school monopolies and incentivize quality improvement."
+    },
+    {
+      "advice": "For tech startup locations, prioritize cities combining high education levels with pro-business policies, such as Sunbelt metros like Austin, Charlotte, and Atlanta.",
+      "how_to": "Evaluate potential locations based on university quality, business-friendly regulations, quality of life factors, and existing entrepreneurial ecosystems when making relocation or expansion decisions."
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "Cities possess inherent defensive qualities from their historical origins as walled settlements, making them more resilient to terrorist attacks than commonly perceived.",
+      "context": "While cities are viewed primarily as vulnerable targets after 9/11, Glazer argues they also have natural defensive properties that have been strengthened through modern security measures, creating a dual target/defensible dynamic."
+    },
+    {
+      "claim": "Remote work will likely complement rather than replace face-to-face interaction in the long term, contrary to pandemic-era fears of office obsolescence.",
+      "context": "Despite concerns that virtual work would make offices obsolete, Glazer argues that as technology increases interconnectedness, the need for nuanced in-person communication actually grows over time as ideas become more complex."
+    },
+    {
+      "claim": "Urban K-12 education underperformance stems from public monopoly lacking competition, not from inherent urban problems like student demographics or funding levels.",
+      "context": "Contrary to common belief that urban schools fail due to challenging student populations or inadequate resources, Glazer attributes the issue to structural lack of competition in urban public school systems versus the competitive environment that benefits urban colleges."
+    }
+  ],
+  "episode_id": "edward-glaeser-cities-terrorism-housing-remote-work",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/edward-glaeser-cities-terrorism-housing-remote-work",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T18:05:35.120654"
+}

@@ -1,0 +1,75 @@
+{
+  "guest_name": "Stephen Gruget",
+  "expertise_area": "Prediction markets and forecasting",
+  "episode_title": "Why aren't companies using internal prediction markets?",
+  "key_insights": [
+    {
+      "insight": "People are motivated more by status and competitiveness than by greed in play money prediction markets.",
+      "quote": "the reason why we think that play money can work is that people are driven more by status and competitiveness than greed.",
+      "importance": "high"
+    },
+    {
+      "insight": "Internal prediction markets often fail because managers avoid information that could contradict their vision or decisions.",
+      "quote": "people literally don't want to know the answers to a lot of questions. So in a corporate context, that mostly manifests itself in the management, the manager not wanting to, you know, the manager choosing a course or vision for their company and then not wanting to get negative feedback about that.",
+      "importance": "high"
+    },
+    {
+      "insight": "Prediction markets add the most value in corporate settings when used for informational purposes like market research, not for core strategic decisions that threaten management.",
+      "quote": "the areas where prediction markets more clearly add value without distracting from the mission or hurting management are where they're used for their informational aspects or to do like market research.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Improving as a predictor relies more on experience and the habit of clarifying one's views than on domain knowledge alone.",
+      "quote": "probably a big one is just like experience. Probably the first hurdle that most people have to overcome in order to start improving as a predictor is getting used to clarifying and crystallizing your views about the world.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Long-term speculative questions are better addressed by breaking them into short-term proxy variables rather than betting directly on distant outcomes.",
+      "quote": "the best way to tackle these long-term more speculative questions is to try to break them down and address the proxy variables that are most relevant to predicting their success in the future.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "play money prediction markets",
+    "internal corporate prediction markets",
+    "user-resolved markets",
+    "long-term forecasting via proxy variables",
+    "market fees and incentives"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Use prediction markets for informational purposes such as market research rather than for core strategic decisions that could undermine management.",
+      "how_to": "Create markets on questions like future consumer behavior, competitor actions, or technology adoption trends and use the aggregated probabilities as input to decision-making."
+    },
+    {
+      "advice": "Improve personal forecasting skills by practicing explicit numerical predictions and tracking outcomes over time.",
+      "how_to": "Start a prediction journal where you assign probabilities to events you care about, record your reasoning, and review calibration regularly."
+    },
+    {
+      "advice": "Design prediction market platforms with a simple core mechanism and prioritize usability over exhaustive edge\u2011case handling.",
+      "how_to": "Focus on an intuitive user interface that lets users create and resolve markets quickly, adding complexity only after validating basic usability."
+    },
+    {
+      "advice": "Address lack of engagement on long\u2011term questions by decomposing them into short\u2011term proxy variables.",
+      "how_to": "Identify leading indicators or intermediate milestones related to the long\u2011term outcome and create markets on those proxies instead of the distant event."
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "People are motivated more by status and competitiveness than by financial gain in prediction markets.",
+      "context": "This runs counter to the standard economic assumption that monetary incentives are the primary driver of behavior in markets."
+    },
+    {
+      "claim": "Prediction markets can function effectively with play money, challenging the notion that real money is necessary for accurate forecasting.",
+      "context": "Many believe only real\u2011money markets produce reliable probabilities, yet Manifold shows play money can yield calibrated predictions through reputation and competition."
+    },
+    {
+      "claim": "Internal prediction markets fail in corporations not because they don't work, but because managers avoid truths that threaten their vision.",
+      "context": "Contrary to the idea that failure stems from poor design or lack of incentives, the barrier is psychological resistance from leadership."
+    }
+  ],
+  "episode_id": "stephen-grugett-manifold-markets-founder-predictions-markets-revolutionizing-governance",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/stephen-grugett-manifold-markets-founder-predictions-markets-revolutionizing-governance",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T20:53:37.951202"
+}

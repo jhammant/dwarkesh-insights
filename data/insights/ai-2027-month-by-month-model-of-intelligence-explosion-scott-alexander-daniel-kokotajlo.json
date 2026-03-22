@@ -1,0 +1,75 @@
+{
+  "guest_name": "Scott Alexander, Daniel Kokotelo",
+  "expertise_area": "AI forecasting and scenario analysis",
+  "episode_title": "AI 2027 Scenario Discussion",
+  "key_insights": [
+    {
+      "insight": "The AI 2027 scenario provides a month-by-month narrative to make AGI timelines feel concrete and earned, addressing skepticism about rapid progress.",
+      "quote": "We wanted to provide a story, provide the transitional fossils. So start right now, go up to 2027 when there's AGI, 2028, when there's potentially superintelligence, show on a month-by-month level what happened.",
+      "importance": "high"
+    },
+    {
+      "insight": "Daniel Kokotelo's earlier 2026 forecast was remarkably accurate, lending credibility to the new AI 2027 scenario.",
+      "quote": "Daniel back in 2021 wrote kind of the prequel to this scenario called What 2026 looks like. It's his forecast for the next five years of AI progress. And he got it almost exactly right.",
+      "importance": "high"
+    },
+    {
+      "insight": "The scenario introduces an R&D progress multiplier, projecting a 5x algorithmic progress boost from superhuman coders in early 2027, scaling to 25x+ with automated AI research, and potentially hundred- or thousand-fold with superintelligent AI researchers.",
+      "quote": "We introduced this idea called the R&D progress multiplier. So how many months of progress without the AIs do you get in one month of progress with all of these new AIs helping with the intelligence explosion. ... 2027, we start with ... a five-times multiplier for algorithmic progress.",
+      "importance": "high"
+    },
+    {
+      "insight": "Despite rapid AI capabilities, current LLMs fail to make novel scientific discoveries because they were not trained to connect disparate knowledge; doing so would require scaffolding, larger models, or explicit training for connection-making.",
+      "quote": "Why aren't LLMs able to leverage this enormous asymmetric advantage they have to make a single new discovery like this? ... have we seriously tried to build scaffolding to make them do this? ... have you tried training the model to do the thing?",
+      "importance": "medium"
+    },
+    {
+      "insight": "The intelligence explosion may be constrained not by quantity of AI agents but by research taste and compute, with serial speed gains diminishing beyond ~90x due to bottlenecks in other factors.",
+      "quote": "We think that over the course of our scenario, if you look at our sliding stats chart, it goes from like 20x to like 90x or something over the course of the scenario... once you start getting like 90x serial speed, you're just like bottlenecked on the other stuff.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "AI 2027 scenario",
+    "R&D progress multiplier",
+    "intelligence explosion dynamics",
+    "LLM scientific discovery limitations",
+    "AI agent coordination"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Read Daniel Kokotelo's 'What 2026 looks like' blog post to assess forecasting accuracy.",
+      "how_to": "Search for the blog post online or visit the AI Futures Project website."
+    },
+    {
+      "advice": "Explore the AI 2027 scenario website to see month-by-month forecasts and interactive stats.",
+      "how_to": "Visit the AI 2027 website (likely ai2027.com) and interact with the sliding stats chart."
+    },
+    {
+      "advice": "To elicit novel scientific discoveries from LLMs, develop scaffolding prompts that encourage combinatorial exploration of knowledge.",
+      "how_to": "Design prompts that ask the model to generate analogies across domains and evaluate similarity."
+    },
+    {
+      "advice": "Improve AI research taste by training models on curated successful experiments and penalizing useless ones.",
+      "how_to": "Use reinforcement learning with rewards based on experimental utility rather than mere novelty."
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "Despite common perception that AI experts are overly optimistic, the aggregate forecast timeline has actually been too pessimistic, underestimating progress.",
+      "context": "Metaculus timeline moved from 2040 in 2020 to 2030 recently, showing experts underestimated the speed of AI progress."
+    },
+    {
+      "claim": "AI language models can provide greater productivity gains in unfamiliar domains because they synthesize knowledge from across the internet, unlike humans who rely on slow Google searches.",
+      "context": "A senior AI researcher reported saving 24 hours/week in unfamiliar tasks versus only 4-8 hours in familiar ones."
+    },
+    {
+      "claim": "A million aligned AI agents could organize and cooperate more easily than humans because they share identical goals and can be copied, reducing alignment problems.",
+      "context": "Discussion about AI social insects and goal alignment suggests that copying and shared objectives may solve cooperation challenges that hinder human organizations."
+    }
+  ],
+  "episode_id": "ai-2027-month-by-month-model-of-intelligence-explosion-scott-alexander-daniel-kokotajlo",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/ai-2027-month-by-month-model-of-intelligence-explosion-scott-alexander-daniel-kokotajlo",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T16:10:21.988375"
+}

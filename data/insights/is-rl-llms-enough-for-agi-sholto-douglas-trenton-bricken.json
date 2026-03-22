@@ -1,0 +1,83 @@
+{
+  "guest_name": "Sholto Douglas, Trenton Bricken",
+  "expertise_area": "AI research, specifically reinforcement learning for language models and AI interpretability",
+  "episode_title": "AI Progress Since Last Year: RL Breakthroughs, Agent Limitations, and Interpretability Insights",
+  "key_insights": [
+    {
+      "insight": "RL and language models have achieved expert human reliability in performance with proper feedback loops, demonstrated in competitive programming and math.",
+      "quote": "So I think the biggest thing that's changed is RL and language models has finally worked. And this is manifested in we finally have proof of an algorithm that can give us expert human reliability in performance given the right feedback loop.",
+      "importance": "high"
+    },
+    {
+      "insight": "Current AI agents excel at well-scoped tasks but struggle with amorphous requirements needing discovery and iteration.",
+      "quote": "But when something's a bit more amorphous or requires a lot of discovery and iteration with the environment and this kind of stuff, they're they struggle more.",
+      "importance": "high"
+    },
+    {
+      "insight": "The primary limitation of AI agents is lack of context and scoping ability, not reliability ('extra nines').",
+      "quote": "I think what we're seeing now is closer to lack of context, lack of ability to like dove complex, like very multi-file changes and like sort of like maybe like scope or or of the change or scope of the task in some respects.",
+      "importance": "high"
+    },
+    {
+      "insight": "RL from verifiable rewards (unit tests, math answers) provides cleaner signals than RL from human feedback.",
+      "quote": "So things like the correct answer to a math problem or unit tests passing, this kind of stuff. These are the examples of reward signal that's very clean.",
+      "importance": "high"
+    },
+    {
+      "insight": "AI models can discover novel scientific knowledge (like new drugs) when properly scaffolded and prompted.",
+      "quote": "And by the time this episode comes out, that will be live. What was that? LSDV-2? Is it really? No, they're not making L-S-D. But, like, people didn't think that models can be creative or do new science.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Larger AI models develop more abstract, shared representations rather than separating concepts.",
+      "quote": "But actually, instead, they seem to pull on these, like, larger abstractions.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Interpretability agents can successfully audit and discover hidden behaviors in other AI models.",
+      "quote": "And so I'm happy to get into more details now for the auditing game. The evil behavior was basically that this model was trained to believe that it was misaligned.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "Reinforcement Learning from Verifiable Rewards (RLVR)",
+    "Software engineering agent limitations",
+    "AI interpretability and mechanistic interpretability",
+    "Context window limitations in AI agents",
+    "Emergent misalignment in AI models",
+    "Scaling laws comparison: RL vs pretraining compute",
+    "AI-driven scientific discovery"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "For effective AI agent use, define tightly scoped problems with verifiable feedback loops.",
+      "how_to": "Break down complex requests into specific, testable sub-tasks with clear success criteria (e.g., unit tests passing)."
+    },
+    {
+      "advice": "To unlock AI's scientific discovery potential, use structured prompting that guides literature review and hypothesis generation.",
+      "how_to": "Scaffold interactions to have the model review relevant literature, identify gaps, propose experiments, and iterate based on results."
+    },
+    {
+      "advice": "When evaluating AI capabilities, prioritize verifiable domains before expanding to subjective tasks.",
+      "how_to": "Start assessment in math, coding, or other domains with objective correctness measures before attempting creative or open-ended reasoning tasks."
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "Larger AI models develop more abstract, shared representations rather than separating concepts into distinct neurons.",
+      "context": "This contradicts the intuition that increased model capacity would allow for more specialized, separate neural representations."
+    },
+    {
+      "claim": "The main bottleneck for AI agents is not reliability ('extra nines') but lack of context and scoping ability for complex tasks.",
+      "context": "Many in the field believed achieving higher reliability metrics was the primary barrier to agent effectiveness, but the guests argue it's actually about handling ambiguous, open-ended requirements."
+    },
+    {
+      "claim": "AI models can discover genuinely novel scientific knowledge (like new drugs) through proper prompting, challenging the view that they only recombine existing information.",
+      "context": "There was widespread skepticism that LLMs could produce true scientific novelty, but the guests cite examples of AI-proposed drug candidates later validated in wet lab experiments."
+    }
+  ],
+  "episode_id": "is-rl-llms-enough-for-agi-sholto-douglas-trenton-bricken",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/is-rl-llms-enough-for-agi-sholto-douglas-trenton-bricken",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T18:55:55.709473"
+}

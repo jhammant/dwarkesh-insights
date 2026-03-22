@@ -1,0 +1,69 @@
+{
+  "guest_name": "Sarah",
+  "expertise_area": "Naval history and maritime strategy",
+  "episode_title": "Maritime Solutions to Continental Problems: Lessons from Britain's WWII Strategy for Modern Great Power Competition",
+  "key_insights": [
+    {
+      "insight": "Peripheral operations require overseas locations with superior sea access compared to land access to favor attrition rates",
+      "quote": "One, it has to be overseas so the enemy can't invade you or wreck your productive base. Secondly, you need local sea control to get in there, but that local sea access has got to be better than the land access, because you want to have it easier for Britain to get in and out than it is for the enemy because then attrition rates will favor Britain.",
+      "importance": "high"
+    },
+    {
+      "insight": "Avoiding overextension beyond the culminating point of attack prevents self-weakening through enemy counterattacks",
+      "quote": "Lesson number one is don't go beyond the culminating point of attack. What's that? The terminology comes from Klausowitz, Carl von Klauswitz, who is the Western guru on conventional land warfare, which means as if you're attacking in a battle, if you go too far, you'll weaken yourself because the enemy will counterattack, send you further backward than you would have otherwise.",
+      "importance": "high"
+    },
+    {
+      "insight": "The Battle of the Atlantic turned in May 1943 when unsustainable U-boat losses broke German commerce raiding effectiveness",
+      "quote": "So that in May of 43, the Germans lose 41 U-boats. That's unsustainable. That's a massive percentage of what they have. And in one of those, in I think it's about 25 U-boats going after a convoy of 37 ships, sink nothing, lose three U-boats, plus another one damage.",
+      "importance": "high"
+    },
+    {
+      "insight": "Alliances create additive strength by combining complementary capabilities rather than duplicating efforts",
+      "quote": "Alliances are additive, right? You should ideally add up all the complementary capabilities of you and your friends and then share them, divvy them out, in an optimal way to deal with things. Well, the Axis Alliance was also additive in the sense that the Germans added to their GDP, the GDPs of all the places they occupied... whereas the allies are all game to help each other.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Continental powers like Russia and China are geographically vulnerable to blockade due to narrow seas limiting naval egress",
+      "quote": "So let's start with Putin here, Vlad the Bad, on his little Mongol pony, a continental mode of transport. If you live there, what can you get out of it? It's a long horse ride if you're going to do it that way. So whom can he blockade? Well, he's got one aircraft carrier... It's not getting repaired anytime fast. And it's just like an occupational hazard problem. So that one's not doing any good. He's got Putin has got two liquid playgrounds that he likes. One's the Black Sea... But now that Bashar al-Assad has moved to Moscow, it's unclear how that works. But in any case, it's a useless base because in wartime, no one gets through the dardanelles.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "peripheral theater strategy",
+    "Battle of the Atlantic tactics",
+    "culminating point of attack",
+    "alliance additive effects",
+    "geographic constraints on naval power",
+    "Alfred Thierman's maritime prerequisites",
+    "modern Russia-China maritime vulnerabilities"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Achieve sea control to enable global connections between allies, theaters, and resources",
+      "how_to": "Implement effective blockade, convoy systems with escort carriers and destroyer escorts, and leverage intelligence decryption (like Enigma) to protect shipping lanes"
+    },
+    {
+      "advice": "Begin peripheral operations in theaters where you possess sea access advantages over adversaries",
+      "how_to": "Select overseas locations with better sea than land access, deploy disposable forces (excess of homeland defense needs), ensure joint (land-sea) and combined (allied) operations"
+    },
+    {
+      "advice": "Build alliances pairing nations with complementary capabilities to counter continental powers",
+      "how_to": "Combine manpower-rich nations (like Russia) with industrial production powerhouses (like the US), coordinate through joint command structures and shared bases"
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "Germany's defeat in WWII was primarily due to Hitler's strategic mistakes rather than Allied superior strategy",
+      "context": "Despite the lecture being framed as explaining Britain's strategic wins, the recurring theme is German self-sabotage: invading the USSR after France fell, declaring war on the US after Pearl Harbor, and opening a second front against the world's largest army when already engaged with Britain"
+    },
+    {
+      "claim": "The success of Western Allied operations like Normandy was entirely dependent on Soviet efforts on the Eastern Front",
+      "context": "The argument states that 'So that's what makes Normandy possible, is the Russians really holding on to things,' suggesting Western front viability relied solely on the Eastern front tying down German forces, downplaying independent Western Allied contributions"
+    }
+  ],
+  "episode_id": "how-hitler-almost-starved-britain-sarah-paine",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/how-hitler-almost-starved-britain-sarah-paine",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T22:08:18.164904"
+}

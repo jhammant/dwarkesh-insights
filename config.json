@@ -1,0 +1,26 @@
+{
+  "podcast_name": "Dwarkesh Podcast",
+  "short_name": "Dwarkesh",
+  "slug": "dwarkesh-podcast",
+  "repo_name": "dwarkesh-insights",
+  "emoji": "🧠",
+  "description": "AI-powered analysis of every Dwarkesh Podcast episode — deep conversations with leading thinkers",
+  "subtitle": "Deep conversations with the brightest minds in AI, science, and civilization",
+  "disclaimer": "Not affiliated with Dwarkesh Patel or the Dwarkesh Podcast",
+  "source": "podscripts",
+  "source_config": {
+    "podscripts_slug": "dwarkesh-podcast",
+    "delay": 4.0
+  },
+  "design": {
+    "theme": "dark",
+    "primary_color": "#6366f1",
+    "accent_color": "#8b5cf6",
+    "highlight_color": "#a78bfa",
+    "bg_dark": "#0f0f1a",
+    "bg_card": "#1a1a2e"
+  },
+  "bad_guest_names": ["Not applicable", "Not provided", "N/A", "Various", "Unknown", "Multiple", "null", "undefined", ""],
+  "bad_episode_titles": ["N/A", "Unknown", "Episode", "null", "undefined", "Dwarkesh Podcast", ""],
+  "episode_title_builder": "Dwarkesh #{number} — {guest}"
+}

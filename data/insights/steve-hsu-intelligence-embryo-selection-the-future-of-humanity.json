@@ -1,0 +1,72 @@
+{
+  "guest_name": "Steve Shue",
+  "expertise_area": "Genomic prediction and polygenic risk scoring for embryo selection in IVF",
+  "episode_title": "Genomic Prediction and the Future of Embryo Selection",
+  "key_insights": [
+    {
+      "insight": "Feynman advised treating romantic interactions as a numbers game where each encounter is independent and rejection shouldn't affect self-esteem",
+      "quote": "You have to divorce your, you have to be totally rational about it. You're never going to see that girl again. Right? You're, you're in an airport lounge or you're at a bar. It's Saturday night in Pasadena or Westwood. And you're talking to some girl. And he says, you're never going to see her again. This is your one interaction with her. Five minute interaction. Do what you have to do. And if she, for some reason, doesn't like you, just go to the next one.",
+      "importance": "high"
+    },
+    {
+      "insight": "The genetic architecture of complex traits is surprisingly simple and additive, with differences between individuals largely due to having more or less of certain genetic factors rather than complex interactions",
+      "quote": "So in other words, it's kind of weird that the ways that I differ from you are merely just because I have more of something and you have less of something and it's not like, oh, these things are interacting in some super, you know, incredibly un-understandable way.",
+      "importance": "high"
+    },
+    {
+      "insight": "Different traits are governed by largely disjoint sets of genetic variants, meaning we can optimize for multiple traits independently without significant trade-offs",
+      "quote": "They're just disjoint regions of your genome that are governing certain things. And so why not? You have three billion base pairs. There's a lot you can do in there. There's a lot of information in there. So you can have, if you need a thousand to control diabetes risk, I can have, I think I estimated you can easily have a thousand roughly independent traits that are just disjoint in their genetic dependencies.",
+      "importance": "high"
+    },
+    {
+      "insight": "Genomic prediction for embryo selection can significantly increase healthy lifespan, with potential gains of about 4 years disability-adjusted life years from selecting among 10 embryos",
+      "quote": "And then you showed that with 10 embryos, you could increase disability-adjusted life years by four, which is like a huge increase of, like, if you think about like if you could just live four years longer in the healthy state.",
+      "importance": "high"
+    },
+    {
+      "insight": "The first mover advantage in genomic prediction comes from established clinic relationships and trust, not just having the best algorithm",
+      "quote": "There is a huge first mover advantage because very important is the channel relationships between us and the clinics. And nobody's going to be able to get in there very easily when they come later because we're developing trust and a big track record with clinics all over the world and we're well known.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Even with optimal genetics, current predictors suggest a natural lifespan limit of around 120 years",
+      "quote": "Given this polygenic predictor for overall health, which is used in selecting embryos today, if you just say, like, well, out of a billion people, what's the best person, typically? What would their score be on this index? And then how long would they be predicted to live? It's about 120 years.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "Polygenic risk scoring for embryo selection",
+    "Additive genetic architecture of complex traits",
+    "Disjoint genetic variants for different disease risks",
+    "Machine learning applications in genomics",
+    "IVF embryo testing and selection"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Approach social interactions as independent trials in a numbers game to reduce anxiety and fear of rejection",
+      "how_to": "Remind yourself before each interaction that it's a standalone encounter with no long-term consequences for your self-worth, and focus on executing your approach rather than worrying about outcomes"
+    },
+    {
+      "advice": "For couples undergoing IVF, consider genomic prediction testing to identify embryos with lower polygenic risk for serious diseases",
+      "how_to": "Consult with your IVF clinic about partnering with genomic prediction services that can analyze embryo biopsies for disease risk scores prior to implantation"
+    },
+    {
+      "advice": "When evaluating genetic predictors for complex traits, prioritize models with strong additive components over those assuming complex gene interactions",
+      "how_to": "Look for predictors that assign individual weights to specific SNPs rather than models emphasizing high-order interactions between genetic variants"
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "The genetic basis of complex traits is predominantly additive and simple, contrary to expectations of complex, nonlinear interactions",
+      "context": "Many researchers expected traits like height or disease risk to emerge from intricate gene-gene interactions, but evidence shows most heritable variation comes from simple additive effects of individual genetic variants"
+    },
+    {
+      "claim": "Different traits are controlled by largely separate sets of genetic variants, challenging the assumption of widespread pleiotropy where single genes affect multiple traits",
+      "context": "While pleiotropy exists for some variants, the major genetic determinants for distinct traits (e.g., diabetes risk vs. schizophrenia) tend to occupy non-overlapping regions of the genome, allowing for independent optimization"
+    }
+  ],
+  "episode_id": "steve-hsu-intelligence-embryo-selection-the-future-of-humanity",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/steve-hsu-intelligence-embryo-selection-the-future-of-humanity",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T20:55:58.579390"
+}

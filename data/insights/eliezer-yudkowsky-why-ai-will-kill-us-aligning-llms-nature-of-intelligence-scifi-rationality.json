@@ -1,0 +1,73 @@
+{
+  "guest_name": "Eliezer Yudkowsky",
+  "expertise_area": "AI alignment and AI safety",
+  "episode_title": "Discussion on AI moratorium, alignment challenges, and human intelligence enhancement",
+  "key_insights": [
+    {
+      "insight": "Calling for AI moratoriums is worthwhile even without expected government adoption because it maintains dignity and shifts the Overton window by stating what ought to be done.",
+      "quote": "It seems foolish and to lack dignity to not even try to say what ought to be done. There wasn't a galaxy brain purpose behind it.",
+      "importance": "high"
+    },
+    {
+      "insight": "Public receptiveness to AI moratorium ideas is higher outside Silicon Valley tech circles than expected, contrary to assumptions about who would grasp AI risks first.",
+      "quote": "I heard rumors that people were actually like completely open to the concept of let's stop.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Delaying action on AI risks until more capable systems emerge (like GPT-5) may backfire by allowing AI to become deeply entrenched, making future intervention politically and technically harder.",
+      "quote": "even if GPT-5 doesn't end the world... maybe that's enough time for GBT4.5 to get ensconced everywhere and in everything and for it actually to be harder to call a stop",
+      "importance": "high"
+    },
+    {
+      "insight": "Hard limits on AI training compute alone cannot halt capability gains because algorithmic efficiency improvements continuously increase 'oomph per floating point operation'.",
+      "quote": "If we put a hard limit on the total compute and training runs right now, these systems would still get more capable over time as the algorithms improved and got more efficient",
+      "importance": "high"
+    },
+    {
+      "insight": "Human intelligence enhancement presents a more plausible path to reducing existential risk than aligning superintelligent AI, as enhancing human cognition has a realistic chance of success where AI alignment does not.",
+      "quote": "Human intelligence enhancement, make people smarter. Making people smarter has a chance of going right, in a way that making a extremely smart AI does not have a realistic chance of going right at this point.",
+      "importance": "high"
+    },
+    {
+      "insight": "Attempts to breed humans for extreme traits like inhuman niceness will likely fail due to psychology evolving as an integrated system, where selecting for one trait disrupts correlated adaptations.",
+      "quote": "If you try to make people who are inhumanly nice... you're going outside the space that human psychology has previously evolved and adapted to deal with and weird stuff will happen",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "AI moratorium policy effectiveness",
+    "AI alignment problem difficulty",
+    "Human intelligence enhancement strategies",
+    "Orthogonality thesis in AI development",
+    "Large language model interpretability limitations",
+    "Algorithmic efficiency vs. hardware constraints in AI progress"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Publicly advocate for prudent AI policies (like training moratoriums) even when political adoption seems unlikely, to maintain intellectual honesty and gradually shift public discourse.",
+      "how_to": "Write and disseminate clear, principled statements about AI risks through accessible media outlets to establish the idea in the Overton window for future crises."
+    },
+    {
+      "advice": "Invest in and explore human intelligence enhancement as a complementary risk mitigation strategy alongside technical AI alignment work.",
+      "how_to": "Support research into safe cognitive enhancement methods such as neurofeedback, genetic editing (if proven safe), and AI-augmented decision-making tools to improve humanity's collective wisdom."
+    },
+    {
+      "advice": "Design AI governance frameworks that account for software algorithmic progress, not just hardware compute limits, when setting safety boundaries.",
+      "how_to": "Develop dynamic policies that regularly reassess capability thresholds based on measured algorithmic efficiency gains, rather than static compute-based rules."
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "Normal people outside tech industry hubs are more receptive to AI moratorium ideas than Silicon Valley insiders who are expected to be early adopters of AI risk concerns.",
+      "context": "This contradicts the assumption that 'weirdos' in tech would be first to grasp AI dangers, suggesting broader public awareness may exist where experts underestimated it."
+    },
+    {
+      "claim": "Enhancing human biological intelligence has a higher probability of success in reducing existential risk than attempting to align superintelligent AI systems.",
+      "context": "This challenges the dominant AI safety paradigm that focuses almost exclusively on technical alignment of AI, proposing instead that improving human cognition is a more tractable approach."
+    }
+  ],
+  "episode_id": "eliezer-yudkowsky-why-ai-will-kill-us-aligning-llms-nature-of-intelligence-scifi-rationality",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/eliezer-yudkowsky-why-ai-will-kill-us-aligning-llms-nature-of-intelligence-scifi-rationality",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T18:08:21.220132"
+}

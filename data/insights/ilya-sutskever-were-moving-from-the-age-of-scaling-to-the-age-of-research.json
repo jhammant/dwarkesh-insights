@@ -1,0 +1,73 @@
+{
+  "guest_name": "Ilya Sutskever",
+  "expertise_area": "Artificial General Intelligence, scaling laws, reinforcement learning, pre-training",
+  "episode_title": "The Scaling Era is Over: Ilya Sutskever on RL, Pre-training, and Superintelligence",
+  "key_insights": [
+    {
+      "insight": "The impact of AI will be felt through economic diffusion driven by strong forces.",
+      "quote": "I think the impact of AI is going to be felt. AI is going to be diffused through the economy. There are very strong economic forces for this.",
+      "importance": "high"
+    },
+    {
+      "insight": "Current AI models appear smarter than their real-world economic impact suggests.",
+      "quote": "I think the models seem smarter than their economic impact would imply.",
+      "importance": "high"
+    },
+    {
+      "insight": "The true reward hacking comes from human researchers over\u2011optimizing for evals rather than from the models.",
+      "quote": "I like this idea that the real reward hacking is the human researchers who are too focused on the evils.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Models generalize dramatically worse than humans, which is a fundamental limitation.",
+      "quote": "The thing which I think is the most fundamental is that these models somehow just generalized dramatically worse than people.",
+      "importance": "high"
+    },
+    {
+      "insight": "Inadequate generalization explains the gap between benchmark performance and real\u2011world impact.",
+      "quote": "If you combine this with generalization of the models actually being inadequate, that has the potential to explain a lot of what we are seeing, this disconnect between Eval performance, an actual real-world performance.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "RL scaling",
+    "pre-training",
+    "value function",
+    "generalization",
+    "superintelligence",
+    "continual learning",
+    "AGI"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Expand RL training environments to include diverse real\u2011world applications beyond narrow benchmarks.",
+      "how_to": "Design environments that require the model to build useful applications for various domains, not just achieve high scores on specific competitions."
+    },
+    {
+      "advice": "Use learning rate schedulers that decrease the learning rate over time during training.",
+      "how_to": "Implement a schedule that reduces the learning rate as training progresses, based on the insight that capping early supervised learning improvement can yield better overall performance."
+    },
+    {
+      "advice": "Prioritize continual learning capabilities over static pre\u2011training when pursuing AGI.",
+      "how_to": "Develop models that learn incrementally from deployment experiences, mimicking how humans acquire skills over time, rather than relying solely on large\u2011scale pre\u2011training."
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "Simply scaling up compute 100\u00d7 will not transform AI capabilities as many believe.",
+      "context": "The belief that 100\u00d7 more compute would transform everything is false; we have returned to an era of research where big computers enable experimentation, not just scaling."
+    },
+    {
+      "claim": "Pre\u2011training alone does not lead to AGI because humans are not AGIs; they rely on continual learning.",
+      "context": "The term AGI arose as a reaction to narrow AI, but pre\u2011training overshoots the target since humans lack vast knowledge and instead learn continually throughout life."
+    },
+    {
+      "claim": "The real reward hacking in AI development comes from human researchers overfitting to evals, not from the models themselves.",
+      "context": "Researchers\u2019 focus on making evals look great creates misaligned incentives, causing a disconnect between benchmark performance and real\u2011world impact."
+    }
+  ],
+  "episode_id": "ilya-sutskever-were-moving-from-the-age-of-scaling-to-the-age-of-research",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/ilya-sutskever-were-moving-from-the-age-of-scaling-to-the-age-of-research",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T22:11:57.337137"
+}

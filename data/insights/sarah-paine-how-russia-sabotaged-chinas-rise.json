@@ -1,0 +1,71 @@
+{
+  "guest_name": "Dwarkesh Podcast",
+  "expertise_area": "Russo-Chinese relations",
+  "episode_title": "",
+  "key_insights": [
+    {
+      "insight": "Russia historically uses a sequential neighbor strategy to avoid two-front wars: destabilizing rising powers, ingesting failing ones, creating buffer zones, and waiting to pounce and absorb.",
+      "quote": "So what do you do to solve that problem? When you take on your neighbors sequentially, you set them up to fail, you destabilize the rising, ingest the failing, and you set up buffer zones in between, and you wait the opportune moment to pounce and absorb.",
+      "importance": "high"
+    },
+    {
+      "insight": "The Treaties of Aigun (1858) and Peking (1860) forced China to cede large territories to Russia, illustrating Russia's exploitation of Chinese weakness.",
+      "quote": "They cede to Russia, large swaths of territory in Central Asia and the Pacific coastline.",
+      "importance": "high"
+    },
+    {
+      "insight": "The 1919 Karachan manifesto initially promised return of all unequal treaty lands to China but was later diluted, revealing Russian duplicity and the origin of the Sino-Soviet friendship myth.",
+      "quote": "We're not imperialists. We're Bolsheviks. We're going to return all the lands from those unequal treaties and be your friend from evermore.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Russia funded all sides of Chinese civil wars to keep China divided and weak, preventing a strong neighbor from emerging.",
+      "quote": "Well, then you fund all sides of their civil wars and any side in between because you just want them to go at it.",
+      "importance": "high"
+    },
+    {
+      "insight": "After WWII, the Soviet Union seized Manchuria's industrial base and Mongolia, significantly weakening China's potential power.",
+      "quote": "They also take away Manchuria's industrial base.... they take 83% of the electrical power equipment, take it home to Russia, not turning lights on in Manchuria, 86% of mining, 82% of cement making, 80% of metalworking equipment.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "Treaty of Aigun 1858",
+    "Treaty of Peking 1860",
+    "Karachan manifesto 1919",
+    "Manchurian industrial base seizure 1945",
+    "Sino-Soviet split",
+    "China's nuclear weapon 1964",
+    "Deng Xiaoping reforms",
+    "Russian oil dependence"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Monitor for sequential neighbor destabilization and buffer zone creation as indicators of a great power's strategy to avoid two-front wars.",
+      "how_to": "Analyze foreign policy moves for patterns of setting up failing states, ingesting them, and creating buffer zones along borders."
+    },
+    {
+      "advice": "When assessing Sino-Russian relations, consider historical patterns of exploitation during periods of weakness to anticipate future territorial or economic demands.",
+      "how_to": "Study past treaties and resource seizures (e.g., Manchuria, Mongolia) to identify leverage points and predict Russian behavior."
+    },
+    {
+      "advice": "To counterbalance great power aggression, strengthen alliances with neighboring states and promote regional prosperity to reduce vulnerability to divide-and-rule tactics.",
+      "how_to": "Invest in economic partnerships and security cooperation with border states to create a united front against external pressure."
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "The notion of a natural Russo-Chinese alliance is false; historically they have been rivals and exploitative of each other.",
+      "context": "Despite occasional cooperation, the record shows Russia repeatedly seizing Chinese territory and undermining Chinese strength, while China has sought to reclaim lost lands and resist Russian dominance."
+    },
+    {
+      "claim": "The myth of Sino-Soviet friendship originated from the Karachan manifesto, which was later retracted, revealing Russian duplicity.",
+      "context": "The manifesto promised return of unequal treaty lands but was diluted after the Russian civil war, showing that early Soviet promises were not sincere and the friendship narrative was propagandistic."
+    }
+  ],
+  "episode_id": "sarah-paine-how-russia-sabotaged-chinas-rise",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/sarah-paine-how-russia-sabotaged-chinas-rise",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T22:32:06.937853",
+  "_name_source": "metadata"
+}

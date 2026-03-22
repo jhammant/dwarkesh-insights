@@ -1,0 +1,71 @@
+{
+  "guest_name": "Brian Kaplan",
+  "expertise_area": "Economics and gender studies (feminism critique)",
+  "episode_title": "Brian Kaplan on Don't Be a Feminist",
+  "key_insights": [
+    {
+      "insight": "Meritocracy is a good system and focusing on demographic representation is the wrong approach.",
+      "quote": "I believe in meritocracy. I think it is a good system. It is one that almost everyone sees the intuitive appeal of, and it works.",
+      "importance": "high"
+    },
+    {
+      "insight": "The core of feminism is the belief that society treats women less fairly than men.",
+      "quote": "What I say is that the really distinguishing view of feminism is that society treats women less fairly than men, right? the view that society treats women less fairly than men or treats men more fairly than women.",
+      "importance": "high"
+    },
+    {
+      "insight": "False feminist accusations about unfairness are a major factor that undermines feminism's validity.",
+      "quote": "I think the one that really does settle it against feminism in today's age is precisely the level of false feminist accusations about unfairness.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Over time, feminism becomes less true as society grows hyper-concerned about mistreating women.",
+      "quote": "one big thing that's happened over time is that people have become very hyper-concerned with the mistreatment of women, which means that feminism is becoming less true as a result.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Male managers are often reluctant to mentor female employees due to fear of repercussions.",
+      "quote": "it is totally standard now for male managers just to admit that they are reluctant to mentor female employees because they're so worried.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "meritocracy vs gender quotas",
+    "definition of feminism",
+    "false feminist accusations",
+    "hyper-concern about women's mistreatment",
+    "male reluctance to mentor women"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Prioritize meritocracy in hiring and promotion decisions, focusing on individual qualifications rather than demographic targets.",
+      "how_to": "Use structured interviews, skill assessments, and blind resume reviews to evaluate candidates based on performance and ability."
+    },
+    {
+      "advice": "Address workplace conflicts by assuming misunderstanding rather than bad intent and prioritizing relationship preservation.",
+      "how_to": "Before reacting, ask clarifying questions, give the benefit of the doubt, and seek resolution that maintains trust and friendship."
+    },
+    {
+      "advice": "Consider keyhole immigration solutions that address concerns without full exclusion, such as delaying voting rights or welfare access for new immigrants.",
+      "how_to": "Propose policies granting residency but postponing suffrage or public benefits, allowing time for integration while mitigating perceived risks."
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "Feminism is becoming less true over time because society's hyper-concern about mistreating women reduces actual unfairness.",
+      "context": "This runs counter to the common narrative that feminism gains validity as discrimination persists."
+    },
+    {
+      "claim": "False feminist accusations about unfairness are a major factor that makes society treat men unfairly, undermining feminism's own premise.",
+      "context": "Contrary to the view that accusations reflect real discrimination, he argues they skew perceptions and harm men."
+    },
+    {
+      "claim": "Meritocracy is a good system and attempts to impose demographic bias in hiring are misguided.",
+      "context": "Opposes prevailing diversity initiatives that advocate for gender or racial quotas despite claims of systemic bias."
+    }
+  ],
+  "episode_id": "bryan-caplan-feminists-billionaires-and-demagogues",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/bryan-caplan-feminists-billionaires-and-demagogues",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T17:02:10.609136"
+}

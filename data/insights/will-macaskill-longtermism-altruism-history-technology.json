@@ -1,0 +1,69 @@
+{
+  "guest_name": "William McCaskill",
+  "expertise_area": "Effective Altruism and long-termism",
+  "episode_title": "Discussion on What We Owe the Future",
+  "key_insights": [
+    {
+      "insight": "Moral progress is highly contingent unlike economic/technological progress which is robust across scenarios.",
+      "quote": "in terms of economic terms, I mean, I think that's the big difference between economic or technological progress and moral progress, where in the long run, at least, I think economic or technological progress is very non-contingent.",
+      "importance": "high"
+    },
+    {
+      "insight": "Long reflection is needed to prevent locking in suboptimal values before societal maturity.",
+      "quote": "the idea of long reflection is getting society into a state that before we take any drastic actions that might lock in a particular set of values. We allow this force of reason and empathy and debate and good-hearted kind of model inquiry to guide which values we end up with.",
+      "importance": "high"
+    },
+    {
+      "insight": "Current unprecedented change necessitates first-principles thinking over reliance on tradition.",
+      "quote": "we are at this period of, like, enormous change where the economy is doubling every 20 years, new technologies alive every single year. It's like unprecedented. And I think actually means we should much more than would make sense historically just be trying to figure things out more from first principles.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Declining fertility and research productivity threaten long-term scientific advancement.",
+      "quote": "it seems to your model about how scientific and technological progress happens is number of people times average research or productivity. And then, yeah, if research productivity is declining and also the number of people isn't growing that fast, then that's concerning.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Long-termist institutions risk co-option by present interests since future people cannot advocate for themselves.",
+      "quote": "there's just this fundamental issue that like if you're trying to represent or even give consideration to future people you just have to face the fact that they're not around and they can't lobby for themselves and so you're going to have co-option by you know people in the present",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "moral contingency theory",
+    "long reflection concept",
+    "economic progress non-contingency",
+    "first-principles thinking in technological change",
+    "fertility impact on scientific progress",
+    "long-termist institutional co-option risk",
+    "AI-driven value lock-in"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Increase historical study within the Effective Altruism community",
+      "how_to": "Treat history as a marginal but important complement to philosophy and economics training"
+    },
+    {
+      "advice": "Establish societal conditions for long reflection before locking in values",
+      "how_to": "Protect environments for reason, empathy, and debate to guide value selection without premature commitment"
+    },
+    {
+      "advice": "Apply first-principles thinking to moral and strategic decisions given rapid change",
+      "how_to": "Question traditional assumptions and derive solutions from foundational principles in high-change contexts"
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "Long-term economic and technological progress is largely non-contingent across historical scenarios",
+      "context": "Challenges the assumption that all major historical developments are highly contingent; argues strong incentives for progress make outcomes robust despite initial contingencies"
+    },
+    {
+      "claim": "Current moral values are likely better than average compared to possible historical outcomes",
+      "context": "Counters pessimistic views from moral contingency by pointing to civilization's retention of major gains like abolition of slavery and democracy as evidence of above-average moral standing"
+    }
+  ],
+  "episode_id": "will-macaskill-longtermism-altruism-history-technology",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/will-macaskill-longtermism-altruism-history-technology",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T21:22:35.952932"
+}

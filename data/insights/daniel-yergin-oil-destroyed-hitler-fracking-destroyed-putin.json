@@ -1,0 +1,79 @@
+{
+  "guest_name": "Daniel Yergin",
+  "expertise_area": "Energy history and geopolitics",
+  "episode_title": "",
+  "key_insights": [
+    {
+      "insight": "Writing a comprehensive history often reveals unexpected connections that expand the original scope.",
+      "quote": "I think you begin by not realizing what you're doing.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Oil's early dominance was as a lighting fuel, not transportation, shaping early industry dynamics.",
+      "quote": "John D. Rockefeller became the richest man in the United States as a merchant of lighting, not as a merchant of mobility.",
+      "importance": "high"
+    },
+    {
+      "insight": "Antitrust breakup of Standard Oil ultimately strengthened the industry by fostering innovation.",
+      "quote": "It probably actually led to a stronger industry.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Oil became a strategic resource recognized during World War I, enabling Allied mobility advantage.",
+      "quote": "World War I is when people realize that oil is a strategic resource.",
+      "importance": "high"
+    },
+    {
+      "insight": "Market adjustments, not government controls, better resolve oil supply disruptions.",
+      "quote": "One of the lessons to me from the prize is actually, enabling markets to adjust.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The shale revolution transformed U.S. energy independence, turning a major importer into a top producer.",
+      "quote": "The United States was a world's largest importer of oil. We were only producing 5 million barrels a day of oil in 2008. Now we're 13.2 million barrels a day. The U.S. is energy independent.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "History of Standard Oil",
+    "Oil as lighting fuel",
+    "Antitrust impact on Standard Oil",
+    "World War I oil strategy",
+    "1973 oil crisis",
+    "Shale revolution and U.S. energy independence",
+    "OPEC and sovereign wealth funds",
+    "AI electricity demand"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Enable market mechanisms to adjust to energy supply shocks rather than imposing price controls.",
+      "how_to": "Remove price controls and allow price signals to guide supply and demand adjustments."
+    },
+    {
+      "advice": "Diversify oil revenues via sovereign wealth funds invested internationally to avoid Dutch disease.",
+      "how_to": "Allocate a portion of oil revenues to a sovereign wealth fund that invests abroad and use returns for domestic development."
+    },
+    {
+      "advice": "Train local workforce when entering foreign oil markets to reduce nationalization risk.",
+      "how_to": "Invest in education and training programs for local employees to develop indigenous expertise."
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "The antitrust case against Standard Oil was not a mistake and actually strengthened the industry.",
+      "context": "Conventional view sees antitrust as breaking up monopoly; he argues it led to more innovation and a stronger industry."
+    },
+    {
+      "claim": "Oil's early use was primarily for lighting, not transportation, contrary to popular association with cars.",
+      "context": "Many think oil's importance started with automobiles; he notes early decades were lighting."
+    },
+    {
+      "claim": "The 1973 oil crisis had a huge effect despite only a 15% supply drop due to psychological panic and government controls.",
+      "context": "People assume large supply shock; he says modest drop amplified by controls."
+    }
+  ],
+  "episode_id": "daniel-yergin-oil-destroyed-hitler-fracking-destroyed-putin",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/daniel-yergin-oil-destroyed-hitler-fracking-destroyed-putin",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T17:42:13.947589"
+}

@@ -1,0 +1,63 @@
+{
+  "guest_name": "Jung Chang",
+  "expertise_area": "Modern Chinese history and memoir writing, specializing in Mao era",
+  "episode_title": "Interview with Jung Chang on Wild Swans, Mao biography, and life under Mao",
+  "key_insights": [
+    {
+      "insight": "Mao maintained control through societal isolation and terror, preventing people from questioning his authority despite personal suffering",
+      "quote": "One is the complete isolation of the society from the outside world, from alternative information... And the other is terror, this intense terror, which really scared people into suppressing any unorthodox thoughts.",
+      "importance": "high"
+    },
+    {
+      "insight": "The Cultural Revolution was initiated by Mao to create terror and eliminate political rivals like Liu Xiaochi, not purely for ideological reasons",
+      "quote": "Mao first of all created this gigantic upheaval in China in order to create the kind of terror that people would only obey him, not Liu Xiao, not even the party, but only him.",
+      "importance": "high"
+    },
+    {
+      "insight": "The Great Leap Forward famine resulted from Mao's policy of exporting food to fund industrialization, causing mass starvation",
+      "quote": "It's as simple as that. It's food export. I mean, Liu Xiauchi, he's number two and his main target in the cultural revolution. It was thanks to a visit back to his old village that made up his mind to stop Mao's policies.",
+      "importance": "high"
+    },
+    {
+      "insight": "Deng Xiaoping avoided denouncing Mao after gaining power because he believed rejecting Mao would collapse communist rule in China",
+      "quote": "I think he was probably thinking that if you reject Mao, it's inevitable that communism will collapse in China.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Self-criticism sessions were used as a psychological weapon to break victims' spirits and turn them against themselves",
+      "quote": "I think Mao knows people's psychology very well. And I think he uses this as a weapon to break people. I mean, to humiliate them and to break them.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "Cultural Revolution terror tactics",
+    "Great Leap Forward food export policy",
+    "Communist party psychological control mechanisms",
+    "Deng Xiaoping's political succession calculations",
+    "Self-criticism sessions as oppression tool"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "To analyze totalitarian regimes, examine both information isolation and state-induced terror as dual control mechanisms",
+      "how_to": "Research how regimes restrict external information access while creating fear systems to suppress dissent, as seen in Mao's China"
+    },
+    {
+      "advice": "When studying historical famines, investigate government resource allocation policies rather than attributing suffering solely to natural causes",
+      "how_to": "Analyze export/import data, internal distribution policies, and prioritization of state projects over population needs during crisis periods"
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "Mao's Cultural Revolution was primarily motivated by personal revenge against Liu Xiaochi for challenging his policies, not ideological struggle",
+      "context": "While most analyses frame the Cultural Revolution as ideological purification, Chang presents evidence that Mao launched it to punish his rival who had opposed the Great Leap Forward policies"
+    },
+    {
+      "claim": "Deng Xiaoping's refusal to publicly denounce Mao was a strategically correct decision to preserve communist rule in China",
+      "context": "Contrary to the view that leaders should openly condemn predecessors' atrocities, Chang argues Deng's silence was necessary because rejecting Mao would have undermined the entire communist system's legitimacy"
+    }
+  ],
+  "episode_id": "jung-chang-wild-swans-author-living-through-historys-largest-man-made-famine",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/jung-chang-wild-swans-author-living-through-historys-largest-man-made-famine",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T19:10:54.430230"
+}

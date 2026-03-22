@@ -1,0 +1,72 @@
+{
+  "guest_name": "Steve Burns",
+  "expertise_area": "Neuroscience and AI safety research",
+  "episode_title": "How the Brain Implements Learning: Neuroscience Insights for AI",
+  "key_insights": [
+    {
+      "insight": "The cortex may implement omnidirectional inference (predicting any subset of variables from any other subset), unlike LLMs which only predict next token.",
+      "quote": "So like omnidirectional inference or omnidirectional prediction, whereas an LLM is just you see everything in the context window and then it, it, it computes a very particular conditional probability, which is, given all the last thousands of things, what is the very probabilities for all the next token.",
+      "importance": "high"
+    },
+    {
+      "insight": "Evolution built complex, developmentally-regulated loss functions into the brain that are more sophisticated than the simple loss functions used in current ML.",
+      "quote": "My personal hunch within that framework is that the field has neglected the role of this very specific loss functions, very specific cost functions. Machine learning tends to like mathematically simple loss functions, predict the next token. You know, cross entropy. These simple kind of computer scientist lost functions. I think evolution may have built a lot of complexity into the loss functions.",
+      "importance": "high"
+    },
+    {
+      "insight": "The brain has a 'steering subsystem' with innate responses, and the cortex learns to predict these responses to enable generalization from abstract concepts to physiological reactions.",
+      "quote": "So now I'm activating your steering subsystem. Your steering subsystem spider, a hypothalamus subgroup of neurons, of skittering insect, are activating based on these very abstract concepts in the conversation.",
+      "importance": "high"
+    },
+    {
+      "insight": "Evolution encoded complex reward functions through specialized cell types in the steering subsystem rather than requiring the learning subsystem to anticipate everything.",
+      "quote": "So in the steering subsystem, there's like a gazillion, you know, thousands of really weird cells, which might be like the one for the spider flinch reflex and the one for I'm about to taste salt.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The genome doesn't need to encode everything because it specifies simple reward functions that get generalized through the learning subsystem's world model.",
+      "quote": "And if evolution found those lost functions, which aid learning, then it actually kind of makes sense how so you can build an intelligence with so little information because like the reward function, you're like in Python, right? The reward function is like literally a line. And so you just like have like a thousand lines like this.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The brain implements both model-free RL (in basal ganglia) and model-based RL (in cortex) systems working together.",
+      "quote": "Well, so I think there are some parts of the brain that are thought to do something that's very much like model-free RL, that sort of parts of the basal ganglia, sort of striatum and basal ganglia, they have like a certain, like, finite, relatively small action space.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "Omnidirectional inference in cortical processing",
+    "Complex loss functions in biological vs artificial neural networks",
+    "Steering subsystem and learned prediction of innate responses",
+    "Evolutionary encoding of reward functions through specialized cell types",
+    "Model-free vs model-based reinforcement learning in brain systems"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "AI researchers should experiment with more complex, biologically-inspired loss functions that incorporate multiple objectives and developmental stages.",
+      "how_to": "Design loss functions that activate different objectives at different training stages, similar to how different brain areas have different loss functions activated during development."
+    },
+    {
+      "advice": "Developers should explore architectures supporting omnidirectional inference rather than unidirectional prediction.",
+      "how_to": "Create models capable of predicting any subset of input variables from any other subset, moving beyond next-token prediction to flexible conditional generation."
+    },
+    {
+      "advice": "Neuroscience-AI collaboration should study the steering subsystem to improve AI's ability to generalize from abstract concepts to physiological responses.",
+      "how_to": "Incorporate modules that learn to predict innate responses from cortical representations, enabling generalization to novel situations involving those responses (e.g., fear responses to abstract threats)."
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "The field of AI has neglected the role of complex loss functions that evolution built into the brain.",
+      "context": "Most ML uses mathematically simple loss functions like cross-entropy for next token prediction, but the brain likely uses much more complex, developmentally-regulated loss functions that are critical to its learning efficiency."
+    },
+    {
+      "claim": "Omnidirectional inference (predicting any subset from any subset) may be a key capability of cortex that current LLMs lack.",
+      "context": "LLMs are trained to predict only the next token, but cortex may be capable of predicting any pattern in inputs given any other missing subset, making it more flexible and sample-efficient than current AI architectures."
+    }
+  ],
+  "episode_id": "adam-marblestone-ai-is-missing-something-fundamental-about-the-brain",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/adam-marblestone-ai-is-missing-something-fundamental-about-the-brain",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T23:03:49.065163"
+}

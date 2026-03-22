@@ -1,0 +1,63 @@
+{
+  "guest_name": "Robin Hanson",
+  "expertise_area": "Social science and economics with focus on signaling theory, hidden motives, and long-term thinking",
+  "episode_title": "The Long View and Hidden Motives in Human Behavior",
+  "key_insights": [
+    {
+      "insight": "Human discount rates (~50% per generation) align with evolutionary biology, as individuals value immediate reproduction over long-term resource saving due to 50% gene sharing with offspring.",
+      "quote": "So your individual genes, they can't save resources for themselves. They can only save resources for this whole creature that you are, which is a bundle of genes. And this whole creature that you are, when it passes on and has descendants, those descendants only have half as many genes. And so that means that your genes have a choice between doing things that promote the genes right now versus doing things that collect resources and have a 50-50 chance of promoting that gene later on because its descendants may only have a 50% chance of sharing that gene.",
+      "importance": "high"
+    },
+    {
+      "insight": "Organizations fail as long-term resource accumulators because individuals in control inevitably divert resources for personal or familial benefit, undermining organizational purpose.",
+      "quote": "So, you know, for the long run, the question is, how can organizations find a way to collect resources and keep it directed for the purpose of the organization as opposed to allowing the people who run the organization to grab those resources for themselves.",
+      "importance": "high"
+    },
+    {
+      "insight": "Conversation primarily functions as a signaling game to display mental capabilities (like an 'impressive backpack') rather than to exchange useful information.",
+      "quote": "So our story is, you can think of yourself as having this mental backpack of tools and resources. Every time a new topic comes up, your job is to find something in that backpack that's relevant and interesting and even impressive. But more consistently and often you can do that, play this game, whatever subject comes up, you've got something relevant and interesting. The more impressive that backpack is.",
+      "importance": "high"
+    },
+    {
+      "insight": "Academia values impressive work over truth or usefulness, mirroring how conversation operates as signaling rather than information sharing.",
+      "quote": "So academics are trying to do mainly is to show off, just like individuals are showing off. So most academics are trying to produce their next paper and have it be impressive. And when they submit it to a journal, that journal will evaluate it primarily in terms of how impressive it is. That is how difficult was it? How many people could do this? And so the referees who are looking at it do not ask how important this is or how original of this is or how useful this is. They ask overwhelmingly, how impressive is this?",
+      "importance": "medium"
+    },
+    {
+      "insight": "In leadership selection, loyalty signaling often outweighs ability signaling, as organizations prioritize allegiance over raw competence.",
+      "quote": "So honestly, ability takes a second place to loyalty in politics and in many other areas of leadership, even for a manager or a CEO. Often when they are looking for subordinates promote, loyalty matters more to them than ability.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "Evolutionary basis of human discount rates",
+    "Organizational resource diversion problem",
+    "Conversation as ability signaling",
+    "Academia as prestige signaling",
+    "Loyalty signaling in leadership selection"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Design organizational constitutions with legally enforceable clauses mandating long-term resource preservation to counteract individual self-interest.",
+      "how_to": "Create binding organizational charters that require resource accumulation for the entity's purpose, using legal mechanisms to prevent leaders from diverting funds to personal use."
+    },
+    {
+      "advice": "Prioritize sustainable economic growth as the best proxy for long-term well-being when impartial about specific future individuals.",
+      "how_to": "Support policies and investments that increase overall economic output and technological advancement, as growth correlates with a 'bigger future' regardless of who inhabits it."
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "Being overly articulate or politically precise can reduce electoral success because voters prefer vague candidates onto whom they can project their own desires.",
+      "context": "Contrary to the assumption that clarity helps politicians, Hanson argues ambiguity allows broader appeal: 'if they can be vague, the vague words can encompass a lot of possibilities... if they were very clear about their positions, that would be a big turnoff to a lot of people for whom the clarity is not the position they want.'"
+    },
+    {
+      "claim": "Meditation practice may not reduce self-delusion but instead functions as another form of prestige signaling within certain communities.",
+      "context": "Challenges the assumption that meditation increases self-awareness: 'I'm not seeing much evidence that it's like this thing that helps the world a lot... What I see is that it's very prestigious in their world. That is their ranking pecking order.'"
+    }
+  ],
+  "episode_id": "robin-hanson-the-long-view",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/robin-hanson-the-long-view",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T20:03:25.405163"
+}

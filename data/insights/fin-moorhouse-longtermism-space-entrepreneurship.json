@@ -1,0 +1,81 @@
+{
+  "guest_name": "FinnMorehouse",
+  "expertise_area": "Effective Altruism, philosophy, and long-termism",
+  "episode_title": "Finn Morehouse on EA Prizes, Criticism, and Long-Termism",
+  "key_insights": [
+    {
+      "insight": "Funding criticism of EA is crucial for the movement to remain anti-fragile and correct its course early before beliefs ossify",
+      "quote": "having this kind of property of being like anti-fragile with respect to being wrong. like really celebrating and endorsing, changing your mind in a kind of loud and public way. That just seems really important.",
+      "importance": "high"
+    },
+    {
+      "insight": "EA has reached an inflection point where it's doing incredible things, making early criticism more valuable than later course correction",
+      "quote": "the effective altruism movement overall has reached its place where it's actually beginning to do, like, a lot of really incredible things... it seems like if there's a kind of an inflection point, you want to get the criticism out the door and you want to respond to it like earlier rather than later because you want to set the path in the right direction rather than a just course, which is more expensive later on.",
+      "importance": "high"
+    },
+    {
+      "insight": "The modern long-termist idea that the future could be really big and therefore matter a lot took thousands of years of philosophy to emerge, showing how non-obvious it once was",
+      "quote": "It's super surprising to me that the movement, like long-termism, at least in its modern form, it took thousands of years of philosophy before somebody had the idea that, oh, like, the future could be really big, therefore the future matters a lot.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Progress in philosophy involves conceptual engineering - finding useful distinctions and building frameworks - not just determining true/false claims",
+      "quote": "It's like, oh, we've been thinking about these questions for thousands of years, but we're still kind of unsure... And I think that misses like a really important kind of progress, which is something you might call like conceptual engineering or something, which is finding these like really useful distinctions and then like building structures on top of them.",
+      "importance": "medium"
+    },
+    {
+      "insight": "If EA-type thinking had been applied historically, we should expect many failed attempts (moon shots) but that wouldn't mean the strategy was wrong",
+      "quote": "if something like EA type thinking was in the water and was, like, thought through very well, yep, I think it would, go wrong a bunch of times and that shouldn't be kind of terrible news.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Identifying and connecting talented people with EA opportunities is a critical bottleneck given the available philanthropic funding",
+      "quote": "there's a sense of which it is an important consideration for this like project of trying to do the most good. Like you really want to find people who can like put these ideas in practice. And I think there's a special premium on that kind of person now given that there's like a lot of philanthropic kind of funding ready to like be deployed.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "Effective Altruism criticism mechanisms",
+    "Long-termism philosophical origins",
+    "Conceptual engineering in philosophy",
+    "Historical counterfactuals of EA thinking",
+    "For-profit vs non-profit impact pathways",
+    "EA talent identification and development"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Create prizes or funding mechanisms to incentivize public criticism of EA movements",
+      "how_to": "Allocate specific funds (like the $20,000 prizes for EA criticism) to reward public critique and course correction"
+    },
+    {
+      "advice": "Apply conceptual engineering when addressing philosophical problems",
+      "how_to": "Focus on finding useful distinctions and building practical frameworks rather than solely pursuing true/false answers"
+    },
+    {
+      "advice": "Prioritize talent identification as a high-leverage EA activity",
+      "how_to": "Develop and fund programs that connect talented individuals (especially young people) with EA opportunities to put ideas into practice"
+    },
+    {
+      "advice": "When evaluating historical counterfactuals of EA thinking, expect many failures but don't conclude the strategy was flawed",
+      "how_to": "Recognize that EA-type thinking involves high-variance 'moon shots' where frequent failure doesn't invalidate the approach if occasional successes are enormous"
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "The many-worlds interpretation may not substantially alter practical decision-making if one starts from a risk-neutral position",
+      "context": "This contrasts with views that many-worlds would radically change ethics and decision theory, suggesting instead that 'things just shake out to kind of where they started'"
+    },
+    {
+      "claim": "For-profit approaches are limited for helping groups that cannot pay, such as future people or animals",
+      "context": "This challenges enthusiasm for for-profit solutions in EA by pointing out market limitations when beneficiaries can't engage in exchange"
+    },
+    {
+      "claim": "The basic long-termist idea took thousands of years to emerge, suggesting it wasn't historically obvious or intuitive",
+      "context": "This counters the intuition that long-termism is a relatively simple insight, emphasizing how long it took humanity to reach this conclusion"
+    }
+  ],
+  "episode_id": "fin-moorhouse-longtermism-space-entrepreneurship",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/fin-moorhouse-longtermism-space-entrepreneurship",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T18:15:53.519995"
+}

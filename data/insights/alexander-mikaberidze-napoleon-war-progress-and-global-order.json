@@ -1,0 +1,72 @@
+{
+  "guest_name": "Alexander Mika Beretsa",
+  "expertise_area": "History of the Napoleonic Wars and global history",
+  "episode_title": "Napoleonic Wars, A Global History",
+  "key_insights": [
+    {
+      "insight": "The Napoleonic Wars had a global scope, affecting trajectories of world regions beyond Europe.",
+      "quote": "It changes the trajectory that many of these world regions followed.",
+      "importance": "high"
+    },
+    {
+      "insight": "British expansion in India was driven by the perceived French threat under Wellesley, even though the actual threat was minimal.",
+      "quote": "it is under this pretense of confronting the French threat that Wellesley then embarks on empire building.",
+      "importance": "high"
+    },
+    {
+      "insight": "The Continental System had mixed effects on industrialization, sometimes delaying development due to war destruction and short French presence.",
+      "quote": "there are all areas where the war had a far greater impact and the continental system with its restrictions actually delayed the industrial development rather than promote it.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The impact of Napoleonic reforms depended on the duration of French presence and local acceptance.",
+      "quote": "the impact of Napoleon needs to be qualified... it depends on particular region and on the duration of the French presence.",
+      "importance": "high"
+    },
+    {
+      "insight": "The Napoleonic era fueled an evolving quest for equality that influenced later political and social reforms across Europe.",
+      "quote": "it's the quest for these evolving notions of equality.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "Napoleonic Wars global impact",
+    "British imperial expansion in India during Napoleonic Wars",
+    "Continental System and industrialization in Europe",
+    "Napoleonic reforms and the Napoleonic Code",
+    "Post-Napoleonic quest for equality and political reform",
+    "Enlightened despotism and meritocracy in Napoleonic governance"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Adopt a global perspective when studying historical conflicts to capture non-European impacts.",
+      "how_to": "Examine colonial archives, trade data, and local narratives from regions such as India and the Americas alongside European sources."
+    },
+    {
+      "advice": "Distinguish between perceived threats and actual capabilities when analyzing policy decisions.",
+      "how_to": "Compare official rhetoric with intelligence assessments, military deployments, and diplomatic communications to assess threat levels."
+    },
+    {
+      "advice": "Evaluate the longevity of reform policies by considering implementation duration and local acceptance.",
+      "how_to": "Compare regions with varying lengths of foreign rule and measure socio-economic indicators before and after the reform period."
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "Colonies can be a liability in war because they require diversion of resources for defense, challenging the notion that colonies always strengthen war effort.",
+      "context": "Guest notes that while colonies provide resources, defending them diverts attention and resources, as seen with British focus on India during the Napoleonic Wars."
+    },
+    {
+      "claim": "The Continental System often delayed industrial development rather than promoting it, contrary to the idea that protectionist blocks spur industry.",
+      "context": "Guest explains that in many areas war destruction and short French presence negated any benefits, leading to delayed industrialization."
+    },
+    {
+      "claim": "Napoleon should be seen as the last enlightened despot rather than a product of the revolution, challenging the typical portrayal of him as a revolutionary leader.",
+      "context": "Guest argues Napoleon did not support radicalism and his goals aligned with earlier enlightened despots like Frederick the Great."
+    }
+  ],
+  "episode_id": "alexander-mikaberidze-napoleon-war-progress-and-global-order",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/alexander-mikaberidze-napoleon-war-progress-and-global-order",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T16:13:14.966893"
+}

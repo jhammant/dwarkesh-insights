@@ -1,0 +1,80 @@
+{
+  "guest_name": "Augustine LeBron",
+  "expertise_area": "Quantitative trading, decision-making, hiring, and crypto",
+  "episode_title": "The Laws of Trading with Augustine LeBron",
+  "key_insights": [
+    {
+      "insight": "Adverse selection in hiring means job applicants are often those whose current employers don't value them highly, skewing the talent pool.",
+      "quote": "If you're looking for, if you're just sort of posting a job at, the applicants that apply are, you know, selected against in the sense that you're selected against that pool because, you know, the people who are really, really good, probably their employers know they're really good and so they're really incentivized to keep them.",
+      "importance": "high"
+    },
+    {
+      "insight": "A pure money-making motivation in trading correlates with missing important traits like curiosity and enjoyment of the game itself.",
+      "quote": "the like all I want to do is make the most money possible is correlated to things that that aren't maybe so great.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Retail stock trading (e.g., Robin Hood) is a different domain from professional market-making or quant trading at firms like Jane Street.",
+      "quote": "the concept of a domain is probably a lot narrower than people understand it to be like if I'm there sitting there on my Robin Hood account punting stocks back and forth like that is not the same domain as what a trader at a market market maker or a top trading firm would do.",
+      "importance": "high"
+    },
+    {
+      "insight": "Jane Street now uses bootcamp-style intensive training to teach traders fundamentals, accelerating the six\u2011to\u2011month\u2011to\u201118\u2011month ramp\u2011up to profitability.",
+      "quote": "There's now sort of a boot camp that you go through where you basically just intensively learn the fundamentals of everything that the firm feels like you need to know as a trader.",
+      "importance": "high"
+    },
+    {
+      "insight": "Tech hiring often fails by prioritizing specific skills over general abilities and potential, which are better predictors of long\u2011term success.",
+      "quote": "the most common failure mode I see in tech company hiring is hiring for skills instead of hiring for abilities and potential.",
+      "importance": "medium"
+    },
+    {
+      "insight": "On Uniswap V2, at least half of liquidity providers lose money due to adverse selection, which is the expected outcome before fees.",
+      "quote": "at least half of liquidity providers on Uniswap V2 lose money. They just lose money. And that's on prior is what you would expect.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "adverse selection in hiring",
+    "intrinsic motivation in trading",
+    "domain specificity in quantitative trading",
+    "bootcamp training for traders",
+    "crypto liquidity provider adverse selection"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Hire for abilities and potential rather than just specific skills.",
+      "how_to": "Design interviews that assess problem-solving, learning capacity, and intrinsic motivation through open-ended questions and practical exercises."
+    },
+    {
+      "advice": "Implement intensive bootcamp-style training for new hires to accelerate competence.",
+      "how_to": "Use Socratic questioning, iterative practice, and real-world simulations to teach core fundamentals quickly."
+    },
+    {
+      "advice": "Assess company fit by evaluating interviewers and their questions as a proxy for day-to-day work.",
+      "how_to": "Ask whether the interview tasks reflect actual job responsibilities and whether you enjoy the type of work discussed."
+    },
+    {
+      "advice": "Before providing liquidity on AMMs, model adverse selection costs to avoid unexpected losses.",
+      "how_to": "Estimate expected losses from adverse selection and compare to fees earned; only provide liquidity if net positive."
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "Success for crypto looks like integration into traditional finance, not replacement.",
+      "context": "Contrary to crypto maximalists who believe blockchain will displace banks and exchanges."
+    },
+    {
+      "claim": "The most common failure mode in tech hiring is hiring for skills instead of abilities and potential.",
+      "context": "Opposes the widespread practice of screening for specific technical checklists."
+    },
+    {
+      "claim": "Startups should be willing to take on technical debt when scaling rapidly because the implied interest rate they're willing to pay is incredibly high.",
+      "context": "Goes against the intuition that rapid growth is the worst time to accumulate technical debt."
+    }
+  ],
+  "episode_id": "agustin-lebron-trading-crypto-and-adverse-selection",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/agustin-lebron-trading-crypto-and-adverse-selection",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T16:09:09.826317"
+}

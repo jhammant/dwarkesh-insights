@@ -1,0 +1,68 @@
+{
+  "guest_name": "Lars Duce",
+  "expertise_area": "Georgism and land value tax theory",
+  "episode_title": "Land is a big deal",
+  "key_insights": [
+    {
+      "insight": "Georgism targets unproductive rent-seeking by taxing unimproved land value, not buildings or human-made improvements.",
+      "quote": "Let's tax essentially monopolies and rent-seeking.",
+      "importance": "high"
+    },
+    {
+      "insight": "Georgism is genuinely pro-worker and pro-business, challenging the false dichotomy between capitalism and socialism.",
+      "quote": "We have this assumption that you either have to be pro-worker or pro-business, that you can't be both. And Georgeism is genuinely pro-worker and pro-business.",
+      "importance": "high"
+    },
+    {
+      "insight": "Land speculation explains why poverty persists despite technological progress, as rising land values capture productivity gains.",
+      "quote": "Why does poverty advance even when progress advances?... George answers that question in his book...",
+      "importance": "high"
+    },
+    {
+      "insight": "Virtual housing crises in online games mirror real-world land speculation, proving the issue is systemic, not accidental.",
+      "quote": "I started noticing this weird phenomenon in online multiplayer games going back 30 years repeatedly of virtual housing crises...",
+      "importance": "medium"
+    },
+    {
+      "insight": "A severance tax on natural resource extraction (like Norway's oil tax) complements land value tax by targeting similar rent-seeking behavior.",
+      "quote": "Severance tax is a tax on the extraction of natural resources. Is what Norway does with their oil...",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "Land value tax",
+    "Georgism",
+    "Rent seeking",
+    "Virtual land speculation",
+    "Severance tax",
+    "Ricardo's Law of Rent"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Implement split-rate property tax by setting building tax to zero while maintaining land value tax at revenue-neutral levels.",
+      "how_to": "Start in places like Texas... legalize split-rate property tax, thus retax buildings and land at separate rates, set the rate on buildings to zero, collect the same dollar amount of taxes."
+    },
+    {
+      "advice": "After establishing land value tax, apply severance taxes to natural resources and other monopoly-like assets before considering income or capital taxes.",
+      "how_to": "After land value tax, you should do things like severance tax on natural resources and other taxes on other monopolies and rents."
+    },
+    {
+      "advice": "Use land value tax revenue to replace regressive taxes or fund a universal basic income (citizens dividend) to address potential regressivity.",
+      "how_to": "It's up to you... whether you want to spend it on spending, whether you want to spend it on offsetting taxes, or whether you want to spend it on UBI."
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "Georgism represents an abundance mindset, not scarcity, because sharing land unlocks unused productive potential.",
+      "context": "Contrasts with the common belief that land inequality is inevitable due to fixed supply; argues that proper land sharing creates abundance."
+    },
+    {
+      "claim": "Most billionaires derive wealth from land/real estate (via banking/hedge funds), not innovation like Gates or Bezos.",
+      "context": "Challenges the perception that tech innovators represent typical billionaires; states most billionaires are in finance tied to real estate."
+    }
+  ],
+  "episode_id": "lars-doucet-progress-poverty-georgism-why-rent-is-too-damn-high",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/lars-doucet-progress-poverty-georgism-why-rent-is-too-damn-high",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T19:14:04.319467"
+}

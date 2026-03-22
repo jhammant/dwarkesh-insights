@@ -1,0 +1,88 @@
+{
+  "guest_name": "David Friedman",
+  "expertise_area": "Economics (price theory, marriage markets, legal systems, cryptocurrency)",
+  "episode_title": "Interview with Dr. David Friedman on Legal Systems, Dating Markets, and Cryptocurrency",
+  "key_insights": [
+    {
+      "insight": "Online dating hasn't improved matching efficiency because it's a sorting problem with idiosyncratic tastes, and search costs remain high despite technology.",
+      "quote": "I've been puzzled for quite a while on why online dating doesn't work better than it does, that in principle, a lot of dating is a sorting problem, that not only are you not identical to another bearded Indian or ethnic man of the same age, your potential dates have different tastes.",
+      "importance": "high"
+    },
+    {
+      "insight": "Legalizing polygyny benefits women by bidding up the 'price' of wives, making monogamous men worse off despite still getting a spouse.",
+      "quote": "if men can have multiple wives, that's going to bid up the price of a wife. It means that some men can, in effect, go on the market and try to bid for two wives instead of one. And that then means that the ordinary monogamous man still ends up getting a wife but on worse terms.",
+      "importance": "high"
+    },
+    {
+      "insight": "Arranged marriages may work better than love marriages due to social structures supporting marital happiness, not just better mate selection by parents.",
+      "quote": "I wonder if that's because of just a social structure where that maybe makes you happier while you're in marriage versus whether your parents are better at choosing a mate for you.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Bitcoin's decentralization succeeded where his eCash concept failed because it eliminated the need for a central issuer vulnerable to regulatory pressure.",
+      "quote": "the beautiful thing about Bitcoin is there's no issuer, and it does not require, you know, it's just happening invisibly online, as it were, which is very clever.",
+      "importance": "high"
+    },
+    {
+      "insight": "Prediction markets require large bet sizes to avoid being dominated by ideologues and attract 'smart money' that moves prices toward accuracy.",
+      "quote": "if you could only make small bets, then the prices are going to be dominated by ideologues. Whereas if you can make bets of any size, then the smart money who doesn't care what's true, they only care what bets make money is likely to take over.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Global legal system uniformity stems from regulatory elites imitating each other across countries, not inherent superiority of state legal systems.",
+      "quote": "the elites across the world who control regulatory agencies and policymaking, they talk to each other... deeply imitative and coveting of each other's approval.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "marriage market economics",
+    "polygyny/polyandry effects",
+    "online dating limitations",
+    "arranged marriages vs love marriages",
+    "cryptocurrency and Bitcoin",
+    "prediction markets",
+    "legal system convergence",
+    "commitment theory of property rights",
+    "reputation-based contract enforcement"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Develop dating algorithms that measure idiosyncratic preferences through successful couple data rather than relying solely on objective traits.",
+      "how_to": "Track attributes of long-term couples and use machine learning to identify preference patterns that predict compatibility beyond surface-level characteristics."
+    },
+    {
+      "advice": "Compare marital outcomes between self-chosen and parent-chosen partners in culturally matched groups (e.g., Indian immigrants in the US) to isolate cultural support effects.",
+      "how_to": "Conduct longitudinal studies measuring satisfaction and longevity in arranged vs. love marriages within the same ethnic community controlling for acculturation factors."
+    },
+    {
+      "advice": "Design stablecoins with algorithmic supply adjustments that increase subdivisions when value rises to maintain purchasing power peg.",
+      "how_to": "Implement protocol rules where token denominations split (e.g., 1 BTC \u2192 1.12 units) when price appreciates, keeping real-value units constant."
+    },
+    {
+      "advice": "Remove betting caps and reduce fees in prediction markets to attract large-volume informed traders over ideologically motivated small bettors.",
+      "how_to": "Allow unlimited position sizes and implement maker-taker fee structures that reward liquidity provision from sophisticated participants."
+    },
+    {
+      "advice": "Create reputation systems where online scores trigger real-world consequences through verifiable identity attestations for high-stakes interactions.",
+      "how_to": "Link pseudonymous online reputation to legal identity via zero-knowledge proofs for services like housing rentals or employment where trust is critical."
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "Legalizing polygyny benefits women and harms men, contrary to the common belief that it exploits women.",
+      "context": "Most assume polygyny harms women by enabling male dominance, but Friedman's model shows it increases women's bargaining power by bidding up the 'price' of wives in the marriage market."
+    },
+    {
+      "claim": "Arranged marriages may produce happier outcomes than love marriages due to social support structures, challenging the Western ideal of romantic choice.",
+      "context": "Contradicts the assumption that individual choice leads to better matches; Friedman suggests cultural institutions in arranged systems foster marital stability and happiness through family/community support."
+    },
+    {
+      "claim": "Bitcoin's price volatility makes it unsuitable for daily transactions despite its success as a speculative asset, undermining narratives of it replacing fiat currency.",
+      "context": "Counters widespread advocacy for Bitcoin as everyday money; Friedman argues its instability prevents reliable pricing and comparison, necessitating stablecoins for transactional use."
+    }
+  ],
+  "episode_id": "david-friedman-dating-markets-legal-systems-bitcoin-and-automation",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/david-friedman-dating-markets-legal-systems-bitcoin-and-automation",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T17:55:57.862073"
+}

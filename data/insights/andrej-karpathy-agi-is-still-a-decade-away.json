@@ -1,0 +1,77 @@
+{
+  "guest_name": "Andre Carpathie",
+  "expertise_area": "Artificial Intelligence, specifically AI agents and large language models",
+  "episode_title": "",
+  "key_insights": [
+    {
+      "insight": "The development of useful AI agents will take a decade due to missing capabilities like intelligence, multimodality, and continual learning.",
+      "quote": "I think my reaction is like, we'll be working with these things for a decade.",
+      "importance": "high"
+    },
+    {
+      "insight": "Current agents lack sufficient intelligence, multimodality, and continual learning, making them cognitively inadequate for real-world work.",
+      "quote": "They just don't have enough intelligence. They're not multimodal enough... they don't do continual learning... they're just cognitively lacking and it's just not working.",
+      "importance": "high"
+    },
+    {
+      "insight": "Effective agents require first building strong representations via large language model pre-training before adding agent capabilities.",
+      "quote": "you actually have to get the language model first... you have to do that by all the pre-training and all the LLM stuff.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Pre-training functions as a \"crappy evolution\" that provides a useful starting point but is not equivalent to biological evolution.",
+      "quote": "I kind of call pre-training this kind of like crappy evolution.",
+      "importance": "medium"
+    },
+    {
+      "insight": "In-context learning may internally perform a form of gradient descent, enabling rapid adaptation unlike the static knowledge in weights.",
+      "quote": "I think it's possible that in context learning actually runs a small gradient loop internally...",
+      "importance": "medium"
+    },
+    {
+      "insight": "Outcome-based reinforcement learning is noisy and ineffective for intelligence tasks, akin to \"sucking supervision through a straw.\"",
+      "quote": "It's terrible. It's noise... sucking supervision through a straw.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "AI agents",
+    "large language models",
+    "reinforcement learning",
+    "in-context learning",
+    "continual learning",
+    "multimodal AI"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Use large language model pre-training as a foundation before developing agent capabilities.",
+      "how_to": "Train or acquire a strong LLM, then layer agent frameworks (e.g., tool use, planning) on top."
+    },
+    {
+      "advice": "Improve agent performance by enhancing multimodal integration and continual learning mechanisms.",
+      "how_to": "Incorporate vision, audio, and other modalities; implement external memory or online update schemes to retain information across sessions."
+    },
+    {
+      "advice": "Replace outcome-based RL with process-based supervision to provide finer-grained feedback.",
+      "how_to": "Design reward functions that assess intermediate steps, using techniques like step-by-step verification or learned critics."
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "The timeline for useful AI agents is a decade, not a year as many in the industry predict.",
+      "context": "Contrasts with hype about \"year of agents\"; based on observed bottlenecks in intelligence, multimodality, and learning."
+    },
+    {
+      "claim": "Reinforcement learning is largely ineffective for high-level intelligence tasks and mostly resembles motor skill learning.",
+      "context": "Challenges the common view that RL can drive complex problem solving; argues RL noise makes it unsuitable for tasks like math or coding."
+    },
+    {
+      "claim": "Building AI to mimic animals via evolution-inspired algorithms is misguided because AI training relies on imitation of human data, not evolutionary processes.",
+      "context": "Counters the perspective (e.g., Richard Sutton) that we should aim to build animal-like intelligence through RL; argues we are creating \"ghost spirit\" entities instead."
+    }
+  ],
+  "episode_id": "andrej-karpathy-agi-is-still-a-decade-away",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/andrej-karpathy-agi-is-still-a-decade-away",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T16:30:22.273761"
+}

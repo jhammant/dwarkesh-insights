@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dwarkesh Insights — Dwarkesh Podcast Knowledge Base</title>
+    <meta name="description" content="Deep conversations with the brightest minds in AI, science, and civilization">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>🧠 Dwarkesh <span>Insights</span></h1>
+            <p class="subtitle">Deep conversations with the brightest minds in AI, science, and civilization</p>
+            <nav class="nav">
+                <a href="#consensus" class="nav-link active" data-view="consensus">Top Insights</a>
+                <a href="#guests" class="nav-link" data-view="guests">Guests</a>
+                <a href="#episodes" class="nav-link" data-view="episodes">Episodes</a>
+                <a href="#topics" class="nav-link" data-view="topics">Topics</a>
+                <a href="#contrarian" class="nav-link" data-view="contrarian">Contrarian Corner</a>
+                <a href="#advice" class="nav-link" data-view="advice">Actionable Advice</a>
+            </nav>
+        </header>
+
+        <div class="stats-header" id="statsHeader">
+            <div class="stat-card"><div class="stat-number" id="statEpisodes">-</div><div class="stat-label">Episodes</div></div>
+            <div class="stat-card"><div class="stat-number" id="statGuests">-</div><div class="stat-label">Guests</div></div>
+            <div class="stat-card"><div class="stat-number" id="statInsights">-</div><div class="stat-label">Insights</div></div>
+            <div class="stat-card"><div class="stat-number" id="statAdvice">-</div><div class="stat-label">Advice Items</div></div>
+        </div>
+
+        <div class="search-container">
+            <input type="text" id="searchInput" class="search-input" placeholder="Search insights, guests, topics...">
+            <button id="searchBtn" class="search-btn">Search</button>
+        </div>
+
+        <main class="main-content">
+            <div id="consensusView" class="view active">
+                <h2 class="section-title">Top Consensus Themes</h2>
+                <div id="topicFilter-container" style="margin-bottom:20px;">
+                    <select id="topicFilter" class="filter-select"><option value="">All Topics</option></select>
+                </div>
+                <div id="consensusList" class="cards-grid"></div>
+            </div>
+            <div id="guestsView" class="view">
+                <h2 class="section-title">Guest Directory</h2>
+                <div style="display:flex;gap:10px;margin-bottom:20px;flex-wrap:wrap;">
+                    <input type="text" id="guestSearch" class="search-input" placeholder="Search guests..." style="flex:1;min-width:200px;">
+                    <select id="guestExpertiseFilter" class="filter-select"><option value="">All Expertise</option></select>
+                </div>
+                <div id="guestsList" class="cards-grid"></div>
+            </div>
+            <div id="episodesView" class="view">
+                <h2 class="section-title">All Episodes</h2>
+                <div id="episodesList" class="cards-grid"></div>
+            </div>
+            <div id="topicsView" class="view">
+                <h2 class="section-title">Topics Explorer</h2>
+                <div id="topicsList" class="topics-grid"></div>
+            </div>
+            <div id="contrarianView" class="view">
+                <h2 class="section-title">Contrarian Corner</h2>
+                <div id="contrarianList" class="cards-grid"></div>
+            </div>
+            <div id="adviceView" class="view">
+                <h2 class="section-title">Actionable Advice</h2>
+                <div style="margin-bottom:20px;">
+                    <select id="adviceTopicFilter" class="filter-select"><option value="">All Topics</option></select>
+                </div>
+                <div id="adviceList" class="cards-grid"></div>
+            </div>
+            <div id="searchView" class="view">
+                <h2 class="section-title">Search Results</h2>
+                <div id="searchResults"></div>
+            </div>
+        </main>
+
+        <div id="insightModal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <div id="modalBody"></div>
+            </div>
+        </div>
+
+        <footer style="text-align:center;padding:40px 20px;color:var(--text-secondary);font-size:0.85rem;">
+            <p>Not affiliated with Dwarkesh Patel or the Dwarkesh Podcast</p>
+            <p style="margin-top:8px;">Built with AI-powered transcript analysis</p>
+        </footer>
+    </div>
+    <script src="js/app.js"></script>
+</body>
+</html>

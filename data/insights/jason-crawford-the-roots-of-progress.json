@@ -1,0 +1,81 @@
+{
+  "guest_name": "Jason Crawford",
+  "expertise_area": "History of technology and philosophy of progress",
+  "episode_title": "",
+  "key_insights": [
+    {
+      "insight": "Progress is not automatic or inevitable; it requires active effort to sustain and accelerate.",
+      "quote": "progress is not automatic. It's not inevitable. It doesn't just keep going with its own momentum.",
+      "importance": "high"
+    },
+    {
+      "insight": "Long-term progress arises from overlapping S-curves of individual technologies as each saturates.",
+      "quote": "How then do we get exponentially increasing progress over a very long period of time? Well, we do it by overlapping the S-curves, right? As one area starts to kind of level off and get saturated and mature, we, hopefully, are finding some other area.",
+      "importance": "high"
+    },
+    {
+      "insight": "Post-WWII cultural shifts, including anti-technology sentiment from nuclear fears and environmentalism, may have reduced talent motivation in tech fields.",
+      "quote": "there's a number of factors in the decades following World War II that I think started to increase a certain strain of anti-technology and anti-progress sentiment in the culture.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Accumulating bureaucratic rules, even well-intentioned safety regulations, can add friction that slows innovation.",
+      "quote": "have we had sort of creeping regulation or sort of creeping bureaucracy at the legal level... have all of our institutions kind of evolved and accumulated a set of bureaucratic rules that have the effect of essentially adding overhead and friction to the creative and innovative process",
+      "importance": "medium"
+    },
+    {
+      "insight": "Educating citizens on the history of progress is a civic duty to prevent poorly informed policy that could degrade living standards.",
+      "quote": "progress studies is civic duty, where you pointed out that we're in a bad place to even make that determination because so few of us are actually educated on the history of progress and the huge consequence it's had.",
+      "importance": "high"
+    },
+    {
+      "insight": "Prescriptive optimism\u2014committing to act for a better future regardless of descriptive outlook\u2014is essential to address risks.",
+      "quote": "I am always and ever a prescriptive optimist. Like no matter how bad the odds are we are facing, you know, I think there's a chance... it'll only happen if we face up to the reality and then ask ourselves, what do we need to do to, you know, to prevent this?",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "S-curve technology adoption",
+    "Stagnation hypothesis",
+    "Anti-technology sentiment post-WWII",
+    "Regulatory bureaucracy and innovation friction",
+    "Progress studies education",
+    "Prescriptive optimism"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Invest in emerging technologies before current ones saturate to maintain overlapping S-curves.",
+      "how_to": "Monitor technology adoption curves and allocate R&D funding to nascent fields like biotech, computing, and advanced materials as older sectors mature."
+    },
+    {
+      "advice": "Counter anti-technology narratives by promoting evidence-based stories of progress benefits.",
+      "how_to": "Create public outreach programs highlighting historical improvements in health, lifespan, and living standards from technological advances."
+    },
+    {
+      "advice": "Evaluate cost-benefit of regulations to avoid unnecessary bureaucratic friction.",
+      "how_to": "Require retrospective analysis of major rules estimating their impact on innovation and adjust or repeal those with high innovation costs relative to safety gains."
+    },
+    {
+      "advice": "Integrate progress studies into school curricula to build civic understanding.",
+      "how_to": "Develop history-of-technology modules for high school social studies and partner with schools to offer after\u2011school programs like Progress Studies for Young Scholars."
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "The stagnation hypothesis (slowing progress in the last 50 years) is less important than the potential to accelerate future progress.",
+      "context": "Crawford argues that understanding how to speed up progress matters more than debating whether it has already slowed."
+    },
+    {
+      "claim": "Progress can lead to less progress because successful technologies saturate and reduce further gains unless new S\u2011curves are found.",
+      "context": "He explains that even if progress begets progress, each innovation\u2019s benefits level off, requiring continuous discovery of new areas to sustain long\u2011term growth."
+    },
+    {
+      "claim": "The linear model of innovation (basic science \u2192 technology) is overly simplistic; invention often drives new scientific understanding.",
+      "context": "Examples like the transistor and steam engine show that tinkering precedes theory and that science is frequently motivated by practical devices."
+    }
+  ],
+  "episode_id": "jason-crawford-the-roots-of-progress",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/jason-crawford-the-roots-of-progress",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T18:59:16.623876"
+}

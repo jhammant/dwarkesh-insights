@@ -1,0 +1,81 @@
+{
+  "guest_name": "Terence Tao",
+  "expertise_area": "Mathematics",
+  "episode_title": "",
+  "key_insights": [
+    {
+      "insight": "Kepler's discovery process resembled a high-temperature LLM generating many ideas, needing verification against precise data.",
+      "quote": "Kepler was a high-temperature LLM, where Newton comes up with this explanation of why the three laws of planetary motion must be true.",
+      "importance": "high"
+    },
+    {
+      "insight": "The bottleneck in science has shifted from idea generation to verification due to AI lowering the cost of generating theories.",
+      "quote": "Now the bottleneck is different. So we're now in a situation where suddenly people can generate thousands of theories for a given scientific problem. And now we have to verify them, evaluate them.",
+      "importance": "high"
+    },
+    {
+      "insight": "AI currently solves low-hanging fruit math problems (those with little prior literature) but struggles with deeper problems requiring new techniques; success per attempt is low but scaled attempts yield occasional wins.",
+      "quote": "So there will be a similar thing happening with, you know, there are hundreds of really prestigious, difficult math problems out there. A couple may, you know, some A.m. may get lucky and actually solve them.",
+      "importance": "medium"
+    },
+    {
+      "insight": "AI excels at breadth (generating many ideas) while humans excel at depth; science should be redesigned to leverage AI for broad exploration and humans for deep work.",
+      "quote": "So as I said, we do it. we should have a lot more effort in creating very broad classes of problems to work on rather than one or two really deep important problems.",
+      "importance": "high"
+    },
+    {
+      "insight": "Formal proof assistants like Lean allow decomposition of proofs into atomic steps, enabling assessment of which lemmas are key and facilitating collaborative refinement.",
+      "quote": "The beauty of formalizing a proof in something like Lean is that you can take any piece of it and study it atomically.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Scientific progress often comes from deleting incorrect assumptions (e.g., Aristotelian notion of rest) rather than merely adding new theories.",
+      "quote": "often progress has been made actually not by adding more theories, but by deleting some assumptions that you have in your mind.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "Kepler's laws of planetary motion",
+    "Tycho Brahe's astronomical data",
+    "AI-assisted mathematical problem solving",
+    "Lean proof assistant",
+    "History of scientific paradigm shifts",
+    "Breadth vs depth in scientific research"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Use AI to generate broad problem sets for initial exploration, then have human experts focus on the difficult subproblems identified.",
+      "how_to": "Create AI-driven problem banks that output many candidate problems; researchers review outputs to select promising hard problems for deep work."
+    },
+    {
+      "advice": "Employ formal proof assistants (Lean) with rubrics to evaluate AI-generated proofs on tool use, alternative paths, and clarity, enabling iterative refinement.",
+      "how_to": "Train or prompt AI to produce Lean code and then apply rubrics assessing steps like reaching for right tools, checking work, exploring alternatives."
+    },
+    {
+      "advice": "Develop standardized challenge datasets for AI scientific hypothesis generation that require reporting both successes and failures to avoid publication bias.",
+      "how_to": "Curate a set of open problems with known difficulty levels; mandate that AI evaluations publish success rates and failure analyses."
+    },
+    {
+      "advice": "Leverage AI to automatically apply known techniques from literature to new problems before attempting novel approaches, increasing efficiency.",
+      "how_to": "Prompt AI to retrieve and try all relevant standard methods on a given problem, documenting which succeed or fail, to guide human insight."
+    }
+  ],
+  "contrarian_claims": [
+    {
+      "claim": "Idea generation is no longer the bottleneck in science; verification and evaluation have become the limiting factor.",
+      "context": "Traditionally, generating hypotheses was seen as the hard, creative part; AI now produces ideas cheaply, shifting the challenge to filtering and validating them."
+    },
+    {
+      "claim": "A low success rate (1-2%) per AI attempt can still yield valuable scientific progress when scaled massively, contrary to the expectation that each AI-generated hypothesis must be high-quality.",
+      "context": "Many dismiss AI's low per-trial success as useless, but large-scale trials can produce occasional breakthroughs akin to Kepler's lucky fit with few data points."
+    },
+    {
+      "claim": "Deleting entrenched assumptions (e.g., Aristotelian rest) can drive progress more than adding new theories, challenging the view that science advances mainly by accumulating theories.",
+      "context": "Historical examples show progress often required discarding false intuitions rather than just adding complexity."
+    }
+  ],
+  "episode_id": "terence-tao-kepler-newton-and-the-true-nature-of-mathematical-discovery",
+  "episode_url": "https://podscripts.co/podcasts/dwarkesh-podcast/terence-tao-kepler-newton-and-the-true-nature-of-mathematical-discovery",
+  "_extracted_by": "nvidia/nemotron-3-super-120b-a12b:free",
+  "_extracted_at": "2026-03-21T20:57:35.405372"
+}
