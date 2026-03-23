@@ -1,5 +1,7 @@
 .venv/
 __pycache__/
-data/transcripts/
-data/transcripts_dwarkesh/
+node_modules/
 *.pyc
+.env
+data/transcripts/
+data/transcripts_*/

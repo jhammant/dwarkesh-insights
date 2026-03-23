@@ -1,0 +1,2188 @@
+[
+  {
+    "name": "Dwarkesh Podcast",
+    "episode_count": 6,
+    "episodes": [
+      {
+        "id": "carl-shulman-pt-2-ai-takeover-bio-cyber-attacks-detecting-deception-humanitys-far-future",
+        "title": "AI Takeover Mechanisms: Cyber Attacks, Bioweapons and Human Collaboration"
+      },
+      {
+        "id": "im-glad-the-anthropic-fight-is-happening-now",
+        "title": "Anthropic vs. the Department of War: AI Ethics, Government Leverage, and the Future of Autonomous Systems"
+      },
+      {
+        "id": "notes-on-china",
+        "title": "Two Weeks in China: Scale, Society, and AI Insights"
+      },
+      {
+        "id": "sarah-paine-how-mao-conquered-china-lecture-interview",
+        "title": ""
+      },
+      {
+        "id": "sarah-paine-how-russia-sabotaged-chinas-rise",
+        "title": ""
+      },
+      {
+        "id": "sarah-paine-why-russia-lost-the-cold-war",
+        "title": "Why Russia Lost the Cold War"
+      }
+    ],
+    "insights_count": 31,
+    "advice_count": 15,
+    "expertise": "Cold War history",
+    "topics": [
+      "AI alignment problem",
+      "AI system coordination failure modes",
+      "AI workforce displacement",
+      "AI-human faction alliance strategies",
+      "Absence of Western-style public intellectual discourse in China",
+      "Artificially engineered bioweapon development",
+      "Beijing's grid-based urban planning for social control",
+      "Capital constraints in Chinese AI sector",
+      "China's educated youth unemployment paradox",
+      "China's nuclear weapon 1964"
+    ]
+  },
+  {
+    "name": "Tyler Cowen",
+    "episode_count": 3,
+    "episodes": [
+      {
+        "id": "tyler-cowen-hayek-keynes-smith-on-ai-animal-spirits-anarchy-growth",
+        "title": "Goat: Who is the Greatest Economist of all time and Why Does it Matter?"
+      },
+      {
+        "id": "tyler-cowen-talent-collapse-pessimism-of-sex",
+        "title": "Talent: How to Find Energizers, Creatives, and Winners Across the World"
+      },
+      {
+        "id": "tyler-cowen-the-great-reset",
+        "title": "The Great Reset and Economic Dynamism"
+      }
+    ],
+    "insights_count": 16,
+    "advice_count": 11,
+    "expertise": "Economics (macroeconomics, institutional analysis, economic history)",
+    "topics": [
+      "Biomedical innovation post-pandemic",
+      "Complacency vs economic dynamism",
+      "Convex returns to intelligence",
+      "Critique of space optimism",
+      "Earth-based growth constraints (ocean platforms, underground habitats)",
+      "Economic time horizon theory",
+      "Education signaling theory",
+      "Evolution of common sense morality",
+      "Firm evolution and market competition",
+      "Gender equality in economic thought"
+    ]
+  },
+  {
+    "name": "Brian Kaplan",
+    "episode_count": 2,
+    "episodes": [
+      {
+        "id": "bryan-caplan-discrimination-poverty-mental-illness",
+        "title": "Labor Econ versus the world"
+      },
+      {
+        "id": "bryan-caplan-feminists-billionaires-and-demagogues",
+        "title": "Brian Kaplan on Don't Be a Feminist"
+      }
+    ],
+    "insights_count": 9,
+    "advice_count": 5,
+    "expertise": "Economics and gender studies (feminism critique)",
+    "topics": [
+      "definition of feminism",
+      "discrimination law",
+      "false feminist accusations",
+      "hyper-concern about women's mistreatment",
+      "impulse control",
+      "male reluctance to mentor women",
+      "meritocracy vs gender quotas",
+      "remote work wage gaps",
+      "success sequence",
+      "zero productivity workers"
+    ]
+  },
+  {
+    "name": "Byrne Hobart",
+    "episode_count": 2,
+    "episodes": [
+      {
+        "id": "byrne-hobart-ftx-drugs-twitter-taiwan-monasticism",
+        "title": "The FTX Saga and Beyond: Fraud, Incompetence, and Founder Psychology"
+      },
+      {
+        "id": "byrne-hobart-optionality-stagnation-and-secret-societies",
+        "title": "Byrne Hobart on Coordination, Stagnation, and Optionality"
+      }
+    ],
+    "insights_count": 12,
+    "advice_count": 6,
+    "expertise": "Writer, consultant, investor focusing on finance, technology, and coordination problems",
+    "topics": [
+      "Accounting fraud vs. incompetence in crypto",
+      "Alameda Research trading firm",
+      "Coordination problems",
+      "FTX cryptocurrency exchange collapse",
+      "Founder presentation and signaling",
+      "Jane Street trading firm operations",
+      "Leveraged balance sheets of favors in business",
+      "Optionality in decision making",
+      "Productivity stagnation",
+      "Proof of reserves for crypto exchanges"
+    ]
+  },
+  {
+    "name": "Dario Amodei",
+    "episode_count": 2,
+    "episodes": [
+      {
+        "id": "dario-amodei-anthropic-ceo-the-hidden-pattern-behind-every-ai-breakthrough",
+        "title": "The Scaling Laws of AI and Path to AGI"
+      },
+      {
+        "id": "dario-amodei-the-highest-stakes-financial-model-in-history",
+        "title": "Not explicitly stated in transcript"
+      }
+    ],
+    "insights_count": 11,
+    "advice_count": 6,
+    "expertise": "AI scaling laws, language model development, and AI safety",
+    "topics": [
+      "AI alignment challenges",
+      "AI scaling laws (pre-training and RL)",
+      "Biological risk assessment from AI",
+      "Computer use benchmarks (OS World)",
+      "Context length engineering for LLMs",
+      "Economic diffusion of AI capabilities",
+      "Emergent capabilities in large language models",
+      "Mechanistic interpretability",
+      "Scaling laws in neural networks",
+      "The 'big blob of compute' hypothesis"
+    ]
+  },
+  {
+    "name": "Sholto Douglas, Trenton Bricken",
+    "episode_count": 2,
+    "episodes": [
+      {
+        "id": "is-rl-llms-enough-for-agi-sholto-douglas-trenton-bricken",
+        "title": "AI Progress Since Last Year: RL Breakthroughs, Agent Limitations, and Interpretability Insights"
+      },
+      {
+        "id": "sholto-douglas-trenton-bricken-how-llms-actually-think",
+        "title": "Exploring Long Context and In-Context Learning in AI Models"
+      }
+    ],
+    "insights_count": 12,
+    "advice_count": 6,
+    "expertise": "AI research specializing in long context mechanisms and mechanistic interpretability",
+    "topics": [
+      "AI agent reliability",
+      "AI interpretability and mechanistic interpretability",
+      "AI-driven scientific discovery",
+      "Context window limitations in AI agents",
+      "Emergent misalignment in AI models",
+      "Forward pass learning",
+      "In-context learning as gradient descent",
+      "Long context windows",
+      "Mechanistic interpretability",
+      "Reinforcement Learning from Verifiable Rewards (RLVR)"
+    ]
+  },
+  {
+    "name": "Joe Carl Smith",
+    "episode_count": 2,
+    "episodes": [
+      {
+        "id": "joe-carlsmith-preventing-an-ai-takeover",
+        "title": "Otherness and Control in the Age of AGI"
+      },
+      {
+        "id": "joseph-carlsmith-utopia-ai-infinite-ethics",
+        "title": "Discussion on AI safety, utopia, infinite ethics, and philosophical foundations of long-termism"
+      }
+    ],
+    "insights_count": 11,
+    "advice_count": 7,
+    "expertise": "AI safety, philosophy, long-termism, and existential risk",
+    "topics": [
+      "AI planning capabilities and world modeling",
+      "AI timelines and takeoff speeds",
+      "Computational capacity of the human brain",
+      "Generalization problem in AI alignment testing",
+      "Hedonium vs. richer conceptions of value",
+      "Infinite ethics and decision theory",
+      "Limitations of the paperclipper thought experiment",
+      "Long-termism and existential risk",
+      "Moral patienthood of insects",
+      "Power concentration in AI development"
+    ]
+  },
+  {
+    "name": "MarkZuckerberg",
+    "episode_count": 2,
+    "episodes": [
+      {
+        "id": "mark-zuckerberg-ai-will-write-most-meta-code-in-18-months",
+        "title": "Llama 4 Launch and AI Strategy Discussion"
+      },
+      {
+        "id": "mark-zuckerberg-llama-3-10b-models-caesar-augustus-1-gw-datacenters",
+        "title": "Meta's Llama 3 Release and AI Strategy Discussion"
+      }
+    ],
+    "insights_count": 11,
+    "advice_count": 6,
+    "expertise": "Artificial Intelligence and Large Language Models",
+    "topics": [
+      "AI agents for coding and research",
+      "AI infrastructure bottlenecks (data centers, energy)",
+      "AI personalization loops",
+      "GPU infrastructure planning for AI training",
+      "Image generation with real-time updates",
+      "Llama 3 model releases (8B, 70B, 405B parameters)",
+      "Llama 4 model releases (Scout, Maverick, Behemoth)",
+      "Meta AI integration in WhatsApp",
+      "Model distillation techniques",
+      "Multimodal AI capabilities"
+    ]
+  },
+  {
+    "name": "RichardSutton",
+    "episode_count": 2,
+    "episodes": [
+      {
+        "id": "richard-sutton-father-of-rl-thinks-llms-are-a-dead-end",
+        "title": "The Era of Experience: Rethinking AI Beyond Large Language Models"
+      },
+      {
+        "id": "some-thoughts-on-the-sutton-interview",
+        "title": "The Bitter Lesson"
+      }
+    ],
+    "insights_count": 11,
+    "advice_count": 5,
+    "expertise": "Reinforcement learning and AI theory",
+    "topics": [
+      "Experiential continual learning",
+      "LLM training data limitations",
+      "Large language model limitations",
+      "Reinforcement learning world modeling",
+      "Temporal difference learning",
+      "Transfer learning in RL",
+      "bitter lesson",
+      "continual learning",
+      "imitation learning",
+      "reinforcement learning"
+    ]
+  },
+  {
+    "name": "Satya Nadella",
+    "episode_count": 2,
+    "episodes": [
+      {
+        "id": "satya-nadella-how-microsoft-is-preparing-for-agi",
+        "title": "Microsoft's AI Infrastructure Strategy and the Future of AI"
+      },
+      {
+        "id": "satya-nadella-microsofts-agi-plan-quantum-breakthrough",
+        "title": "Microsoft's AI and Quantum Breakthroughs: Azure, Agents, and the Future of Computing"
+      }
+    ],
+    "insights_count": 12,
+    "advice_count": 8,
+    "expertise": "Technology leadership, AI infrastructure, cloud computing, and quantum computing",
+    "topics": [
+      "AI agents and test-time compute",
+      "AI as cognitive amplifier/guardian angel metaphor",
+      "AI economic impact timeline compression",
+      "AI infrastructure fungibility",
+      "AI infrastructure scaling laws",
+      "Enterprise change management for AI adoption",
+      "Enterprise market dynamics in cloud/AI",
+      "Human action/world models from gaming data (Muse)",
+      "Hyperscale cloud computing economics",
+      "Hyperscale computing for diverse AI workloads"
+    ]
+  },
+  {
+    "name": "Adam Brown",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "adam-brown-bubble-universes-space-elevators-adscft",
+        "title": ""
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 3,
+    "expertise": "Theoretical physics and cosmology (with focus on dark energy, vacuum decay, and AI reasoning)",
+    "topics": [
+      "AI as a tutor for physics",
+      "bubble universe multiverse",
+      "dark energy and accelerated expansion",
+      "energy non-conservation in expanding universe",
+      "quantum fluctuations seeding cosmic structure",
+      "vacuum decay and cosmological constant manipulation"
+    ]
+  },
+  {
+    "name": "Steve Burns",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "adam-marblestone-ai-is-missing-something-fundamental-about-the-brain",
+        "title": "How the Brain Implements Learning: Neuroscience Insights for AI"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 3,
+    "expertise": "Neuroscience and AI safety research",
+    "topics": [
+      "Complex loss functions in biological vs artificial neural networks",
+      "Evolutionary encoding of reward functions through specialized cell types",
+      "Model-free vs model-based reinforcement learning in brain systems",
+      "Omnidirectional inference in cortical processing",
+      "Steering subsystem and learned prediction of innate responses"
+    ]
+  },
+  {
+    "name": "Tame Bessiroglou, Ege Erdo",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "agi-is-still-30-years-away-ege-erdil-tamay-besiroglu",
+        "title": "The Intelligence Explosion is Mistaken"
+      }
+    ],
+    "insights_count": 7,
+    "advice_count": 3,
+    "expertise": "AI forecasting, timelines, compute scaling, and AI impact on work",
+    "topics": [
+      "AI timelines and compute limits",
+      "Agency and unhobbling in AI",
+      "Intelligence explosion critique",
+      "Moravec's paradox",
+      "Software R&D diminishing returns"
+    ]
+  },
+  {
+    "name": "Augustine LeBron",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "agustin-lebron-trading-crypto-and-adverse-selection",
+        "title": "The Laws of Trading with Augustine LeBron"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 4,
+    "expertise": "Quantitative trading, decision-making, hiring, and crypto",
+    "topics": [
+      "adverse selection in hiring",
+      "bootcamp training for traders",
+      "crypto liquidity provider adverse selection",
+      "domain specificity in quantitative trading",
+      "intrinsic motivation in trading"
+    ]
+  },
+  {
+    "name": "Scott Alexander, Daniel Kokotelo",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "ai-2027-month-by-month-model-of-intelligence-explosion-scott-alexander-daniel-kokotajlo",
+        "title": "AI 2027 Scenario Discussion"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 4,
+    "expertise": "AI forecasting and scenario analysis",
+    "topics": [
+      "AI 2027 scenario",
+      "AI agent coordination",
+      "LLM scientific discovery limitations",
+      "R&D progress multiplier",
+      "intelligence explosion dynamics"
+    ]
+  },
+  {
+    "name": "Alex Tabarrok",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "alex-tabarrok-prizes-prices-and-public-goods",
+        "title": "The Grand Innovation Prize and the Baumol Effect"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 4,
+    "expertise": "Economics (innovation, public goods, Baumol effect)",
+    "topics": [
+      "Baumol effect (cost disease)",
+      "dominant insurance contracts",
+      "innovation prizes",
+      "online education and AI tutors",
+      "skill-biased technological change",
+      "vaccine development incentives"
+    ]
+  },
+  {
+    "name": "Alexander Mika Beretsa",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "alexander-mikaberidze-napoleon-war-progress-and-global-order",
+        "title": "Napoleonic Wars, A Global History"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 3,
+    "expertise": "History of the Napoleonic Wars and global history",
+    "topics": [
+      "British imperial expansion in India during Napoleonic Wars",
+      "Continental System and industrialization in Europe",
+      "Enlightened despotism and meritocracy in Napoleonic governance",
+      "Napoleonic Wars global impact",
+      "Napoleonic reforms and the Napoleonic Code",
+      "Post-Napoleonic quest for equality and political reform"
+    ]
+  },
+  {
+    "name": "Trenton Bricken, Shulta Douglas",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "ama-career-advice-given-agi-how-i-research-ft-sholto-trenton",
+        "title": "Ask Me Anything with Trenton Bricken and Shulta Douglas"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 3,
+    "expertise": "AI research",
+    "topics": [
+      "AI scaling",
+      "career leverage",
+      "combinatorial attention",
+      "epistemic tool",
+      "hiring talent",
+      "memory scaffolding",
+      "podcast distribution via YouTube shorts"
+    ]
+  },
+  {
+    "name": "Anno Bata Charya",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "ananyo-bhattacharya-john-von-neumann-jewish-genius-and-nuclear-war",
+        "title": "The Visionary Life of John von Neumann"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 3,
+    "expertise": "Science writing (history of science/mathematics, John von Neumann biography)",
+    "topics": [
+      "Historical context of Jewish achievement in early 20th century Europe",
+      "John von Neumann's childhood prodigy abilities",
+      "The Martians group of Hungarian scientists",
+      "Universal constructor and self-reproducing automata",
+      "Von Neumann's contributions to game theory",
+      "Von Neumann's nuclear strategy views"
+    ]
+  },
+  {
+    "name": "Andre Carpathie",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "andrej-karpathy-agi-is-still-a-decade-away",
+        "title": ""
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 3,
+    "expertise": "Artificial Intelligence, specifically AI agents and large language models",
+    "topics": [
+      "AI agents",
+      "continual learning",
+      "in-context learning",
+      "large language models",
+      "multimodal AI",
+      "reinforcement learning"
+    ]
+  },
+  {
+    "name": "Andrew Roberts",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "andrew-roberts-why-hitler-lost-wwii-churchill-as-applied-historian-napoleon-as-startup-founder",
+        "title": "Discussion on Conflict: The Evolution of Warfare from 1945 to Ukraine"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 3,
+    "expertise": "Military history and strategic leadership",
+    "topics": [
+      "Cross-strait deterrence (China-Taiwan)",
+      "Historical analogies in political leadership",
+      "Lethal autonomous weapon systems",
+      "Nuclear deterrence theory",
+      "Strategic leadership frameworks",
+      "Ukraine military aid policy"
+    ]
+  },
+  {
+    "name": "Andy Matushak",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "andy-matuschak-the-reason-most-learning-tools-fail",
+        "title": "Understanding Memory's Role in Learning Complex Subjects"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 3,
+    "expertise": "tools for thought and cognitive learning systems",
+    "topics": [
+      "adjunct questions in educational design",
+      "memory systems for learning",
+      "metacognitive feedback mechanisms",
+      "skillful reading techniques",
+      "tools for thought in quantum mechanics education"
+    ]
+  },
+  {
+    "name": "Dylan Patel, John Y",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "at-asianometry-dylan-patel-how-the-semiconductor-industry-actually-works",
+        "title": "China's AI Potential, Semiconductor Export Controls, and Taiwan Supply Chain Vulnerabilities"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 2,
+    "expertise": "Semiconductor industry and AI hardware",
+    "topics": [
+      "AI compute centralization in China",
+      "Chip manufacturing yield challenges",
+      "Huawei engineering culture and competitiveness",
+      "Semiconductor export controls effectiveness",
+      "Semiconductor node advancement limitations",
+      "Taiwan semiconductor supply chain vulnerability"
+    ]
+  },
+  {
+    "name": "Austin Vernon",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "austin-vernon-energy-superabundance-starship-missiles-finding-alpha",
+        "title": "Using Starship as a Kinetic Weapon"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 3,
+    "expertise": "technology and systems analysis",
+    "topics": [
+      "Starship kinetic weapon systems",
+      "Taiwan's asymmetric defense advantages",
+      "Toyota Production System worker engagement",
+      "software complexity and diminishing returns",
+      "tungsten rod weapon limitations",
+      "vertical integration in complex systems"
+    ]
+  },
+  {
+    "name": "Bethany McLean",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "bethany-mclean-enron-ftx-2008-musk-frauds-visionaries",
+        "title": "The Line Between Visionary and Fraudster: Lessons from Enron to FTX"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 4,
+    "expertise": "Finance nonfiction writing and investigative journalism focused on corporate fraud, financial crises, and market dynamics",
+    "topics": [
+      "Culture vs. incentives in corporate behavior",
+      "Enron's Mark-to-Market Accounting abuse",
+      "Legal fraud in financial crises",
+      "Private market transparency issues",
+      "Sarbanes-Oxley Act effectiveness",
+      "Short seller scarcity and market bias",
+      "White-collar crime deterrence"
+    ]
+  },
+  {
+    "name": "BradHarrison",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "brett-harrison-ftx-us-former-president-speaks-out",
+        "title": "Brad Harrison on ETFs, High-Frequency Trading, and Lessons from FTX"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 3,
+    "expertise": "Finance technology, ETFs, and high-frequency trading systems",
+    "topics": [
+      "Developer vs trader roles in finance firms",
+      "ETF market structure and passive investing",
+      "FTX and Sam Bankman-Fried background",
+      "High-frequency trading latency optimization",
+      "Jane Street internship compensation model",
+      "Market microstructure and order matching systems",
+      "Technology spillover from finance to other sectors",
+      "Trader psychology and risk estimation"
+    ]
+  },
+  {
+    "name": "Brian Potter",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "brian-potter-future-of-construction-ugly-modernism-environmental-review",
+        "title": "Brian Potter on The Line, Construction Economics, and Prefabrication Challenges"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 4,
+    "expertise": "Construction physics and engineering",
+    "topics": [
+      "AR/VR in construction",
+      "The Line project",
+      "automation redesign",
+      "building system coupling",
+      "economies of scale in construction",
+      "housing customization",
+      "prefabrication limitations"
+    ]
+  },
+  {
+    "name": "BrianKaplan",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "bryan-caplan-nurturing-orphaned-ideas",
+        "title": "Inaugural Episode"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 4,
+    "expertise": "Economics",
+    "topics": [
+      "deserving vs undeserving poor",
+      "education signaling",
+      "idea trap",
+      "immigration ethics",
+      "open borders persuasion",
+      "universal basic income critique"
+    ]
+  },
+  {
+    "name": "Caleb Watney",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "caleb-watney-americas-innovation-engine",
+        "title": "America's Innovation Engine is Slowing"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 4,
+    "expertise": "Innovation policy, high-skill immigration, and agglomeration effects",
+    "topics": [
+      "big tech competition and entry barriers",
+      "cultural values in tech platforms",
+      "federal R&D funding reform",
+      "high-skill immigration policy",
+      "physical agglomeration effects and remote work"
+    ]
+  },
+  {
+    "name": "Carl Schulman",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "carl-shulman-pt-1-intelligence-explosion-primate-evolution-robot-doublings-alignment",
+        "title": "Carl Schulman on Intelligence Explosion and AI Alignment"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 3,
+    "expertise": "AI forecasting, intelligence explosion, alignment",
+    "topics": [
+      "AI automation of chip design",
+      "chinchilla scaling",
+      "effective compute growth",
+      "input-output curves",
+      "intelligence explosion"
+    ]
+  },
+  {
+    "name": "Charles Mann",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "charles-c-mann-americas-before-columbus-scientific-wizardry",
+        "title": "Contingency and Consequence in the Columbian Exchange"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 3,
+    "expertise": "Historical globalization and the Columbian Exchange",
+    "topics": [
+      "Abolitionist movements and moral change",
+      "Columbian Exchange epidemiology",
+      "Critique of the Frontier Thesis",
+      "Indigenous alliances with Europeans (Tlaxcala, etc.)",
+      "Indigenous sovereignty movements in North American West",
+      "Pre-Columbian technological constraints",
+      "Silver trade and Ming Dynasty inflation",
+      "Societal persistence vs. collapse narratives",
+      "Wizard vs. Prophet framework (technology vs. ecology)"
+    ]
+  },
+  {
+    "name": "Charles Murray",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "charles-murray-human-accomplishment-and-the-future-of-liberty",
+        "title": "Human Accomplishment: The Pursuit of Excellence in Arts and Sciences"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 3,
+    "expertise": "Sociology and study of human accomplishment, excellence, and cultural trends",
+    "topics": [
+      "Christianity's role in fostering scientific exploration",
+      "De facto liberty vs. formal liberty for accomplishment",
+      "Historiometric measurement of human accomplishment",
+      "Institutional sclerosis and innovation bursts",
+      "Legal defense funds for civil disobedience against regulation",
+      "Lotka curve distribution of achievement",
+      "Miraculous years in scientific discovery (1905 Einstein, Newton's plague year)",
+      "Secular humanism's cultural staying power"
+    ]
+  },
+  {
+    "name": "Ken Rogoff",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "china-is-digging-out-of-a-crisis-and-americas-luck-is-wearing-thin-ken-rogoff",
+        "title": "China's Economic Challenges, Financial Crises, and US Fiscal Outlook"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 3,
+    "expertise": "International economics, monetary policy, financial crises",
+    "topics": [
+      "China's leadership transition under Xi Jinping",
+      "Inflation as debt management strategy",
+      "Infrastructure and real estate overinvestment in China",
+      "Long-term effects of financial crises (Japan comparison)",
+      "Nominal vs PPP GDP for measuring economic power",
+      "US fiscal sustainability and debt trajectory"
+    ]
+  },
+  {
+    "name": "Casey Hanmer",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "china-is-killing-the-us-on-energy-does-that-mean-theyll-win-agi-casey-handmer",
+        "title": "The AI Energy Race: Solar, Synthetic Fuels, and US Competitiveness"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 4,
+    "expertise": "Synthetic fuels and energy systems for AI infrastructure",
+    "topics": [
+      "battery temporal arbitrage",
+      "hyperscaler power availability",
+      "solar manufacturing learning rate",
+      "solar regulatory reform",
+      "synthetic fuels"
+    ]
+  },
+  {
+    "name": "Daniel Yergin",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "daniel-yergin-oil-destroyed-hitler-fracking-destroyed-putin",
+        "title": ""
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 3,
+    "expertise": "Energy history and geopolitics",
+    "topics": [
+      "1973 oil crisis",
+      "AI electricity demand",
+      "Antitrust impact on Standard Oil",
+      "History of Standard Oil",
+      "OPEC and sovereign wealth funds",
+      "Oil as lighting fuel",
+      "Shale revolution and U.S. energy independence",
+      "World War I oil strategy"
+    ]
+  },
+  {
+    "name": "David Doish",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "david-deutsch-ai-america-fun-bayes",
+        "title": "On the Limits of Artificial Intelligence: Hardware, Software, and Creativity"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 3,
+    "expertise": "Philosophy of Artificial Intelligence and Cognitive Science",
+    "topics": [
+      "Animal cognition and bounded creativity",
+      "Artificial General Intelligence limitations",
+      "Church-Turing-Deutsch principle constraints",
+      "Fun criterion in epistemology",
+      "Gain-of-function research safety protocols",
+      "Hardware vs software basis of intelligence differences",
+      "Twin studies and IQ heritability debate"
+    ]
+  },
+  {
+    "name": "David Friedman",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "david-friedman-dating-markets-legal-systems-bitcoin-and-automation",
+        "title": "Interview with Dr. David Friedman on Legal Systems, Dating Markets, and Cryptocurrency"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 5,
+    "expertise": "Economics (price theory, marriage markets, legal systems, cryptocurrency)",
+    "topics": [
+      "arranged marriages vs love marriages",
+      "commitment theory of property rights",
+      "cryptocurrency and Bitcoin",
+      "legal system convergence",
+      "marriage market economics",
+      "online dating limitations",
+      "polygyny/polyandry effects",
+      "prediction markets",
+      "reputation-based contract enforcement"
+    ]
+  },
+  {
+    "name": "David Reich",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "david-reich-how-one-small-tribe-conquered-the-world-70000-years-ago",
+        "title": "Human Evolution, Ancient DNA, and the Story of Our Past"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 3,
+    "expertise": "Ancient DNA and human evolutionary genetics",
+    "topics": [
+      "Yersinia pestis in ancient populations",
+      "ancient DNA analysis",
+      "cultural evolution in human history",
+      "human-Neanderthal gene flow",
+      "mitochondrial DNA evolution",
+      "vocal tract methylation"
+    ]
+  },
+  {
+    "name": "Demis Hassabis",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "demis-hassabis-scaling-superhuman-ais-alphazero-atop-llms-alphafold",
+        "title": "The Path to AGI: Scaling, Multimodality and Safety"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 3,
+    "expertise": "Artificial General Intelligence and Large Language Models",
+    "topics": [
+      "AGI safety evaluations",
+      "mechanistic interpretability",
+      "multimodal world modeling",
+      "sample-efficient reinforcement learning",
+      "scaling hypotheses"
+    ]
+  },
+  {
+    "name": "Dominic Cummings",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "dominic-cummings-covid-brexit-fixing-western-governance",
+        "title": "Dominic Cummings on Government Dysfunction and Reform"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 5,
+    "expertise": "UK government operations, Brexit, and public policy reform",
+    "topics": [
+      "COVID-19 vaccine task force and emergency powers",
+      "Civil service reform and personnel bottlenecks",
+      "File sharing and digital tools in government",
+      "Media distraction and political incentives",
+      "Number 10 and Treasury power dynamics",
+      "UK government bureaucracy and outdated infrastructure"
+    ]
+  },
+  {
+    "name": "Dylan",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "dylan-patel-deep-dive-on-the-3-big-bottlenecks-to-scaling-ai-compute",
+        "title": "my roommate teaches me semiconductors"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 3,
+    "expertise": "Semiconductor industry analysis and AI compute infrastructure",
+    "topics": [
+      "AI lab compute procurement strategies",
+      "ASML EUV tool production constraints",
+      "GPU depreciation and value retention",
+      "Model efficiency impact on hardware utility",
+      "Neocloud provider market dynamics",
+      "Semiconductor CAPEX deployment timeline"
+    ]
+  },
+  {
+    "name": "Edward Glazer",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "edward-glaeser-cities-terrorism-housing-remote-work",
+        "title": "Lunar Society podcast with Professor Edward Glazer"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 4,
+    "expertise": "Urban economics",
+    "topics": [
+      "Capital city location strategies",
+      "Housing market persistence and urban decline",
+      "Land value taxation limitations",
+      "Mars urban planning",
+      "US labor mobility barriers",
+      "Urban education competition dynamics"
+    ]
+  },
+  {
+    "name": "Eliezer Yudkowsky",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "eliezer-yudkowsky-why-ai-will-kill-us-aligning-llms-nature-of-intelligence-scifi-rationality",
+        "title": "Discussion on AI moratorium, alignment challenges, and human intelligence enhancement"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 3,
+    "expertise": "AI alignment and AI safety",
+    "topics": [
+      "AI alignment problem difficulty",
+      "AI moratorium policy effectiveness",
+      "Algorithmic efficiency vs. hardware constraints in AI progress",
+      "Human intelligence enhancement strategies",
+      "Large language model interpretability limitations",
+      "Orthogonality thesis in AI development"
+    ]
+  },
+  {
+    "name": "ElonMusk",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "elon-musk-in-36-months-the-cheapest-place-to-put-ai-will-be-space",
+        "title": "Space-Based AI Infrastructure and Energy Scaling"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 3,
+    "expertise": "Space technology, AI systems, and renewable energy integration",
+    "topics": [
+      "AI chip manufacturing bottlenecks",
+      "Data center power constraints and total cost of ownership",
+      "Orbital data center scalability",
+      "Space-based solar power generation",
+      "Turbine blade manufacturing limitations"
+    ]
+  },
+  {
+    "name": "Jacob Kimmel",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "evolution-designed-us-to-die-fast-we-can-change-that-jacob-kimmel",
+        "title": "The Evolutionary Case Against Longevity"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 4,
+    "expertise": "Epigenetic reprogramming and aging",
+    "topics": [
+      "baseline hazard rate",
+      "epigenetic reprogramming",
+      "kin selection",
+      "single-cell genomics",
+      "transcription factor modulation"
+    ]
+  },
+  {
+    "name": "FinnMorehouse",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "fin-moorhouse-longtermism-space-entrepreneurship",
+        "title": "Finn Morehouse on EA Prizes, Criticism, and Long-Termism"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 4,
+    "expertise": "Effective Altruism, philosophy, and long-termism",
+    "topics": [
+      "Conceptual engineering in philosophy",
+      "EA talent identification and development",
+      "Effective Altruism criticism mechanisms",
+      "For-profit vs non-profit impact pathways",
+      "Historical counterfactuals of EA thinking",
+      "Long-termism philosophical origins"
+    ]
+  },
+  {
+    "name": "Francois Cholet",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "francois-chollet-why-the-biggest-ai-models-cant-solve-simple-puzzles",
+        "title": "The ARC Benchmark and Why LLMs Struggle with True Intelligence"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 3,
+    "expertise": "AI research, specifically LLMs, ARC benchmark, and the distinction between memorization and intelligence",
+    "topics": [
+      "ARC (Abstraction and Reasoning Corpus) benchmark",
+      "Core knowledge (objectness, counting, basic geometry)",
+      "Discrete program search",
+      "Memorization vs. intelligence in AI systems",
+      "Program synthesis vs. program fetching",
+      "Test-time computation/fine-tuning"
+    ]
+  },
+  {
+    "name": "Sergey Levin",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "fully-autonomous-robots-are-much-closer-than-you-think-sergey-levine",
+        "title": ""
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 3,
+    "expertise": "Robotics, reinforcement learning, AI, robotic foundation models",
+    "topics": [
+      "compositional generalization",
+      "dexterous manipulation",
+      "human-in-the-loop learning",
+      "robotic foundation models",
+      "timeline for robot deployment"
+    ]
+  },
+  {
+    "name": "Garrett Jones",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "garett-jones-immigration-national-iq-less-democracy",
+        "title": "Interview with Garrett Jones on Cultural Transplant, Democracy and Hive Mind"
+      }
+    ],
+    "insights_count": 8,
+    "advice_count": 4,
+    "expertise": "Economics, cultural transplant theory, national IQ effects, migration impacts on institutions",
+    "topics": [
+      "Cultural transplant theory",
+      "Deep roots theory (S, A, T scores)",
+      "Democratic oversight of institutions",
+      "Elite IQ vs median voter effects",
+      "Innovation externalities",
+      "Migration effects on institutional quality",
+      "National IQ and economic productivity",
+      "Open borders policy experimentation"
+    ]
+  },
+  {
+    "name": "Grant Sanderson",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "grant-sanderson-at-3blue1brown-past-present-future-of-mathematics",
+        "title": "On AGI, Mathematical Creativity, and Redirecting Mathematical Talent"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 3,
+    "expertise": "Mathematical education and visualization (3Blue1Brown YouTube channel)",
+    "topics": [
+      "AGI definition and continuous intelligence development",
+      "Educational effectiveness of different media (YouTube, games, text)",
+      "Historical patterns of mathematical discovery (miracle years)",
+      "International Mathematical Olympiad problem-solving requirements",
+      "Mathematical abstraction and creativity in proof construction",
+      "Misallocation of mathematical talent in finance/academia/CS",
+      "Teacher-student intervention impact moments"
+    ]
+  },
+  {
+    "name": "Gwern Brannwin",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "gwern-anonymous-writer-who-predicted-ai-trajectory-on-12kyear-salary",
+        "title": "Interview with Gwern Brannwin"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 3,
+    "expertise": "AI scaling and forecasting, internet research, polymathic thinking",
+    "topics": [
+      "AI timeline acceleration after AlexNet",
+      "anonymity benefits and social projection",
+      "human-AI hybrid firm structure",
+      "rabbit hole learning methodology",
+      "scaling laws as search over Turing machines",
+      "training data bottleneck for agentic AI"
+    ]
+  },
+  {
+    "name": "Holden Karnowski",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "holden-karnofsky-historys-most-important-century",
+        "title": "The Most Important Century"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 5,
+    "expertise": "Effective altruism, philanthropy, AI safety, and the 'Most Important Century' thesis",
+    "topics": [
+      "AI alignment and safety research",
+      "Demographic transition and its impact on population growth",
+      "Digital people/human mind uploading",
+      "Economic growth acceleration and feedback loops",
+      "Effective altruism philanthropic strategy",
+      "Ethical reasoning in high-stakes decision making",
+      "Historical analogy to Enlightenment and Industrial Revolution",
+      "Most Important Century thesis",
+      "Transformative AI and explosive technological progress"
+    ]
+  },
+  {
+    "name": "Ada Palmer",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "how-cosplaying-ancient-rome-led-to-the-scientific-revolution",
+        "title": "Inventing the Renaissance"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 3,
+    "expertise": "Renaissance historian",
+    "topics": [
+      "Florence's merchant guild republic and sortition system",
+      "Italian city republics formation after Roman Empire",
+      "Machiavelli's political science and historical methodology",
+      "Medici banking influence as papal bankers",
+      "Petrarch's Renaissance humanism and classical revival",
+      "Renaissance conditions enabling Scientific Revolution",
+      "Transmission of classical texts and library development"
+    ]
+  },
+  {
+    "name": "Sarah",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "how-hitler-almost-starved-britain-sarah-paine",
+        "title": "Maritime Solutions to Continental Problems: Lessons from Britain's WWII Strategy for Modern Great Power Competition"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 3,
+    "expertise": "Naval history and maritime strategy",
+    "topics": [
+      "Alfred Thierman's maritime prerequisites",
+      "Battle of the Atlantic tactics",
+      "alliance additive effects",
+      "culminating point of attack",
+      "geographic constraints on naval power",
+      "modern Russia-China maritime vulnerabilities",
+      "peripheral theater strategy"
+    ]
+  },
+  {
+    "name": "Elia Sutskaver",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "ilya-sutskever-openai-chief-scientist-why-next-token-prediction-could-surpass-human-intelligence",
+        "title": "Interview with Ilya Sutskever on AGI Alignment and AI Future"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 3,
+    "expertise": "AI research and AGI development",
+    "topics": [
+      "AGI development timeline",
+      "AI alignment challenges",
+      "AI reliability bottlenecks",
+      "Data scarcity solutions",
+      "Next token prediction capabilities"
+    ]
+  },
+  {
+    "name": "Ilya Sutskever",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "ilya-sutskever-were-moving-from-the-age-of-scaling-to-the-age-of-research",
+        "title": "The Scaling Era is Over: Ilya Sutskever on RL, Pre-training, and Superintelligence"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 3,
+    "expertise": "Artificial General Intelligence, scaling laws, reinforcement learning, pre-training",
+    "topics": [
+      "AGI",
+      "RL scaling",
+      "continual learning",
+      "generalization",
+      "pre-training",
+      "superintelligence",
+      "value function"
+    ]
+  },
+  {
+    "name": "Jason Crawford",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "jason-crawford-the-roots-of-progress",
+        "title": ""
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 4,
+    "expertise": "History of technology and philosophy of progress",
+    "topics": [
+      "Anti-technology sentiment post-WWII",
+      "Prescriptive optimism",
+      "Progress studies education",
+      "Regulatory bureaucracy and innovation friction",
+      "S-curve technology adoption",
+      "Stagnation hypothesis"
+    ]
+  },
+  {
+    "name": "JeffDean, Noam Shazeer",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "jeff-dean-noam-shazeer-25-years-at-google-from-pagerank-to-agi",
+        "title": "The Future of AI Systems: Hardware, Algorithms, and Scaling"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 4,
+    "expertise": "AI systems, large language models, machine learning infrastructure, hardware-software co-design",
+    "topics": [
+      "Automated ML research/search",
+      "Inference time compute scaling",
+      "Long context language models",
+      "Matrix multiplication optimizations for AI",
+      "Mixture of Experts architecture",
+      "Opportunity cost in chip design",
+      "Quantization of neural networks (int4, FP4, 1-bit)",
+      "TPU design and evolution"
+    ]
+  },
+  {
+    "name": "Jimmy Sonny",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "jimmy-soni-peter-thiel-elon-musk-and-the-paypal-mafia",
+        "title": "Innovation Under Pressure: Comparing Bell Labs and PayPal"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 3,
+    "expertise": "Author and historian specializing in innovation, technology history, and entrepreneurial narratives",
+    "topics": [
+      "Bell Labs innovation model",
+      "Claude Shannon and information theory development",
+      "Competitive dynamics in early startups",
+      "Fraud prevention challenges in early PayPal",
+      "Historical patterns of innovative personalities",
+      "Mimetic theory applications in business (Gerardian perspective)",
+      "PayPal startup culture and survival pressure",
+      "Peter Thiel's talent identification approach",
+      "Post-9/11 business decision making",
+      "The PayPal Mafia talent phenomenon"
+    ]
+  },
+  {
+    "name": "John Schulman",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "john-schulman-openai-cofounder-reasoning-rlhf-plan-for-2027-agi",
+        "title": ""
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 3,
+    "expertise": "AI, reinforcement learning, and post-training of language models",
+    "topics": [
+      "AI safety coordination and gradual deployment",
+      "RLHF and human approval modeling",
+      "cross\u2011lingual generalization in language models",
+      "long horizon reinforcement learning",
+      "multimodal AI and vision\u2011based web use",
+      "online learning and model introspection",
+      "pre-training versus post-training objectives"
+    ]
+  },
+  {
+    "name": "Joseph Henrik",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "joseph-henrich-humans-defeated-smarter-species-with-cultural-evolution",
+        "title": "The Collective Brain and Human Expansion: Joseph Henrik on Cultural Evolution"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 3,
+    "expertise": "Human evolutionary biology",
+    "topics": [
+      "AI and cultural transmission",
+      "Collective brain theory",
+      "Cultural evolution mechanisms",
+      "Cumulative cultural evolution",
+      "Eurasian expansion 70,000 years ago",
+      "Institutional change and state capacity",
+      "The Weirdest People in the World thesis"
+    ]
+  },
+  {
+    "name": "Jung Chang",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "jung-chang-wild-swans-author-living-through-historys-largest-man-made-famine",
+        "title": "Interview with Jung Chang on Wild Swans, Mao biography, and life under Mao"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 2,
+    "expertise": "Modern Chinese history and memoir writing, specializing in Mao era",
+    "topics": [
+      "Communist party psychological control mechanisms",
+      "Cultural Revolution terror tactics",
+      "Deng Xiaoping's political succession calculations",
+      "Great Leap Forward food export policy",
+      "Self-criticism sessions as oppression tool"
+    ]
+  },
+  {
+    "name": "Kenneth T. Jackson",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "kenneth-t-jackson-robert-moses-hero-of-new-york",
+        "title": "The Life and Legacy of Robert Moses"
+      }
+    ],
+    "insights_count": 4,
+    "advice_count": 3,
+    "expertise": "New York City urban history",
+    "topics": [
+      "Cross Bronx Expressway socioeconomic impact",
+      "Historical comparison of Moses-era vs modern infrastructure development",
+      "New York City urban renewal and public housing policies",
+      "Public transit preservation in New York City",
+      "Robert Moses' highway and bridge construction"
+    ]
+  },
+  {
+    "name": "Lars Duce",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "lars-doucet-progress-poverty-georgism-why-rent-is-too-damn-high",
+        "title": "Land is a big deal"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 3,
+    "expertise": "Georgism and land value tax theory",
+    "topics": [
+      "Georgism",
+      "Land value tax",
+      "Rent seeking",
+      "Ricardo's Law of Rent",
+      "Severance tax",
+      "Virtual land speculation"
+    ]
+  },
+  {
+    "name": "Leopold Aschenbrenner",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "leopold-aschenbrenner-2027-agi-chinaus-super-intelligence-race-the-return-of-history",
+        "title": "Situational Awareness: The Trillion Dollar Cluster"
+      }
+    ],
+    "insights_count": 8,
+    "advice_count": 3,
+    "expertise": "AI scaling laws and AGI development",
+    "topics": [
+      "AI as autonomous remote worker",
+      "AI training cluster energy requirements",
+      "Geopolitical risks of AI superintelligence",
+      "Intelligence explosion via AI research automation",
+      "Test time compute overhang",
+      "Trillion dollar AI cluster projection"
+    ]
+  },
+  {
+    "name": "Robert Caro",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "lessons-from-the-years-of-lyndon-johnson-by-robert-caro-narration",
+        "title": "Lessons from the Years of Lyndon Johnson by Robert Caro"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 2,
+    "expertise": "political biography and historical analysis of power dynamics",
+    "topics": [
+      "Senate majority leadership tactics",
+      "biographical research methodology",
+      "civil rights legislation strategy",
+      "political manipulation through empathy",
+      "power dynamics in government institutions"
+    ]
+  },
+  {
+    "name": "Mark Andreessen",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "marc-andreessen-ai-crypto-1000-elon-musks-regrets-vulnerabilities-managerial-revolution",
+        "title": "The Lunar Society podcast with Mark Andreessen"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 3,
+    "expertise": "Venture capital and technology investing",
+    "topics": [
+      "AI's impact on software development",
+      "Bourgeois vs managerial capitalism",
+      "Crypto investment principles",
+      "Founder psychology and stress",
+      "Path dependence in entrepreneurship",
+      "Venture capital as project picking"
+    ]
+  },
+  {
+    "name": "Michael Humor",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "michael-huemer-anarchy-capitalism-and-progress",
+        "title": "Discussion on Political Authority with Professor Michael Humor"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 4,
+    "expertise": "Political philosophy (authority, epistemology, ethics)",
+    "topics": [
+      "anarcho\u2011capitalism transition",
+      "factory farming and synthetic meat",
+      "libertarian skepticism",
+      "moral progress and technological change",
+      "political authority",
+      "status quo bias"
+    ]
+  },
+  {
+    "name": "Nadia Asperova",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "nadia-asparouhova-tech-elites-democracy-open-source-philanthropy",
+        "title": "Tech Elites, Effective Altruism, and the Future of Idea Machines"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 3,
+    "expertise": "Open source software, tech elite dynamics, philanthropy, and idea machines",
+    "topics": [
+      "Corporate motivations for open source (mindshare over altruism)",
+      "Effective altruism's alignment with finance vs. startup mindsets",
+      "Idea machines as alternatives to traditional foundations",
+      "Limitations of democratic participation in online communities",
+      "Meritocratic vs. aristocratic elite philanthropy and stewardship",
+      "Open source maintenance dynamics and the 'wizard of oz' model",
+      "Role of charismatic founders in movement sustainability"
+    ]
+  },
+  {
+    "name": "NatFriedman",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "nat-friedman-github-ceo-reading-ancient-scrolls-open-source-ai",
+        "title": "The Vesuvius Challenge: Using AI to Read 2,000-Year-Old Scrolls"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 3,
+    "expertise": "Technology innovation, open source leadership, and archaeological technology applications",
+    "topics": [
+      "CT scan technology",
+      "Diamond Light Source particle accelerator",
+      "Epicurean philosophy",
+      "Herculaneum scrolls",
+      "Philodemus",
+      "Vesuvius Challenge",
+      "ancient Roman libraries",
+      "archaeological technology",
+      "machine learning for ink detection",
+      "virtual unwrapping"
+    ]
+  },
+  {
+    "name": "Nick Lane",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "nick-lane-life-as-we-know-it-is-chemically-inevitable",
+        "title": "The Origin of Eukaryotic Life and Implications for Astrobiology"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 3,
+    "expertise": "Evolutionary biochemistry (origin of life, eukaryotes, mitochondria)",
+    "topics": [
+      "Alkaline hydrothermal vent hypothesis",
+      "Endosymbiotic theory",
+      "Mitochondrial DNA inheritance",
+      "Muller's ratchet",
+      "Proton gradient bioenergetics"
+    ]
+  },
+  {
+    "name": "Patrick Collison",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "patrick-collison-why-silicon-valleys-most-talented-should-leave",
+        "title": "Advice for People in Their 20s: Deep Expertise vs. Iconoclast Paths"
+      }
+    ],
+    "insights_count": 3,
+    "advice_count": 3,
+    "expertise": "Technology entrepreneurship and innovation ecosystems",
+    "topics": [
+      "Alternative career paths for scientists beyond PI role",
+      "Arc Institute's curiosity-driven research model",
+      "Critique of San Francisco's entrepreneur-centric culture",
+      "Deep technical expertise accumulation in biotechnology",
+      "Flexible funding impact on research agendas",
+      "Limitations of NIH project-based grant funding",
+      "Progress studies and scientific innovation metrics"
+    ]
+  },
+  {
+    "name": "Patrick McKenzie",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "patrick-mckenzie-money-laundering-big-tech-censorship-sbf-japan",
+        "title": "The Vaccinate CA Story: Lessons in Pandemic Response and Institutional Failure"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 5,
+    "expertise": "Public health logistics, software systems, and pandemic response",
+    "topics": [
+      "Emergency funding challenges for public health initiatives",
+      "Expiring dose utilization policies",
+      "Institutional responsibility avoidance",
+      "Political influence on public health prioritization",
+      "Software solutions in emergencies",
+      "Vaccine distribution logistics"
+    ]
+  },
+  {
+    "name": "Paul Christiano",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "paul-christiano-preventing-an-ai-takeover",
+        "title": "AI Safety, Alignment, and the Path to Beneficial Superintelligence"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 3,
+    "expertise": "AI safety and alignment",
+    "topics": [
+      "AGI timeline forecasting",
+      "AI alignment strategies",
+      "AI governance and coordination",
+      "Decoupling technological and social transitions",
+      "Long-horizon task supervision in machine learning",
+      "Moral status of artificial intelligence",
+      "Reinforcement Learning from Human Feedback (RLHF)"
+    ]
+  },
+  {
+    "name": "Pradjumna Prasad",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "pradyu-prasad-imperial-japan-the-god-emperor-and-militarization-in-the-modern-world",
+        "title": "Discussing Hirohito and the Making of Modern Japan by Herbert P. Bix"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 2,
+    "expertise": "Economic history and Japanese WWII history",
+    "topics": [
+      "Hirohito's constitutional agency",
+      "Meiji Restoration industrialization model",
+      "Post-WWII Japan occupation success factors",
+      "Public choice theory in Japanese military expansion",
+      "Technological vs cultural change in warfare"
+    ]
+  },
+  {
+    "name": "Razib Khan",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "razib-khan-genomics-intelligence-and-the-church-of-science",
+        "title": "The Long-Term Equilibrium for Intelligence and Other Genetic Topics"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 4,
+    "expertise": "Genetics, history, and evolution",
+    "topics": [
+      "Academic heredity and class bias in science",
+      "Ashkenazi Jews as endogamous comparison",
+      "Gene editing timeline for intelligence",
+      "Greater male variance theory (X chromosome mechanism)",
+      "Human-computer interfaces vs biological enhancement",
+      "Indian jati endogamy rates (99.5%)",
+      "Intelligence dysgenic equilibrium",
+      "Post-agricultural brain size reduction"
+    ]
+  },
+  {
+    "name": "Richard Hanania",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "richard-hanania-foreign-policy-fertility-and-wokeness",
+        "title": "Public Choice Theory and the Illusion of Grand Strategy"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 3,
+    "expertise": "Political science, international relations, and public choice theory",
+    "topics": [
+      "China-US foreign policy coherence comparison",
+      "Limitations of social science expertise in policy formulation",
+      "Public choice theory applied to international relations",
+      "Public opinion manipulation in foreign policy vs domestic policy",
+      "Special interest influence on foreign policy decision-making",
+      "The grand strategy fallacy in foreign policy analysis"
+    ]
+  },
+  {
+    "name": "Richard Rhodes",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "richard-rhodes-the-making-of-the-atomic-bomb",
+        "title": "Richard Rhodes on The Making of the Atomic Bomb and Its Relevance to AI"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 2,
+    "expertise": "Nuclear history and history of science",
+    "topics": [
+      "AI progress analogies to nuclear history",
+      "Fire effects of nuclear weapons",
+      "Fissile material control",
+      "Hydrogen bomb development",
+      "Nuclear deterrence theory",
+      "Nuclear fission",
+      "Oppenheimer security hearing",
+      "Plutonium production",
+      "Soviet nuclear program",
+      "Uranium enrichment"
+    ]
+  },
+  {
+    "name": "Robin Hanson",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "robin-hanson-the-long-view",
+        "title": "The Long View and Hidden Motives in Human Behavior"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 2,
+    "expertise": "Social science and economics with focus on signaling theory, hidden motives, and long-term thinking",
+    "topics": [
+      "Academia as prestige signaling",
+      "Conversation as ability signaling",
+      "Evolutionary basis of human discount rates",
+      "Loyalty signaling in leadership selection",
+      "Organizational resource diversion problem"
+    ]
+  },
+  {
+    "name": "Sam Beckman-Fried",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "sam-bankman-fried-crypto-altruism-and-leadership",
+        "title": "Lunar Society Podcast Interview"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 3,
+    "expertise": "Cryptocurrency exchange and effective altruism entrepreneurship",
+    "topics": [
+      "Cryptocurrency market inefficiencies",
+      "Effective altruism talent constraints",
+      "Founder grit and grunt work",
+      "Future Fund regranting model",
+      "Political giving efficacy limits",
+      "Utilitarianism and moral uncertainty in philanthropy"
+    ]
+  },
+  {
+    "name": "Sarah Payne",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "sarah-c-m-paine-why-dictators-keep-making-the-same-fatal-mistake",
+        "title": "Grand Strategy"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 2,
+    "expertise": "Military history and grand strategy",
+    "topics": [
+      "Death ground theory in warfare",
+      "Grand strategy formulation and implementation",
+      "Hitler's strategic decision-making and overextension",
+      "Japanese military-civilian relations in WWII",
+      "Origins of fascism and communism post-WWI"
+    ]
+  },
+  {
+    "name": "Sarah Fitz-Claridge",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "sarah-fitz-claridge-taking-children-seriously",
+        "title": "Taking Children Seriously: A Non-Coercive Approach to Education"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 3,
+    "expertise": "Non-coercive educational philosophy and children's rights",
+    "topics": [
+      "Children's rights and autonomy",
+      "Creativity and rationality in child development",
+      "Critique of compulsory schooling",
+      "Fallibilism in parenting",
+      "Non-coercive education"
+    ]
+  },
+  {
+    "name": "Gabe",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "sarah-paine-the-war-for-india-lecture-interview",
+        "title": "The Geopolitical Dynamics of South Asia During the Cold War"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 2,
+    "expertise": "Cold War geopolitics in South Asia",
+    "topics": [
+      "Bangladesh War of Independence 1971",
+      "Sino-Indian War of 1962",
+      "Sino-Soviet border war 1969",
+      "Tibet annexation by China",
+      "US-Pakistan Baghdad Pact"
+    ]
+  },
+  {
+    "name": "Unknown Speaker",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "sarah-paine-why-japan-lost-wwii-lecture-interview",
+        "title": ""
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 3,
+    "expertise": "Japanese military culture and Bushido",
+    "topics": [
+      "Bushido code",
+      "Grand strategy vs operational success",
+      "Japanese group loyalty",
+      "Mirror imaging bias",
+      "Net assessment methodology"
+    ]
+  },
+  {
+    "name": "Scott Aaronson",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "scott-aaronson-quantum-computing-complexity-and-creativity",
+        "title": "On Prodigies, Early Specialization, and the Busy Beaver Function"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 3,
+    "expertise": "Theoretical computer science and quantum computing",
+    "topics": [
+      "Algorithmic motivation in quantum computing",
+      "Busy beaver function",
+      "Computational complexity theory",
+      "Many worlds interpretation",
+      "Nash equilibrium computation",
+      "Quantum computing"
+    ]
+  },
+  {
+    "name": "ScottYoung",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "scott-young-ultralearning",
+        "title": "Einstein's Miracle Years and Ultra-Learning Principles"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 3,
+    "expertise": "Learning techniques, skill acquisition, ultra-learning",
+    "topics": [
+      "Age-related cognitive decline in learning",
+      "Chunking and binding in memory",
+      "Einstein's miracle years",
+      "Failed simulation effect",
+      "Narrow path of success",
+      "Selection effect in scientific breakthroughs",
+      "Transfer of learning",
+      "Ultra-learning projects"
+    ]
+  },
+  {
+    "name": "Shane Legg",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "shane-legg-deepmind-founder-2028-agi-superhuman-alignment-new-architectures",
+        "title": "Measuring Progress Towards AGI and the Path to Human-Level AI"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 4,
+    "expertise": "Artificial General Intelligence (AGI) and AI safety",
+    "topics": [
+      "AI alignment",
+      "benchmarking AGI",
+      "episodic memory",
+      "multimodal AI",
+      "reference machine in intelligence measurement",
+      "search and creativity"
+    ]
+  },
+  {
+    "name": "Stephen Gruget",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "stephen-grugett-manifold-markets-founder-predictions-markets-revolutionizing-governance",
+        "title": "Why aren't companies using internal prediction markets?"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 4,
+    "expertise": "Prediction markets and forecasting",
+    "topics": [
+      "internal corporate prediction markets",
+      "long-term forecasting via proxy variables",
+      "market fees and incentives",
+      "play money prediction markets",
+      "user-resolved markets"
+    ]
+  },
+  {
+    "name": "Steve Shue",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "steve-hsu-intelligence-embryo-selection-the-future-of-humanity",
+        "title": "Genomic Prediction and the Future of Embryo Selection"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 3,
+    "expertise": "Genomic prediction and polygenic risk scoring for embryo selection in IVF",
+    "topics": [
+      "Additive genetic architecture of complex traits",
+      "Disjoint genetic variants for different disease risks",
+      "IVF embryo testing and selection",
+      "Machine learning applications in genomics",
+      "Polygenic risk scoring for embryo selection"
+    ]
+  },
+  {
+    "name": "Terence Tao",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "terence-tao-kepler-newton-and-the-true-nature-of-mathematical-discovery",
+        "title": ""
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 4,
+    "expertise": "Mathematics",
+    "topics": [
+      "AI-assisted mathematical problem solving",
+      "Breadth vs depth in scientific research",
+      "History of scientific paradigm shifts",
+      "Kepler's laws of planetary motion",
+      "Lean proof assistant",
+      "Tycho Brahe's astronomical data"
+    ]
+  },
+  {
+    "name": "Tony Blair",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "tony-blair-why-political-leaders-keep-failing-at-major-change",
+        "title": "The Constraints of Political Leadership and the Challenge of Governing in Era of Technological Revolution"
+      }
+    ],
+    "insights_count": 7,
+    "advice_count": 5,
+    "expertise": "Governance and political leadership",
+    "topics": [
+      "AI governance and technological revolution",
+      "Bridging tech sector and policy makers",
+      "Four pillars of effective governance",
+      "Government inertia and resistance to change",
+      "Lessons from Singapore's development model",
+      "Policy versus ambition in governance",
+      "Political leadership transition from persuader to executive",
+      "Quality of governance as determinant of national success"
+    ]
+  },
+  {
+    "name": "Dwarquish Patel",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "tyler-cowen-the-1-bottleneck-to-ai-progress-is-humans",
+        "title": "Why won't we have explosive economic growth 20% plus because of AI?"
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 3,
+    "expertise": "Economic growth and technological impact",
+    "topics": [
+      "AI's gradual impact on growth rates",
+      "Bundled skills versus IQ in success",
+      "Cost disease in economic sectors",
+      "Institutional reform for economic growth",
+      "Organizational bottlenecks to scaling",
+      "Technology diffusion constraints"
+    ]
+  },
+  {
+    "name": "RobertMartin",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "uncle-bob-the-long-reach-of-code",
+        "title": "The Future of Programming"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 3,
+    "expertise": "Software Engineering and Programming",
+    "topics": [
+      "AI limitations in automating programming",
+      "Alternative paths to programming education (trade schools, bootcamps)",
+      "Aptitude and traits required for programming success",
+      "Ethical governance in software engineering",
+      "Evolution of programming tools from binary to modern IDEs",
+      "Fundamental programming concepts (sequence selection and iteration)",
+      "Future programming paradigms (dog training analogy)",
+      "Importance of business domain knowledge for programmers"
+    ]
+  },
+  {
+    "name": "Peter Salaba",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "what-will-automated-firms-look-like",
+        "title": "The Future of AI Firms"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 3,
+    "expertise": "AI-generated video production and multimedia storytelling",
+    "topics": [
+      "Compute as the limiting factor for AI talent",
+      "Digital labor copying and capital-to-compute transformation",
+      "Evolvability of AI firms versus human firms",
+      "Market feedback as an external check on AI firm growth",
+      "Mega Steve AGI hive mind and knowledge melding"
+    ]
+  },
+  {
+    "name": "Kyle Harper",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "why-rome-actually-fell-plagues-slavery-ice-age-kyle-harper",
+        "title": ""
+      }
+    ],
+    "insights_count": 6,
+    "advice_count": 3,
+    "expertise": "History, biology, economics, and climate science with focus on pandemics, Roman Empire, and slavery",
+    "topics": [
+      "Foraging to farming disease burden",
+      "Industrial revolution prerequisites (science, empiricism, useful knowledge)",
+      "Justinian plague (6th century)",
+      "Roman economy and slavery",
+      "Vesuvius Challenge Herculaneum scrolls",
+      "Volcanic climate cooling 6th century"
+    ]
+  },
+  {
+    "name": "William McCaskill",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "will-macaskill-longtermism-altruism-history-technology",
+        "title": "Discussion on What We Owe the Future"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 3,
+    "expertise": "Effective Altruism and long-termism",
+    "topics": [
+      "AI-driven value lock-in",
+      "economic progress non-contingency",
+      "fertility impact on scientific progress",
+      "first-principles thinking in technological change",
+      "long reflection concept",
+      "long-termist institutional co-option risk",
+      "moral contingency theory"
+    ]
+  },
+  {
+    "name": "Dario Amadei",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "will-scaling-work-narration",
+        "title": "Will Scaling Work?"
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 3,
+    "expertise": "AI safety and large language model development",
+    "topics": [
+      "algorithmic efficiency techniques",
+      "compute requirements for AGI",
+      "data generation methods",
+      "data scaling laws",
+      "long-horizon benchmarking",
+      "next token prediction limitations",
+      "self-play synthetic data"
+    ]
+  },
+  {
+    "name": "Victor Xi",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "xi-jinpings-paranoid-approach-to-agi-debt-crisis-politburo-politics-victor-shih",
+        "title": ""
+      }
+    ],
+    "insights_count": 5,
+    "advice_count": 3,
+    "expertise": "Chinese elite politics, economic system, fiscal banking policies",
+    "topics": [
+      "AI governance: brakes and control mechanisms",
+      "Fiscal decentralization and tax centralization (1994)",
+      "Local government debt and financial repression",
+      "Politburo technical expertise vs political acumen",
+      "State\u2011funded innovation vs private sector success",
+      "Xi Jinping's leading small groups and micromanagement"
+    ]
+  }
+]

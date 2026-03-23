@@ -1,65 +1,9 @@
 {
-  "China's AI development and socio-economic trends": [
+  "Theoretical physics and cosmology (with focus on dark energy, vacuum decay, and AI reasoning)": [
     {
-      "guest": "Dwarkesh Podcast",
-      "episode_id": "notes-on-china",
-      "episode_title": "Two Weeks in China: Scale, Society, and AI Insights"
-    }
-  ],
-  "Synthetic fuels and energy systems for AI infrastructure": [
-    {
-      "guest": "Casey Hanmer",
-      "episode_id": "china-is-killing-the-us-on-energy-does-that-mean-theyll-win-agi-casey-handmer",
-      "episode_title": "The AI Energy Race: Solar, Synthetic Fuels, and US Competitiveness"
-    }
-  ],
-  "Russo-Chinese relations": [
-    {
-      "guest": "Dwarkesh Podcast",
-      "episode_id": "sarah-paine-how-russia-sabotaged-chinas-rise",
+      "guest": "Adam Brown",
+      "episode_id": "adam-brown-bubble-universes-space-elevators-adscft",
       "episode_title": ""
-    }
-  ],
-  "Reinforcement Learning": [
-    {
-      "guest": "RichardSutton",
-      "episode_id": "richard-sutton-father-of-rl-thinks-llms-are-a-dead-end",
-      "episode_title": "The Era of Experience: Rethinking AI Beyond Large Language Models"
-    }
-  ],
-  "Military history and grand strategy": [
-    {
-      "guest": "Sarah Payne",
-      "episode_id": "sarah-c-m-paine-why-dictators-keep-making-the-same-fatal-mistake",
-      "episode_title": "Grand Strategy"
-    }
-  ],
-  "AI safety and scaling laws": [
-    {
-      "guest": "Dario Amodei",
-      "episode_id": "dario-amodei-anthropic-ceo-the-hidden-pattern-behind-every-ai-breakthrough",
-      "episode_title": "The Scaling Laws of AI and Path to AGI"
-    }
-  ],
-  "Public health logistics, software systems, and pandemic response": [
-    {
-      "guest": "Patrick McKenzie",
-      "episode_id": "patrick-mckenzie-money-laundering-big-tech-censorship-sbf-japan",
-      "episode_title": "The Vaccinate CA Story: Lessons in Pandemic Response and Institutional Failure"
-    }
-  ],
-  "Economics, cultural transplant theory, national IQ effects, migration impacts on institutions": [
-    {
-      "guest": "Garrett Jones",
-      "episode_id": "garett-jones-immigration-national-iq-less-democracy",
-      "episode_title": "Interview with Garrett Jones on Cultural Transplant, Democracy and Hive Mind"
-    }
-  ],
-  "Effective altruism, philanthropy, AI safety, and the 'Most Important Century' thesis": [
-    {
-      "guest": "Holden Karnowski",
-      "episode_id": "holden-karnofsky-historys-most-important-century",
-      "episode_title": "The Most Important Century"
     }
   ],
   "Neuroscience and AI safety research": [
@@ -69,228 +13,25 @@
       "episode_title": "How the Brain Implements Learning: Neuroscience Insights for AI"
     }
   ],
-  "Philosophy of Artificial Intelligence and Cognitive Science": [
+  "AI forecasting, timelines, compute scaling, and AI impact on work": [
     {
-      "guest": "David Doish",
-      "episode_id": "david-deutsch-ai-america-fun-bayes",
-      "episode_title": "On the Limits of Artificial Intelligence: Hardware, Software, and Creativity"
+      "guest": "Tame Bessiroglou, Ege Erdo",
+      "episode_id": "agi-is-still-30-years-away-ege-erdil-tamay-besiroglu",
+      "episode_title": "The Intelligence Explosion is Mistaken"
     }
   ],
-  "Innovation policy, high-skill immigration, and agglomeration effects": [
+  "Quantitative trading, decision-making, hiring, and crypto": [
     {
-      "guest": "Caleb Watney",
-      "episode_id": "caleb-watney-americas-innovation-engine",
-      "episode_title": "America's Innovation Engine is Slowing"
+      "guest": "Augustine LeBron",
+      "episode_id": "agustin-lebron-trading-crypto-and-adverse-selection",
+      "episode_title": "The Laws of Trading with Augustine LeBron"
     }
   ],
-  "AI safety and governance": [
+  "AI forecasting and scenario analysis": [
     {
-      "guest": "Dwarkesh Podcast",
-      "episode_id": "im-glad-the-anthropic-fight-is-happening-now",
-      "episode_title": "Anthropic vs. the Department of War: AI Ethics, Government Leverage, and the Future of Autonomous Systems"
-    }
-  ],
-  "Political philosophy (authority, epistemology, ethics)": [
-    {
-      "guest": "Michael Humor",
-      "episode_id": "michael-huemer-anarchy-capitalism-and-progress",
-      "episode_title": "Discussion on Political Authority with Professor Michael Humor"
-    }
-  ],
-  "Evolutionary biochemistry (origin of life, eukaryotes, mitochondria)": [
-    {
-      "guest": "Nick Lane",
-      "episode_id": "nick-lane-life-as-we-know-it-is-chemically-inevitable",
-      "episode_title": "The Origin of Eukaryotic Life and Implications for Astrobiology"
-    }
-  ],
-  "AI scaling and forecasting, internet research, polymathic thinking": [
-    {
-      "guest": "Gwern Brannwin",
-      "episode_id": "gwern-anonymous-writer-who-predicted-ai-trajectory-on-12kyear-salary",
-      "episode_title": "Interview with Gwern Brannwin"
-    }
-  ],
-  "political biography and historical analysis of power dynamics": [
-    {
-      "guest": "Robert Caro",
-      "episode_id": "lessons-from-the-years-of-lyndon-johnson-by-robert-caro-narration",
-      "episode_title": "Lessons from the Years of Lyndon Johnson by Robert Caro"
-    }
-  ],
-  "Artificial General Intelligence and Large Language Models": [
-    {
-      "guest": "Demis Hassabis",
-      "episode_id": "demis-hassabis-scaling-superhuman-ais-alphazero-atop-llms-alphafold",
-      "episode_title": "The Path to AGI: Scaling, Multimodality and Safety"
-    }
-  ],
-  "Technology entrepreneurship and innovation ecosystems": [
-    {
-      "guest": "Patrick Collison",
-      "episode_id": "patrick-collison-why-silicon-valleys-most-talented-should-leave",
-      "episode_title": "Advice for People in Their 20s: Deep Expertise vs. Iconoclast Paths"
-    }
-  ],
-  "AI research": [
-    {
-      "guest": "Trenton Bricken, Shulta Douglas",
-      "episode_id": "ama-career-advice-given-agi-how-i-research-ft-sholto-trenton",
-      "episode_title": "Ask Me Anything with Trenton Bricken and Shulta Douglas"
-    }
-  ],
-  "Nuclear history and history of science": [
-    {
-      "guest": "Richard Rhodes",
-      "episode_id": "richard-rhodes-the-making-of-the-atomic-bomb",
-      "episode_title": "Richard Rhodes on The Making of the Atomic Bomb and Its Relevance to AI"
-    }
-  ],
-  "Renaissance historian": [
-    {
-      "guest": "Ada Palmer",
-      "episode_id": "how-cosplaying-ancient-rome-led-to-the-scientific-revolution",
-      "episode_title": "Inventing the Renaissance"
-    }
-  ],
-  "Science writing (history of science/mathematics, John von Neumann biography)": [
-    {
-      "guest": "Anno Bata Charya",
-      "episode_id": "ananyo-bhattacharya-john-von-neumann-jewish-genius-and-nuclear-war",
-      "episode_title": "The Visionary Life of John von Neumann"
-    }
-  ],
-  "Labor Economics": [
-    {
-      "guest": "Brian Kaplan",
-      "episode_id": "bryan-caplan-discrimination-poverty-mental-illness",
-      "episode_title": "Labor Econ versus the world"
-    }
-  ],
-  "Artificial General Intelligence, scaling laws, reinforcement learning, pre-training": [
-    {
-      "guest": "Ilya Sutskever",
-      "episode_id": "ilya-sutskever-were-moving-from-the-age-of-scaling-to-the-age-of-research",
-      "episode_title": "The Scaling Era is Over: Ilya Sutskever on RL, Pre-training, and Superintelligence"
-    }
-  ],
-  "Finance and technology analysis, particularly crypto markets and historical patterns in business": [
-    {
-      "guest": "Byrne Hobart",
-      "episode_id": "byrne-hobart-ftx-drugs-twitter-taiwan-monasticism",
-      "episode_title": "The FTX Saga and Beyond: Fraud, Incompetence, and Founder Psychology"
-    }
-  ],
-  "Ancient DNA and human evolutionary genetics": [
-    {
-      "guest": "David Reich",
-      "episode_id": "david-reich-how-one-small-tribe-conquered-the-world-70000-years-ago",
-      "episode_title": "Human Evolution, Ancient DNA, and the Story of Our Past"
-    }
-  ],
-  "AI existential risk and alignment": [
-    {
-      "guest": "Dwarkesh Podcast",
-      "episode_id": "carl-shulman-pt-2-ai-takeover-bio-cyber-attacks-detecting-deception-humanitys-far-future",
-      "episode_title": "AI Takeover Mechanisms: Cyber Attacks, Bioweapons and Human Collaboration"
-    }
-  ],
-  "Theoretical computer science and quantum computing": [
-    {
-      "guest": "Scott Aaronson",
-      "episode_id": "scott-aaronson-quantum-computing-complexity-and-creativity",
-      "episode_title": "On Prodigies, Early Specialization, and the Busy Beaver Function"
-    }
-  ],
-  "Software Engineering and Programming": [
-    {
-      "guest": "RobertMartin",
-      "episode_id": "uncle-bob-the-long-reach-of-code",
-      "episode_title": "The Future of Programming"
-    }
-  ],
-  "AI systems, large language models, machine learning infrastructure, hardware-software co-design": [
-    {
-      "guest": "JeffDean, Noam Shazeer",
-      "episode_id": "jeff-dean-noam-shazeer-25-years-at-google-from-pagerank-to-agi",
-      "episode_title": "The Future of AI Systems: Hardware, Algorithms, and Scaling"
-    }
-  ],
-  "Prediction markets and forecasting": [
-    {
-      "guest": "Stephen Gruget",
-      "episode_id": "stephen-grugett-manifold-markets-founder-predictions-markets-revolutionizing-governance",
-      "episode_title": "Why aren't companies using internal prediction markets?"
-    }
-  ],
-  "Naval history and maritime strategy": [
-    {
-      "guest": "Sarah",
-      "episode_id": "how-hitler-almost-starved-britain-sarah-paine",
-      "episode_title": "Maritime Solutions to Continental Problems: Lessons from Britain's WWII Strategy for Modern Great Power Competition"
-    }
-  ],
-  "Economics and talent identification": [
-    {
-      "guest": "Tyler Cowen",
-      "episode_id": "tyler-cowen-talent-collapse-pessimism-of-sex",
-      "episode_title": "Talent: How to Find Energizers, Creatives, and Winners Across the World"
-    }
-  ],
-  "Semiconductor industry and AI hardware": [
-    {
-      "guest": "Dylan Patel, John Y",
-      "episode_id": "at-asianometry-dylan-patel-how-the-semiconductor-industry-actually-works",
-      "episode_title": "China's AI Potential, Semiconductor Export Controls, and Taiwan Supply Chain Vulnerabilities"
-    }
-  ],
-  "Construction physics and engineering": [
-    {
-      "guest": "Brian Potter",
-      "episode_id": "brian-potter-future-of-construction-ugly-modernism-environmental-review",
-      "episode_title": "Brian Potter on The Line, Construction Economics, and Prefabrication Challenges"
-    }
-  ],
-  "AI safety and large language model development": [
-    {
-      "guest": "Dario Amadei",
-      "episode_id": "will-scaling-work-narration",
-      "episode_title": "Will Scaling Work?"
-    }
-  ],
-  "Human evolutionary biology": [
-    {
-      "guest": "Joseph Henrik",
-      "episode_id": "joseph-henrich-humans-defeated-smarter-species-with-cultural-evolution",
-      "episode_title": "The Collective Brain and Human Expansion: Joseph Henrik on Cultural Evolution"
-    }
-  ],
-  "Economics (price theory, marriage markets, legal systems, cryptocurrency)": [
-    {
-      "guest": "David Friedman",
-      "episode_id": "david-friedman-dating-markets-legal-systems-bitcoin-and-automation",
-      "episode_title": "Interview with Dr. David Friedman on Legal Systems, Dating Markets, and Cryptocurrency"
-    }
-  ],
-  "AI alignment and AI safety": [
-    {
-      "guest": "Eliezer Yudkowsky",
-      "episode_id": "eliezer-yudkowsky-why-ai-will-kill-us-aligning-llms-nature-of-intelligence-scifi-rationality",
-      "episode_title": "Discussion on AI moratorium, alignment challenges, and human intelligence enhancement"
-    }
-  ],
-  "Economic growth and technological impact": [
-    {
-      "guest": "Dwarquish Patel",
-      "episode_id": "tyler-cowen-the-1-bottleneck-to-ai-progress-is-humans",
-      "episode_title": "Why won't we have explosive economic growth 20% plus because of AI?"
-    }
-  ],
-  "Artificial General Intelligence (AGI) and AI safety": [
-    {
-      "guest": "Shane Legg",
-      "episode_id": "shane-legg-deepmind-founder-2028-agi-superhuman-alignment-new-architectures",
-      "episode_title": "Measuring Progress Towards AGI and the Path to Human-Level AI"
+      "guest": "Scott Alexander, Daniel Kokotelo",
+      "episode_id": "ai-2027-month-by-month-model-of-intelligence-explosion-scott-alexander-daniel-kokotajlo",
+      "episode_title": "AI 2027 Scenario Discussion"
     }
   ],
   "Economics (innovation, public goods, Baumol effect)": [
@@ -300,170 +41,25 @@
       "episode_title": "The Grand Innovation Prize and the Baumol Effect"
     }
   ],
-  "Epigenetic reprogramming and aging": [
+  "History of the Napoleonic Wars and global history": [
     {
-      "guest": "Jacob Kimmel",
-      "episode_id": "evolution-designed-us-to-die-fast-we-can-change-that-jacob-kimmel",
-      "episode_title": "The Evolutionary Case Against Longevity"
+      "guest": "Alexander Mika Beretsa",
+      "episode_id": "alexander-mikaberidze-napoleon-war-progress-and-global-order",
+      "episode_title": "Napoleonic Wars, A Global History"
     }
   ],
-  "AI forecasting, intelligence explosion, alignment": [
+  "AI research": [
     {
-      "guest": "Carl Schulman",
-      "episode_id": "carl-shulman-pt-1-intelligence-explosion-primate-evolution-robot-doublings-alignment",
-      "episode_title": "Carl Schulman on Intelligence Explosion and AI Alignment"
+      "guest": "Trenton Bricken, Shulta Douglas",
+      "episode_id": "ama-career-advice-given-agi-how-i-research-ft-sholto-trenton",
+      "episode_title": "Ask Me Anything with Trenton Bricken and Shulta Douglas"
     }
   ],
-  "Learning techniques, skill acquisition, ultra-learning": [
+  "Science writing (history of science/mathematics, John von Neumann biography)": [
     {
-      "guest": "ScottYoung",
-      "episode_id": "scott-young-ultralearning",
-      "episode_title": "Einstein's Miracle Years and Ultra-Learning Principles"
-    }
-  ],
-  "Author and historian specializing in innovation, technology history, and entrepreneurial narratives": [
-    {
-      "guest": "Jimmy Sonny",
-      "episode_id": "jimmy-soni-peter-thiel-elon-musk-and-the-paypal-mafia",
-      "episode_title": "Innovation Under Pressure: Comparing Bell Labs and PayPal"
-    }
-  ],
-  "Georgism and land value tax theory": [
-    {
-      "guest": "Lars Duce",
-      "episode_id": "lars-doucet-progress-poverty-georgism-why-rent-is-too-damn-high",
-      "episode_title": "Land is a big deal"
-    }
-  ],
-  "AI/Large Language Models (Meta's Llama series)": [
-    {
-      "guest": "MarkZuckerberg",
-      "episode_id": "mark-zuckerberg-ai-will-write-most-meta-code-in-18-months",
-      "episode_title": "Llama 4 Launch and AI Strategy Discussion"
-    }
-  ],
-  "Economics": [
-    {
-      "guest": "Tyler Cowen",
-      "episode_id": "tyler-cowen-hayek-keynes-smith-on-ai-animal-spirits-anarchy-growth",
-      "episode_title": "Goat: Who is the Greatest Economist of all time and Why Does it Matter?"
-    },
-    {
-      "guest": "BrianKaplan",
-      "episode_id": "bryan-caplan-nurturing-orphaned-ideas",
-      "episode_title": "Inaugural Episode"
-    }
-  ],
-  "Genomic prediction and polygenic risk scoring for embryo selection in IVF": [
-    {
-      "guest": "Steve Shue",
-      "episode_id": "steve-hsu-intelligence-embryo-selection-the-future-of-humanity",
-      "episode_title": "Genomic Prediction and the Future of Embryo Selection"
-    }
-  ],
-  "Cold War geopolitics in South Asia": [
-    {
-      "guest": "Gabe",
-      "episode_id": "sarah-paine-the-war-for-india-lecture-interview",
-      "episode_title": "The Geopolitical Dynamics of South Asia During the Cold War"
-    }
-  ],
-  "Venture capital and technology investing": [
-    {
-      "guest": "Mark Andreessen",
-      "episode_id": "marc-andreessen-ai-crypto-1000-elon-musks-regrets-vulnerabilities-managerial-revolution",
-      "episode_title": "The Lunar Society podcast with Mark Andreessen"
-    }
-  ],
-  "Historical globalization and the Columbian Exchange": [
-    {
-      "guest": "Charles Mann",
-      "episode_id": "charles-c-mann-americas-before-columbus-scientific-wizardry",
-      "episode_title": "Contingency and Consequence in the Columbian Exchange"
-    }
-  ],
-  "History of technology and philosophy of progress": [
-    {
-      "guest": "Jason Crawford",
-      "episode_id": "jason-crawford-the-roots-of-progress",
-      "episode_title": ""
-    }
-  ],
-  "AI alignment and philosophy of artificial intelligence": [
-    {
-      "guest": "Joe Carl Smith",
-      "episode_id": "joe-carlsmith-preventing-an-ai-takeover",
-      "episode_title": "Otherness and Control in the Age of AGI"
-    }
-  ],
-  "Finance technology, ETFs, and high-frequency trading systems": [
-    {
-      "guest": "BradHarrison",
-      "episode_id": "brett-harrison-ftx-us-former-president-speaks-out",
-      "episode_title": "Brad Harrison on ETFs, High-Frequency Trading, and Lessons from FTX"
-    }
-  ],
-  "technology and systems analysis": [
-    {
-      "guest": "Austin Vernon",
-      "episode_id": "austin-vernon-energy-superabundance-starship-missiles-finding-alpha",
-      "episode_title": "Using Starship as a Kinetic Weapon"
-    }
-  ],
-  "AI, reinforcement learning, and post-training of language models": [
-    {
-      "guest": "John Schulman",
-      "episode_id": "john-schulman-openai-cofounder-reasoning-rlhf-plan-for-2027-agi",
-      "episode_title": ""
-    }
-  ],
-  "Chinese elite politics, economic system, fiscal banking policies": [
-    {
-      "guest": "Victor Xi",
-      "episode_id": "xi-jinpings-paranoid-approach-to-agi-debt-crisis-politburo-politics-victor-shih",
-      "episode_title": ""
-    }
-  ],
-  "AI safety and alignment": [
-    {
-      "guest": "Paul Christiano",
-      "episode_id": "paul-christiano-preventing-an-ai-takeover",
-      "episode_title": "AI Safety, Alignment, and the Path to Beneficial Superintelligence"
-    }
-  ],
-  "Urban economics": [
-    {
-      "guest": "Edward Glazer",
-      "episode_id": "edward-glaeser-cities-terrorism-housing-remote-work",
-      "episode_title": "Lunar Society podcast with Professor Edward Glazer"
-    }
-  ],
-  "Genetics, history, and evolution": [
-    {
-      "guest": "Razib Khan",
-      "episode_id": "razib-khan-genomics-intelligence-and-the-church-of-science",
-      "episode_title": "The Long-Term Equilibrium for Intelligence and Other Genetic Topics"
-    }
-  ],
-  "AI forecasting, timelines, compute scaling, and AI impact on work": [
-    {
-      "guest": "Tame Bessiroglou, Ege Erdo",
-      "episode_id": "agi-is-still-30-years-away-ege-erdil-tamay-besiroglu",
-      "episode_title": "The Intelligence Explosion is Mistaken"
-    }
-  ],
-  "Non-coercive educational philosophy and children's rights": [
-    {
-      "guest": "Sarah Fitz-Claridge",
-      "episode_id": "sarah-fitz-claridge-taking-children-seriously",
-      "episode_title": "Taking Children Seriously: A Non-Coercive Approach to Education"
-    }
-  ],
-  "Economics (macroeconomics, institutional analysis, economic history)": [
-    {
-      "guest": "Tyler Cowen",
-      "episode_id": "tyler-cowen-the-great-reset",
-      "episode_title": "The Great Reset and Economic Dynamism"
+      "guest": "Anno Bata Charya",
+      "episode_id": "ananyo-bhattacharya-john-von-neumann-jewish-genius-and-nuclear-war",
+      "episode_title": "The Visionary Life of John von Neumann"
     }
   ],
   "Artificial Intelligence, specifically AI agents and large language models": [
@@ -473,6 +69,438 @@
       "episode_title": ""
     }
   ],
+  "Military history and strategic leadership": [
+    {
+      "guest": "Andrew Roberts",
+      "episode_id": "andrew-roberts-why-hitler-lost-wwii-churchill-as-applied-historian-napoleon-as-startup-founder",
+      "episode_title": "Discussion on Conflict: The Evolution of Warfare from 1945 to Ukraine"
+    }
+  ],
+  "tools for thought and cognitive learning systems": [
+    {
+      "guest": "Andy Matushak",
+      "episode_id": "andy-matuschak-the-reason-most-learning-tools-fail",
+      "episode_title": "Understanding Memory's Role in Learning Complex Subjects"
+    }
+  ],
+  "Semiconductor industry and AI hardware": [
+    {
+      "guest": "Dylan Patel, John Y",
+      "episode_id": "at-asianometry-dylan-patel-how-the-semiconductor-industry-actually-works",
+      "episode_title": "China's AI Potential, Semiconductor Export Controls, and Taiwan Supply Chain Vulnerabilities"
+    }
+  ],
+  "technology and systems analysis": [
+    {
+      "guest": "Austin Vernon",
+      "episode_id": "austin-vernon-energy-superabundance-starship-missiles-finding-alpha",
+      "episode_title": "Using Starship as a Kinetic Weapon"
+    }
+  ],
+  "Finance nonfiction writing and investigative journalism focused on corporate fraud, financial crises, and market dynamics": [
+    {
+      "guest": "Bethany McLean",
+      "episode_id": "bethany-mclean-enron-ftx-2008-musk-frauds-visionaries",
+      "episode_title": "The Line Between Visionary and Fraudster: Lessons from Enron to FTX"
+    }
+  ],
+  "Finance technology, ETFs, and high-frequency trading systems": [
+    {
+      "guest": "BradHarrison",
+      "episode_id": "brett-harrison-ftx-us-former-president-speaks-out",
+      "episode_title": "Brad Harrison on ETFs, High-Frequency Trading, and Lessons from FTX"
+    }
+  ],
+  "Construction physics and engineering": [
+    {
+      "guest": "Brian Potter",
+      "episode_id": "brian-potter-future-of-construction-ugly-modernism-environmental-review",
+      "episode_title": "Brian Potter on The Line, Construction Economics, and Prefabrication Challenges"
+    }
+  ],
+  "Labor Economics": [
+    {
+      "guest": "Brian Kaplan",
+      "episode_id": "bryan-caplan-discrimination-poverty-mental-illness",
+      "episode_title": "Labor Econ versus the world"
+    }
+  ],
+  "Economics and gender studies (feminism critique)": [
+    {
+      "guest": "Brian Kaplan",
+      "episode_id": "bryan-caplan-feminists-billionaires-and-demagogues",
+      "episode_title": "Brian Kaplan on Don't Be a Feminist"
+    }
+  ],
+  "Economics": [
+    {
+      "guest": "BrianKaplan",
+      "episode_id": "bryan-caplan-nurturing-orphaned-ideas",
+      "episode_title": "Inaugural Episode"
+    },
+    {
+      "guest": "Tyler Cowen",
+      "episode_id": "tyler-cowen-hayek-keynes-smith-on-ai-animal-spirits-anarchy-growth",
+      "episode_title": "Goat: Who is the Greatest Economist of all time and Why Does it Matter?"
+    }
+  ],
+  "Finance and technology analysis, particularly crypto markets and historical patterns in business": [
+    {
+      "guest": "Byrne Hobart",
+      "episode_id": "byrne-hobart-ftx-drugs-twitter-taiwan-monasticism",
+      "episode_title": "The FTX Saga and Beyond: Fraud, Incompetence, and Founder Psychology"
+    }
+  ],
+  "Writer, consultant, investor focusing on finance, technology, and coordination problems": [
+    {
+      "guest": "Byrne Hobart",
+      "episode_id": "byrne-hobart-optionality-stagnation-and-secret-societies",
+      "episode_title": "Byrne Hobart on Coordination, Stagnation, and Optionality"
+    }
+  ],
+  "Innovation policy, high-skill immigration, and agglomeration effects": [
+    {
+      "guest": "Caleb Watney",
+      "episode_id": "caleb-watney-americas-innovation-engine",
+      "episode_title": "America's Innovation Engine is Slowing"
+    }
+  ],
+  "AI forecasting, intelligence explosion, alignment": [
+    {
+      "guest": "Carl Schulman",
+      "episode_id": "carl-shulman-pt-1-intelligence-explosion-primate-evolution-robot-doublings-alignment",
+      "episode_title": "Carl Schulman on Intelligence Explosion and AI Alignment"
+    }
+  ],
+  "AI existential risk and alignment": [
+    {
+      "guest": "Dwarkesh Podcast",
+      "episode_id": "carl-shulman-pt-2-ai-takeover-bio-cyber-attacks-detecting-deception-humanitys-far-future",
+      "episode_title": "AI Takeover Mechanisms: Cyber Attacks, Bioweapons and Human Collaboration"
+    }
+  ],
+  "Historical globalization and the Columbian Exchange": [
+    {
+      "guest": "Charles Mann",
+      "episode_id": "charles-c-mann-americas-before-columbus-scientific-wizardry",
+      "episode_title": "Contingency and Consequence in the Columbian Exchange"
+    }
+  ],
+  "Sociology and study of human accomplishment, excellence, and cultural trends": [
+    {
+      "guest": "Charles Murray",
+      "episode_id": "charles-murray-human-accomplishment-and-the-future-of-liberty",
+      "episode_title": "Human Accomplishment: The Pursuit of Excellence in Arts and Sciences"
+    }
+  ],
+  "International economics, monetary policy, financial crises": [
+    {
+      "guest": "Ken Rogoff",
+      "episode_id": "china-is-digging-out-of-a-crisis-and-americas-luck-is-wearing-thin-ken-rogoff",
+      "episode_title": "China's Economic Challenges, Financial Crises, and US Fiscal Outlook"
+    }
+  ],
+  "Synthetic fuels and energy systems for AI infrastructure": [
+    {
+      "guest": "Casey Hanmer",
+      "episode_id": "china-is-killing-the-us-on-energy-does-that-mean-theyll-win-agi-casey-handmer",
+      "episode_title": "The AI Energy Race: Solar, Synthetic Fuels, and US Competitiveness"
+    }
+  ],
+  "Energy history and geopolitics": [
+    {
+      "guest": "Daniel Yergin",
+      "episode_id": "daniel-yergin-oil-destroyed-hitler-fracking-destroyed-putin",
+      "episode_title": ""
+    }
+  ],
+  "AI safety and scaling laws": [
+    {
+      "guest": "Dario Amodei",
+      "episode_id": "dario-amodei-anthropic-ceo-the-hidden-pattern-behind-every-ai-breakthrough",
+      "episode_title": "The Scaling Laws of AI and Path to AGI"
+    }
+  ],
+  "AI scaling laws, language model development, and AI safety": [
+    {
+      "guest": "Dario Amodei",
+      "episode_id": "dario-amodei-the-highest-stakes-financial-model-in-history",
+      "episode_title": "Not explicitly stated in transcript"
+    }
+  ],
+  "Philosophy of Artificial Intelligence and Cognitive Science": [
+    {
+      "guest": "David Doish",
+      "episode_id": "david-deutsch-ai-america-fun-bayes",
+      "episode_title": "On the Limits of Artificial Intelligence: Hardware, Software, and Creativity"
+    }
+  ],
+  "Economics (price theory, marriage markets, legal systems, cryptocurrency)": [
+    {
+      "guest": "David Friedman",
+      "episode_id": "david-friedman-dating-markets-legal-systems-bitcoin-and-automation",
+      "episode_title": "Interview with Dr. David Friedman on Legal Systems, Dating Markets, and Cryptocurrency"
+    }
+  ],
+  "Ancient DNA and human evolutionary genetics": [
+    {
+      "guest": "David Reich",
+      "episode_id": "david-reich-how-one-small-tribe-conquered-the-world-70000-years-ago",
+      "episode_title": "Human Evolution, Ancient DNA, and the Story of Our Past"
+    }
+  ],
+  "Artificial General Intelligence and Large Language Models": [
+    {
+      "guest": "Demis Hassabis",
+      "episode_id": "demis-hassabis-scaling-superhuman-ais-alphazero-atop-llms-alphafold",
+      "episode_title": "The Path to AGI: Scaling, Multimodality and Safety"
+    }
+  ],
+  "UK government operations, Brexit, and public policy reform": [
+    {
+      "guest": "Dominic Cummings",
+      "episode_id": "dominic-cummings-covid-brexit-fixing-western-governance",
+      "episode_title": "Dominic Cummings on Government Dysfunction and Reform"
+    }
+  ],
+  "Semiconductor industry analysis and AI compute infrastructure": [
+    {
+      "guest": "Dylan",
+      "episode_id": "dylan-patel-deep-dive-on-the-3-big-bottlenecks-to-scaling-ai-compute",
+      "episode_title": "my roommate teaches me semiconductors"
+    }
+  ],
+  "Urban economics": [
+    {
+      "guest": "Edward Glazer",
+      "episode_id": "edward-glaeser-cities-terrorism-housing-remote-work",
+      "episode_title": "Lunar Society podcast with Professor Edward Glazer"
+    }
+  ],
+  "AI alignment and AI safety": [
+    {
+      "guest": "Eliezer Yudkowsky",
+      "episode_id": "eliezer-yudkowsky-why-ai-will-kill-us-aligning-llms-nature-of-intelligence-scifi-rationality",
+      "episode_title": "Discussion on AI moratorium, alignment challenges, and human intelligence enhancement"
+    }
+  ],
+  "Space technology, AI systems, and renewable energy integration": [
+    {
+      "guest": "ElonMusk",
+      "episode_id": "elon-musk-in-36-months-the-cheapest-place-to-put-ai-will-be-space",
+      "episode_title": "Space-Based AI Infrastructure and Energy Scaling"
+    }
+  ],
+  "Epigenetic reprogramming and aging": [
+    {
+      "guest": "Jacob Kimmel",
+      "episode_id": "evolution-designed-us-to-die-fast-we-can-change-that-jacob-kimmel",
+      "episode_title": "The Evolutionary Case Against Longevity"
+    }
+  ],
+  "Effective Altruism, philosophy, and long-termism": [
+    {
+      "guest": "FinnMorehouse",
+      "episode_id": "fin-moorhouse-longtermism-space-entrepreneurship",
+      "episode_title": "Finn Morehouse on EA Prizes, Criticism, and Long-Termism"
+    }
+  ],
+  "AI research, specifically LLMs, ARC benchmark, and the distinction between memorization and intelligence": [
+    {
+      "guest": "Francois Cholet",
+      "episode_id": "francois-chollet-why-the-biggest-ai-models-cant-solve-simple-puzzles",
+      "episode_title": "The ARC Benchmark and Why LLMs Struggle with True Intelligence"
+    }
+  ],
+  "Robotics, reinforcement learning, AI, robotic foundation models": [
+    {
+      "guest": "Sergey Levin",
+      "episode_id": "fully-autonomous-robots-are-much-closer-than-you-think-sergey-levine",
+      "episode_title": ""
+    }
+  ],
+  "Economics, cultural transplant theory, national IQ effects, migration impacts on institutions": [
+    {
+      "guest": "Garrett Jones",
+      "episode_id": "garett-jones-immigration-national-iq-less-democracy",
+      "episode_title": "Interview with Garrett Jones on Cultural Transplant, Democracy and Hive Mind"
+    }
+  ],
+  "Mathematical education and visualization (3Blue1Brown YouTube channel)": [
+    {
+      "guest": "Grant Sanderson",
+      "episode_id": "grant-sanderson-at-3blue1brown-past-present-future-of-mathematics",
+      "episode_title": "On AGI, Mathematical Creativity, and Redirecting Mathematical Talent"
+    }
+  ],
+  "AI scaling and forecasting, internet research, polymathic thinking": [
+    {
+      "guest": "Gwern Brannwin",
+      "episode_id": "gwern-anonymous-writer-who-predicted-ai-trajectory-on-12kyear-salary",
+      "episode_title": "Interview with Gwern Brannwin"
+    }
+  ],
+  "Effective altruism, philanthropy, AI safety, and the 'Most Important Century' thesis": [
+    {
+      "guest": "Holden Karnowski",
+      "episode_id": "holden-karnofsky-historys-most-important-century",
+      "episode_title": "The Most Important Century"
+    }
+  ],
+  "Renaissance historian": [
+    {
+      "guest": "Ada Palmer",
+      "episode_id": "how-cosplaying-ancient-rome-led-to-the-scientific-revolution",
+      "episode_title": "Inventing the Renaissance"
+    }
+  ],
+  "Naval history and maritime strategy": [
+    {
+      "guest": "Sarah",
+      "episode_id": "how-hitler-almost-starved-britain-sarah-paine",
+      "episode_title": "Maritime Solutions to Continental Problems: Lessons from Britain's WWII Strategy for Modern Great Power Competition"
+    }
+  ],
+  "AI research and AGI development": [
+    {
+      "guest": "Elia Sutskaver",
+      "episode_id": "ilya-sutskever-openai-chief-scientist-why-next-token-prediction-could-surpass-human-intelligence",
+      "episode_title": "Interview with Ilya Sutskever on AGI Alignment and AI Future"
+    }
+  ],
+  "Artificial General Intelligence, scaling laws, reinforcement learning, pre-training": [
+    {
+      "guest": "Ilya Sutskever",
+      "episode_id": "ilya-sutskever-were-moving-from-the-age-of-scaling-to-the-age-of-research",
+      "episode_title": "The Scaling Era is Over: Ilya Sutskever on RL, Pre-training, and Superintelligence"
+    }
+  ],
+  "AI safety and governance": [
+    {
+      "guest": "Dwarkesh Podcast",
+      "episode_id": "im-glad-the-anthropic-fight-is-happening-now",
+      "episode_title": "Anthropic vs. the Department of War: AI Ethics, Government Leverage, and the Future of Autonomous Systems"
+    }
+  ],
+  "AI research, specifically reinforcement learning for language models and AI interpretability": [
+    {
+      "guest": "Sholto Douglas, Trenton Bricken",
+      "episode_id": "is-rl-llms-enough-for-agi-sholto-douglas-trenton-bricken",
+      "episode_title": "AI Progress Since Last Year: RL Breakthroughs, Agent Limitations, and Interpretability Insights"
+    }
+  ],
+  "History of technology and philosophy of progress": [
+    {
+      "guest": "Jason Crawford",
+      "episode_id": "jason-crawford-the-roots-of-progress",
+      "episode_title": ""
+    }
+  ],
+  "AI systems, large language models, machine learning infrastructure, hardware-software co-design": [
+    {
+      "guest": "JeffDean, Noam Shazeer",
+      "episode_id": "jeff-dean-noam-shazeer-25-years-at-google-from-pagerank-to-agi",
+      "episode_title": "The Future of AI Systems: Hardware, Algorithms, and Scaling"
+    }
+  ],
+  "Author and historian specializing in innovation, technology history, and entrepreneurial narratives": [
+    {
+      "guest": "Jimmy Sonny",
+      "episode_id": "jimmy-soni-peter-thiel-elon-musk-and-the-paypal-mafia",
+      "episode_title": "Innovation Under Pressure: Comparing Bell Labs and PayPal"
+    }
+  ],
+  "AI alignment and philosophy of artificial intelligence": [
+    {
+      "guest": "Joe Carl Smith",
+      "episode_id": "joe-carlsmith-preventing-an-ai-takeover",
+      "episode_title": "Otherness and Control in the Age of AGI"
+    }
+  ],
+  "AI, reinforcement learning, and post-training of language models": [
+    {
+      "guest": "John Schulman",
+      "episode_id": "john-schulman-openai-cofounder-reasoning-rlhf-plan-for-2027-agi",
+      "episode_title": ""
+    }
+  ],
+  "AI safety, philosophy, long-termism, and existential risk": [
+    {
+      "guest": "Joe Carl Smith",
+      "episode_id": "joseph-carlsmith-utopia-ai-infinite-ethics",
+      "episode_title": "Discussion on AI safety, utopia, infinite ethics, and philosophical foundations of long-termism"
+    }
+  ],
+  "Human evolutionary biology": [
+    {
+      "guest": "Joseph Henrik",
+      "episode_id": "joseph-henrich-humans-defeated-smarter-species-with-cultural-evolution",
+      "episode_title": "The Collective Brain and Human Expansion: Joseph Henrik on Cultural Evolution"
+    }
+  ],
+  "Modern Chinese history and memoir writing, specializing in Mao era": [
+    {
+      "guest": "Jung Chang",
+      "episode_id": "jung-chang-wild-swans-author-living-through-historys-largest-man-made-famine",
+      "episode_title": "Interview with Jung Chang on Wild Swans, Mao biography, and life under Mao"
+    }
+  ],
+  "New York City urban history": [
+    {
+      "guest": "Kenneth T. Jackson",
+      "episode_id": "kenneth-t-jackson-robert-moses-hero-of-new-york",
+      "episode_title": "The Life and Legacy of Robert Moses"
+    }
+  ],
+  "Georgism and land value tax theory": [
+    {
+      "guest": "Lars Duce",
+      "episode_id": "lars-doucet-progress-poverty-georgism-why-rent-is-too-damn-high",
+      "episode_title": "Land is a big deal"
+    }
+  ],
+  "AI scaling laws and AGI development": [
+    {
+      "guest": "Leopold Aschenbrenner",
+      "episode_id": "leopold-aschenbrenner-2027-agi-chinaus-super-intelligence-race-the-return-of-history",
+      "episode_title": "Situational Awareness: The Trillion Dollar Cluster"
+    }
+  ],
+  "political biography and historical analysis of power dynamics": [
+    {
+      "guest": "Robert Caro",
+      "episode_id": "lessons-from-the-years-of-lyndon-johnson-by-robert-caro-narration",
+      "episode_title": "Lessons from the Years of Lyndon Johnson by Robert Caro"
+    }
+  ],
+  "Venture capital and technology investing": [
+    {
+      "guest": "Mark Andreessen",
+      "episode_id": "marc-andreessen-ai-crypto-1000-elon-musks-regrets-vulnerabilities-managerial-revolution",
+      "episode_title": "The Lunar Society podcast with Mark Andreessen"
+    }
+  ],
+  "AI/Large Language Models (Meta's Llama series)": [
+    {
+      "guest": "MarkZuckerberg",
+      "episode_id": "mark-zuckerberg-ai-will-write-most-meta-code-in-18-months",
+      "episode_title": "Llama 4 Launch and AI Strategy Discussion"
+    }
+  ],
+  "Artificial Intelligence and Large Language Models": [
+    {
+      "guest": "MarkZuckerberg",
+      "episode_id": "mark-zuckerberg-llama-3-10b-models-caesar-augustus-1-gw-datacenters",
+      "episode_title": "Meta's Llama 3 Release and AI Strategy Discussion"
+    }
+  ],
+  "Political philosophy (authority, epistemology, ethics)": [
+    {
+      "guest": "Michael Humor",
+      "episode_id": "michael-huemer-anarchy-capitalism-and-progress",
+      "episode_title": "Discussion on Political Authority with Professor Michael Humor"
+    }
+  ],
   "Open source software, tech elite dynamics, philanthropy, and idea machines": [
     {
       "guest": "Nadia Asperova",
@@ -480,17 +508,213 @@
       "episode_title": "Tech Elites, Effective Altruism, and the Future of Idea Machines"
     }
   ],
-  "Theoretical physics and cosmology (with focus on dark energy, vacuum decay, and AI reasoning)": [
+  "Technology innovation, open source leadership, and archaeological technology applications": [
     {
-      "guest": "Adam Brown",
-      "episode_id": "adam-brown-bubble-universes-space-elevators-adscft",
-      "episode_title": ""
+      "guest": "NatFriedman",
+      "episode_id": "nat-friedman-github-ceo-reading-ancient-scrolls-open-source-ai",
+      "episode_title": "The Vesuvius Challenge: Using AI to Read 2,000-Year-Old Scrolls"
+    }
+  ],
+  "Evolutionary biochemistry (origin of life, eukaryotes, mitochondria)": [
+    {
+      "guest": "Nick Lane",
+      "episode_id": "nick-lane-life-as-we-know-it-is-chemically-inevitable",
+      "episode_title": "The Origin of Eukaryotic Life and Implications for Astrobiology"
+    }
+  ],
+  "China's AI development and socio-economic trends": [
+    {
+      "guest": "Dwarkesh Podcast",
+      "episode_id": "notes-on-china",
+      "episode_title": "Two Weeks in China: Scale, Society, and AI Insights"
+    }
+  ],
+  "Technology entrepreneurship and innovation ecosystems": [
+    {
+      "guest": "Patrick Collison",
+      "episode_id": "patrick-collison-why-silicon-valleys-most-talented-should-leave",
+      "episode_title": "Advice for People in Their 20s: Deep Expertise vs. Iconoclast Paths"
+    }
+  ],
+  "Public health logistics, software systems, and pandemic response": [
+    {
+      "guest": "Patrick McKenzie",
+      "episode_id": "patrick-mckenzie-money-laundering-big-tech-censorship-sbf-japan",
+      "episode_title": "The Vaccinate CA Story: Lessons in Pandemic Response and Institutional Failure"
+    }
+  ],
+  "AI safety and alignment": [
+    {
+      "guest": "Paul Christiano",
+      "episode_id": "paul-christiano-preventing-an-ai-takeover",
+      "episode_title": "AI Safety, Alignment, and the Path to Beneficial Superintelligence"
+    }
+  ],
+  "Economic history and Japanese WWII history": [
+    {
+      "guest": "Pradjumna Prasad",
+      "episode_id": "pradyu-prasad-imperial-japan-the-god-emperor-and-militarization-in-the-modern-world",
+      "episode_title": "Discussing Hirohito and the Making of Modern Japan by Herbert P. Bix"
+    }
+  ],
+  "Genetics, history, and evolution": [
+    {
+      "guest": "Razib Khan",
+      "episode_id": "razib-khan-genomics-intelligence-and-the-church-of-science",
+      "episode_title": "The Long-Term Equilibrium for Intelligence and Other Genetic Topics"
+    }
+  ],
+  "Political science, international relations, and public choice theory": [
+    {
+      "guest": "Richard Hanania",
+      "episode_id": "richard-hanania-foreign-policy-fertility-and-wokeness",
+      "episode_title": "Public Choice Theory and the Illusion of Grand Strategy"
+    }
+  ],
+  "Nuclear history and history of science": [
+    {
+      "guest": "Richard Rhodes",
+      "episode_id": "richard-rhodes-the-making-of-the-atomic-bomb",
+      "episode_title": "Richard Rhodes on The Making of the Atomic Bomb and Its Relevance to AI"
+    }
+  ],
+  "Reinforcement Learning": [
+    {
+      "guest": "RichardSutton",
+      "episode_id": "richard-sutton-father-of-rl-thinks-llms-are-a-dead-end",
+      "episode_title": "The Era of Experience: Rethinking AI Beyond Large Language Models"
+    }
+  ],
+  "Social science and economics with focus on signaling theory, hidden motives, and long-term thinking": [
+    {
+      "guest": "Robin Hanson",
+      "episode_id": "robin-hanson-the-long-view",
+      "episode_title": "The Long View and Hidden Motives in Human Behavior"
+    }
+  ],
+  "Cryptocurrency exchange and effective altruism entrepreneurship": [
+    {
+      "guest": "Sam Beckman-Fried",
+      "episode_id": "sam-bankman-fried-crypto-altruism-and-leadership",
+      "episode_title": "Lunar Society Podcast Interview"
+    }
+  ],
+  "Military history and grand strategy": [
+    {
+      "guest": "Sarah Payne",
+      "episode_id": "sarah-c-m-paine-why-dictators-keep-making-the-same-fatal-mistake",
+      "episode_title": "Grand Strategy"
+    }
+  ],
+  "Non-coercive educational philosophy and children's rights": [
+    {
+      "guest": "Sarah Fitz-Claridge",
+      "episode_id": "sarah-fitz-claridge-taking-children-seriously",
+      "episode_title": "Taking Children Seriously: A Non-Coercive Approach to Education"
     }
   ],
   "Chinese revolutionary history and military strategy": [
     {
       "guest": "Dwarkesh Podcast",
       "episode_id": "sarah-paine-how-mao-conquered-china-lecture-interview",
+      "episode_title": ""
+    }
+  ],
+  "Russo-Chinese relations": [
+    {
+      "guest": "Dwarkesh Podcast",
+      "episode_id": "sarah-paine-how-russia-sabotaged-chinas-rise",
+      "episode_title": ""
+    }
+  ],
+  "Cold War geopolitics in South Asia": [
+    {
+      "guest": "Gabe",
+      "episode_id": "sarah-paine-the-war-for-india-lecture-interview",
+      "episode_title": "The Geopolitical Dynamics of South Asia During the Cold War"
+    }
+  ],
+  "Japanese military culture and Bushido": [
+    {
+      "guest": "Unknown Speaker",
+      "episode_id": "sarah-paine-why-japan-lost-wwii-lecture-interview",
+      "episode_title": ""
+    }
+  ],
+  "Cold War history": [
+    {
+      "guest": "Dwarkesh Podcast",
+      "episode_id": "sarah-paine-why-russia-lost-the-cold-war",
+      "episode_title": "Why Russia Lost the Cold War"
+    }
+  ],
+  "Cloud computing, AI infrastructure, and technology strategy as CEO of Microsoft": [
+    {
+      "guest": "Satya Nadella",
+      "episode_id": "satya-nadella-how-microsoft-is-preparing-for-agi",
+      "episode_title": "Microsoft's AI Infrastructure Strategy and the Future of AI"
+    }
+  ],
+  "Technology leadership, AI infrastructure, cloud computing, and quantum computing": [
+    {
+      "guest": "Satya Nadella",
+      "episode_id": "satya-nadella-microsofts-agi-plan-quantum-breakthrough",
+      "episode_title": "Microsoft's AI and Quantum Breakthroughs: Azure, Agents, and the Future of Computing"
+    }
+  ],
+  "Theoretical computer science and quantum computing": [
+    {
+      "guest": "Scott Aaronson",
+      "episode_id": "scott-aaronson-quantum-computing-complexity-and-creativity",
+      "episode_title": "On Prodigies, Early Specialization, and the Busy Beaver Function"
+    }
+  ],
+  "Learning techniques, skill acquisition, ultra-learning": [
+    {
+      "guest": "ScottYoung",
+      "episode_id": "scott-young-ultralearning",
+      "episode_title": "Einstein's Miracle Years and Ultra-Learning Principles"
+    }
+  ],
+  "Artificial General Intelligence (AGI) and AI safety": [
+    {
+      "guest": "Shane Legg",
+      "episode_id": "shane-legg-deepmind-founder-2028-agi-superhuman-alignment-new-architectures",
+      "episode_title": "Measuring Progress Towards AGI and the Path to Human-Level AI"
+    }
+  ],
+  "AI research specializing in long context mechanisms and mechanistic interpretability": [
+    {
+      "guest": "Sholto Douglas, Trenton Bricken",
+      "episode_id": "sholto-douglas-trenton-bricken-how-llms-actually-think",
+      "episode_title": "Exploring Long Context and In-Context Learning in AI Models"
+    }
+  ],
+  "Reinforcement learning and AI theory": [
+    {
+      "guest": "RichardSutton",
+      "episode_id": "some-thoughts-on-the-sutton-interview",
+      "episode_title": "The Bitter Lesson"
+    }
+  ],
+  "Prediction markets and forecasting": [
+    {
+      "guest": "Stephen Gruget",
+      "episode_id": "stephen-grugett-manifold-markets-founder-predictions-markets-revolutionizing-governance",
+      "episode_title": "Why aren't companies using internal prediction markets?"
+    }
+  ],
+  "Genomic prediction and polygenic risk scoring for embryo selection in IVF": [
+    {
+      "guest": "Steve Shue",
+      "episode_id": "steve-hsu-intelligence-embryo-selection-the-future-of-humanity",
+      "episode_title": "Genomic Prediction and the Future of Embryo Selection"
+    }
+  ],
+  "Mathematics": [
+    {
+      "guest": "Terence Tao",
+      "episode_id": "terence-tao-kepler-newton-and-the-true-nature-of-mathematical-discovery",
       "episode_title": ""
     }
   ],
@@ -501,46 +725,32 @@
       "episode_title": "The Constraints of Political Leadership and the Challenge of Governing in Era of Technological Revolution"
     }
   ],
-  "Japanese military culture and Bushido": [
+  "Economics and talent identification": [
     {
-      "guest": "Unknown Speaker",
-      "episode_id": "sarah-paine-why-japan-lost-wwii-lecture-interview",
-      "episode_title": ""
+      "guest": "Tyler Cowen",
+      "episode_id": "tyler-cowen-talent-collapse-pessimism-of-sex",
+      "episode_title": "Talent: How to Find Energizers, Creatives, and Winners Across the World"
     }
   ],
-  "Technology leadership, AI infrastructure, cloud computing, and quantum computing": [
+  "Economic growth and technological impact": [
     {
-      "guest": "Satya Nadella",
-      "episode_id": "satya-nadella-microsofts-agi-plan-quantum-breakthrough",
-      "episode_title": "Microsoft's AI and Quantum Breakthroughs: Azure, Agents, and the Future of Computing"
+      "guest": "Dwarquish Patel",
+      "episode_id": "tyler-cowen-the-1-bottleneck-to-ai-progress-is-humans",
+      "episode_title": "Why won't we have explosive economic growth 20% plus because of AI?"
     }
   ],
-  "Energy history and geopolitics": [
+  "Economics (macroeconomics, institutional analysis, economic history)": [
     {
-      "guest": "Daniel Yergin",
-      "episode_id": "daniel-yergin-oil-destroyed-hitler-fracking-destroyed-putin",
-      "episode_title": ""
+      "guest": "Tyler Cowen",
+      "episode_id": "tyler-cowen-the-great-reset",
+      "episode_title": "The Great Reset and Economic Dynamism"
     }
   ],
-  "History of the Napoleonic Wars and global history": [
+  "Software Engineering and Programming": [
     {
-      "guest": "Alexander Mika Beretsa",
-      "episode_id": "alexander-mikaberidze-napoleon-war-progress-and-global-order",
-      "episode_title": "Napoleonic Wars, A Global History"
-    }
-  ],
-  "AI research, specifically LLMs, ARC benchmark, and the distinction between memorization and intelligence": [
-    {
-      "guest": "Francois Cholet",
-      "episode_id": "francois-chollet-why-the-biggest-ai-models-cant-solve-simple-puzzles",
-      "episode_title": "The ARC Benchmark and Why LLMs Struggle with True Intelligence"
-    }
-  ],
-  "Finance nonfiction writing and investigative journalism focused on corporate fraud, financial crises, and market dynamics": [
-    {
-      "guest": "Bethany McLean",
-      "episode_id": "bethany-mclean-enron-ftx-2008-musk-frauds-visionaries",
-      "episode_title": "The Line Between Visionary and Fraudster: Lessons from Enron to FTX"
+      "guest": "RobertMartin",
+      "episode_id": "uncle-bob-the-long-reach-of-code",
+      "episode_title": "The Future of Programming"
     }
   ],
   "AI-generated video production and multimedia storytelling": [
@@ -550,165 +760,11 @@
       "episode_title": "The Future of AI Firms"
     }
   ],
-  "Cold War history": [
+  "History, biology, economics, and climate science with focus on pandemics, Roman Empire, and slavery": [
     {
-      "guest": "Dwarkesh Podcast",
-      "episode_id": "sarah-paine-why-russia-lost-the-cold-war",
-      "episode_title": "Why Russia Lost the Cold War"
-    }
-  ],
-  "Military history and strategic leadership": [
-    {
-      "guest": "Andrew Roberts",
-      "episode_id": "andrew-roberts-why-hitler-lost-wwii-churchill-as-applied-historian-napoleon-as-startup-founder",
-      "episode_title": "Discussion on Conflict: The Evolution of Warfare from 1945 to Ukraine"
-    }
-  ],
-  "Social science and economics with focus on signaling theory, hidden motives, and long-term thinking": [
-    {
-      "guest": "Robin Hanson",
-      "episode_id": "robin-hanson-the-long-view",
-      "episode_title": "The Long View and Hidden Motives in Human Behavior"
-    }
-  ],
-  "Semiconductor industry analysis and AI compute infrastructure": [
-    {
-      "guest": "Dylan",
-      "episode_id": "dylan-patel-deep-dive-on-the-3-big-bottlenecks-to-scaling-ai-compute",
-      "episode_title": "my roommate teaches me semiconductors"
-    }
-  ],
-  "Robotics, reinforcement learning, AI, robotic foundation models": [
-    {
-      "guest": "Sergey Levin",
-      "episode_id": "fully-autonomous-robots-are-much-closer-than-you-think-sergey-levine",
+      "guest": "Kyle Harper",
+      "episode_id": "why-rome-actually-fell-plagues-slavery-ice-age-kyle-harper",
       "episode_title": ""
-    }
-  ],
-  "Economics and gender studies (feminism critique)": [
-    {
-      "guest": "Brian Kaplan",
-      "episode_id": "bryan-caplan-feminists-billionaires-and-demagogues",
-      "episode_title": "Brian Kaplan on Don't Be a Feminist"
-    }
-  ],
-  "AI forecasting and scenario analysis": [
-    {
-      "guest": "Scott Alexander, Daniel Kokotelo",
-      "episode_id": "ai-2027-month-by-month-model-of-intelligence-explosion-scott-alexander-daniel-kokotajlo",
-      "episode_title": "AI 2027 Scenario Discussion"
-    }
-  ],
-  "Technology innovation, open source leadership, and archaeological technology applications": [
-    {
-      "guest": "NatFriedman",
-      "episode_id": "nat-friedman-github-ceo-reading-ancient-scrolls-open-source-ai",
-      "episode_title": "The Vesuvius Challenge: Using AI to Read 2,000-Year-Old Scrolls"
-    }
-  ],
-  "Cryptocurrency exchange and effective altruism entrepreneurship": [
-    {
-      "guest": "Sam Beckman-Fried",
-      "episode_id": "sam-bankman-fried-crypto-altruism-and-leadership",
-      "episode_title": "Lunar Society Podcast Interview"
-    }
-  ],
-  "New York City urban history": [
-    {
-      "guest": "Kenneth T. Jackson",
-      "episode_id": "kenneth-t-jackson-robert-moses-hero-of-new-york",
-      "episode_title": "The Life and Legacy of Robert Moses"
-    }
-  ],
-  "AI scaling laws and AGI development": [
-    {
-      "guest": "Leopold Aschenbrenner",
-      "episode_id": "leopold-aschenbrenner-2027-agi-chinaus-super-intelligence-race-the-return-of-history",
-      "episode_title": "Situational Awareness: The Trillion Dollar Cluster"
-    }
-  ],
-  "Quantitative trading, decision-making, hiring, and crypto": [
-    {
-      "guest": "Augustine LeBron",
-      "episode_id": "agustin-lebron-trading-crypto-and-adverse-selection",
-      "episode_title": "The Laws of Trading with Augustine LeBron"
-    }
-  ],
-  "UK government operations, Brexit, and public policy reform": [
-    {
-      "guest": "Dominic Cummings",
-      "episode_id": "dominic-cummings-covid-brexit-fixing-western-governance",
-      "episode_title": "Dominic Cummings on Government Dysfunction and Reform"
-    }
-  ],
-  "AI research specializing in long context mechanisms and mechanistic interpretability": [
-    {
-      "guest": "Sholto Douglas, Trenton Bricken",
-      "episode_id": "sholto-douglas-trenton-bricken-how-llms-actually-think",
-      "episode_title": "Exploring Long Context and In-Context Learning in AI Models"
-    }
-  ],
-  "Effective Altruism, philosophy, and long-termism": [
-    {
-      "guest": "FinnMorehouse",
-      "episode_id": "fin-moorhouse-longtermism-space-entrepreneurship",
-      "episode_title": "Finn Morehouse on EA Prizes, Criticism, and Long-Termism"
-    }
-  ],
-  "Cloud computing, AI infrastructure, and technology strategy as CEO of Microsoft": [
-    {
-      "guest": "Satya Nadella",
-      "episode_id": "satya-nadella-how-microsoft-is-preparing-for-agi",
-      "episode_title": "Microsoft's AI Infrastructure Strategy and the Future of AI"
-    }
-  ],
-  "tools for thought and cognitive learning systems": [
-    {
-      "guest": "Andy Matushak",
-      "episode_id": "andy-matuschak-the-reason-most-learning-tools-fail",
-      "episode_title": "Understanding Memory's Role in Learning Complex Subjects"
-    }
-  ],
-  "Mathematics": [
-    {
-      "guest": "Terence Tao",
-      "episode_id": "terence-tao-kepler-newton-and-the-true-nature-of-mathematical-discovery",
-      "episode_title": ""
-    }
-  ],
-  "AI scaling laws, language model development, and AI safety": [
-    {
-      "guest": "Dario Amodei",
-      "episode_id": "dario-amodei-the-highest-stakes-financial-model-in-history",
-      "episode_title": "Not explicitly stated in transcript"
-    }
-  ],
-  "AI research, specifically reinforcement learning for language models and AI interpretability": [
-    {
-      "guest": "Sholto Douglas, Trenton Bricken",
-      "episode_id": "is-rl-llms-enough-for-agi-sholto-douglas-trenton-bricken",
-      "episode_title": "AI Progress Since Last Year: RL Breakthroughs, Agent Limitations, and Interpretability Insights"
-    }
-  ],
-  "Artificial Intelligence and Large Language Models": [
-    {
-      "guest": "MarkZuckerberg",
-      "episode_id": "mark-zuckerberg-llama-3-10b-models-caesar-augustus-1-gw-datacenters",
-      "episode_title": "Meta's Llama 3 Release and AI Strategy Discussion"
-    }
-  ],
-  "Writer, consultant, investor focusing on finance, technology, and coordination problems": [
-    {
-      "guest": "Byrne Hobart",
-      "episode_id": "byrne-hobart-optionality-stagnation-and-secret-societies",
-      "episode_title": "Byrne Hobart on Coordination, Stagnation, and Optionality"
-    }
-  ],
-  "Mathematical education and visualization (3Blue1Brown YouTube channel)": [
-    {
-      "guest": "Grant Sanderson",
-      "episode_id": "grant-sanderson-at-3blue1brown-past-present-future-of-mathematics",
-      "episode_title": "On AGI, Mathematical Creativity, and Redirecting Mathematical Talent"
     }
   ],
   "Effective Altruism and long-termism": [
@@ -718,74 +774,18 @@
       "episode_title": "Discussion on What We Owe the Future"
     }
   ],
-  "International economics, monetary policy, financial crises": [
+  "AI safety and large language model development": [
     {
-      "guest": "Ken Rogoff",
-      "episode_id": "china-is-digging-out-of-a-crisis-and-americas-luck-is-wearing-thin-ken-rogoff",
-      "episode_title": "China's Economic Challenges, Financial Crises, and US Fiscal Outlook"
+      "guest": "Dario Amadei",
+      "episode_id": "will-scaling-work-narration",
+      "episode_title": "Will Scaling Work?"
     }
   ],
-  "History, biology, economics, and climate science with focus on pandemics, Roman Empire, and slavery": [
+  "Chinese elite politics, economic system, fiscal banking policies": [
     {
-      "guest": "Kyle Harper",
-      "episode_id": "why-rome-actually-fell-plagues-slavery-ice-age-kyle-harper",
+      "guest": "Victor Xi",
+      "episode_id": "xi-jinpings-paranoid-approach-to-agi-debt-crisis-politburo-politics-victor-shih",
       "episode_title": ""
-    }
-  ],
-  "Space technology, AI systems, and renewable energy integration": [
-    {
-      "guest": "ElonMusk",
-      "episode_id": "elon-musk-in-36-months-the-cheapest-place-to-put-ai-will-be-space",
-      "episode_title": "Space-Based AI Infrastructure and Energy Scaling"
-    }
-  ],
-  "Economic history and Japanese WWII history": [
-    {
-      "guest": "Pradjumna Prasad",
-      "episode_id": "pradyu-prasad-imperial-japan-the-god-emperor-and-militarization-in-the-modern-world",
-      "episode_title": "Discussing Hirohito and the Making of Modern Japan by Herbert P. Bix"
-    }
-  ],
-  "Reinforcement learning and AI theory": [
-    {
-      "guest": "RichardSutton",
-      "episode_id": "some-thoughts-on-the-sutton-interview",
-      "episode_title": "The Bitter Lesson"
-    }
-  ],
-  "AI research and AGI development": [
-    {
-      "guest": "Elia Sutskaver",
-      "episode_id": "ilya-sutskever-openai-chief-scientist-why-next-token-prediction-could-surpass-human-intelligence",
-      "episode_title": "Interview with Ilya Sutskever on AGI Alignment and AI Future"
-    }
-  ],
-  "Sociology and study of human accomplishment, excellence, and cultural trends": [
-    {
-      "guest": "Charles Murray",
-      "episode_id": "charles-murray-human-accomplishment-and-the-future-of-liberty",
-      "episode_title": "Human Accomplishment: The Pursuit of Excellence in Arts and Sciences"
-    }
-  ],
-  "Political science, international relations, and public choice theory": [
-    {
-      "guest": "Richard Hanania",
-      "episode_id": "richard-hanania-foreign-policy-fertility-and-wokeness",
-      "episode_title": "Public Choice Theory and the Illusion of Grand Strategy"
-    }
-  ],
-  "AI safety, philosophy, long-termism, and existential risk": [
-    {
-      "guest": "Joe Carl Smith",
-      "episode_id": "joseph-carlsmith-utopia-ai-infinite-ethics",
-      "episode_title": "Discussion on AI safety, utopia, infinite ethics, and philosophical foundations of long-termism"
-    }
-  ],
-  "Modern Chinese history and memoir writing, specializing in Mao era": [
-    {
-      "guest": "Jung Chang",
-      "episode_id": "jung-chang-wild-swans-author-living-through-historys-largest-man-made-famine",
-      "episode_title": "Interview with Jung Chang on Wild Swans, Mao biography, and life under Mao"
     }
   ]
 }
